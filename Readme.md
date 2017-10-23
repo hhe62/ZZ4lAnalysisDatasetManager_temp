@@ -1,2 +1,2 @@
-Meta data and scripts for manipulating CMS Monte Carlo and data and ntuples based on
+Dataset Manager for the ZZ4l Analysis based on
 https://github.com/kdlong/AnalysisDatasetManager
