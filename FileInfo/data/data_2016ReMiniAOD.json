@@ -1,0 +1,166 @@
+{
+    "data_DoubleEG_Run2016B-03Feb2017_ver2" : {
+        "luminosity" : 1,
+        "DAS Name" : "DoubleEG/Run2016B-03Feb2017_ver2/MINIAODSIM"
+    },
+    "data_DoubleEG_Run2016C-03Feb2017-v1" : {
+        "luminosity" : 1,
+        "DAS Name" : "DoubleEG/Run2016C-03Feb2017-v1/MINIAODSIM"
+    },
+    "data_DoubleEG_Run2016D-03Feb2017-v1" : {
+        "luminosity" : 1, 
+        "DAS Name" : "DoubleEG/Run2016D-03Feb2017-v1/MINIAODSIM"
+    },
+    "data_DoubleEG_Run2016E-03Feb2017-v1" : {
+        "luminosity" : 1, 
+        "DAS Name" : "DoubleEG/Run2016E-03Feb2017-v1/MINIAODSIM"
+    },
+    "data_DoubleEG_Run2016F-03Feb2017-v1" : {
+        "luminosity" : 1, 
+        "DAS Name" : "DoubleEG/Run2016F-03Feb2017-v1/MINIAODSIM"
+    },
+    "data_DoubleEG_Run2016G-03Feb2017-v1" : {
+        "luminosity" : 1, 
+        "DAS Name" : "DoubleEG/Run2016G-03Feb2017-v1/MINIAODSIM"
+    },
+    "data_DoubleEG_Run2016H-03Feb2017_ver2" : {
+        "luminosity" : 1, 
+        "DAS Name" : "DoubleEG/Run2016H-03Feb2017_ver2/MINIAODSIM"
+    },
+    "data_DoubleEG_Run2016H-03Feb2017_ver3" : {
+        "luminosity" : 1, 
+        "DAS Name" : "DoubleEG/Run2016H-03Feb2017_ver3/MINIAODSIM"
+    },
+    "data_DoubleMuon_Run2016B-03Feb2017_ver2" : {
+        "luminosity" : 1,
+        "DAS Name" : "DoubleMuon/Run2016B-03Feb2017_ver2/MINIAODSIM"
+    },
+    "data_DoubleMuon_Run2016C-03Feb2017-v1" : {
+        "luminosity" : 1,
+        "DAS Name" : "DoubleMuon/Run2016C-03Feb2017-v1/MINIAODSIM"
+    },
+    "data_DoubleMuon_Run2016D-03Feb2017-v1" : {
+        "luminosity" : 1,
+        "DAS Name" : "DoubleMuon/Run2016D-03Feb2017-v1/MINIAODSIM"
+    },
+    "data_DoubleMuon_Run2016E-03Feb2017-v1" : {
+        "luminosity" : 1, 
+        "DAS Name" : "DoubleMuon/Run2016E-03Feb2017-v1/MINIAODSIM"
+    },
+    "data_DoubleMuon_Run2016F-03Feb2017-v1" : {
+        "luminosity" : 1, 
+        "DAS Name" : "DoubleMuon/Run2016F-03Feb2017-v1/MINIAODSIM"
+    },
+    "data_DoubleMuon_Run2016G-03Feb2017-v1" : {
+        "luminosity" : 1, 
+        "DAS Name" : "DoubleMuon/Run2016G-03Feb2017-v1/MINIAODSIM"
+    },
+    "data_DoubleMuon_Run2016H-03Feb2017_ver2" : {
+        "luminosity" : 1, 
+        "DAS Name" : "DoubleMuon/Run2016H-03Feb2017_ver2/MINIAODSIM"
+    },
+    "data_DoubleMuon_Run2016H-03Feb2017_ver3" : {
+        "luminosity" : 1, 
+        "DAS Name" : "DoubleMuon/Run2016H-03Feb2017_ver3/MINIAODSIM"
+    },
+    "data_MuonEG_Run2016B-03Feb2017_ver2" : {
+        "luminosity" : 1,
+        "DAS Name" : "MuonEG/Run2016B-03Feb2017_ver2/MINIAODSIM"
+    },
+    "data_MuonEG_Run2016C-03Feb2017-v1" : {
+        "luminosity" : 1,
+        "DAS Name" : "MuonEG/Run2016C-03Feb2017-v1/MINIAODSIM"
+    },
+    "data_MuonEG_Run2016D-03Feb2017-v1" : {
+        "luminosity" : 1,
+        "DAS Name" : "MuonEG/Run2016D-03Feb2017-v1/MINIAODSIM"
+    },
+    "data_MuonEG_Run2016E-03Feb2017-v1" : {
+        "luminosity" : 1, 
+        "DAS Name" : "MuonEG/Run2016E-03Feb2017-v1/MINIAODSIM"
+    },
+    "data_MuonEG_Run2016F-03Feb2017-v1" : {
+        "luminosity" : 1, 
+        "DAS Name" : "MuonEG/Run2016F-03Feb2017-v1/MINIAODSIM"
+    },
+    "data_MuonEG_Run2016G-03Feb2017-v1" : {
+        "luminosity" : 1, 
+        "DAS Name" : "MuonEG/Run2016G-03Feb2017-v1/MINIAODSIM"
+    },
+    "data_MuonEG_Run2016H-03Feb2017_ver2" : {
+        "luminosity" : 1, 
+        "DAS Name" : "MuonEG/Run2016H-03Feb2017_ver2/MINIAODSIM"
+    },
+    "data_MuonEG_Run2016H-03Feb2017_ver3" : {
+        "luminosity" : 1, 
+        "DAS Name" : "MuonEG/Run2016H-03Feb2017_ver3/MINIAODSIM"
+    },
+    "data_SingleMuon_Run2016B-03Feb2017_ver2" : {
+        "luminosity" : 1, 
+        "DAS Name" : "MuonEG/Run2016B-03Feb2017-v1/MINIAODSIM"
+    },
+    "data_SingleMuon_Run2016C-03Feb2017-v1" : {
+        "luminosity" : 1,
+        "DAS Name" : "SingleMuon/Run2016C-03Feb2017-v1/MINIAODSIM"
+    },
+    "data_SingleMuon_Run2016D-03Feb2017-v1" : {
+        "luminosity" : 1,
+        "DAS Name" : "SingleMuon/Run2016D-03Feb2017-v1/MINIAODSIM"
+    },
+    "data_SingleMuon_Run2016E-03Feb2017-v1" : {
+        "luminosity" : 1, 
+        "DAS Name" : "SingleMuon/Run2016E-03Feb2017-v1/MINIAODSIM"
+    },
+    "data_SingleMuon_Run2016F-03Feb2017-v1" : {
+        "luminosity" : 1, 
+        "DAS Name" : "SingleMuon/Run2016F-03Feb2017-v1/MINIAODSIM"
+    },
+    "data_SingleMuon_Run2016G-03Feb2017-v1" : {
+        "luminosity" : 1, 
+        "DAS Name" : "SingleMuon/Run2016G-03Feb2017-v1/MINIAODSIM"
+    },
+    "data_SingleMuon_Run2016H-03Feb2017_ver2" : {
+        "luminosity" : 1, 
+        "DAS Name" : "SingleMuon/Run2016H-03Feb2017_ver2/MINIAODSIM"
+    },
+    "data_SingleMuon_Run2016H-03Feb2017_ver3" : {
+        "luminosity" : 1, 
+        "DAS Name" : "SingleMuon/Run2016H-03Feb2017_ver3/MINIAODSIM"
+    },
+    "data_SingleElectron_Run2016B-03Feb2017_ver2" : {
+        "luminosity" : 1,
+        "DAS Name" : "SingleElectron/Run2016B-03Feb2017_ver2/MINIAODSIM"
+    },
+    "data_SingleElectron_Run2016C-03Feb2017-v1" : {
+        "luminosity" : 1,
+        "DAS Name" : "SingleElectron/Run2016C-03Feb2017-v1/MINIAODSIM"
+    },
+    "data_SingleElectron_Run2016D-03Feb2017-v1" : {
+        "luminosity" : 1,
+        "DAS Name" : "SingleElectron/Run2016D-03Feb2017-v1/MINIAODSIM"
+    },
+    "data_SingleElectron_Run2016E-03Feb2017-v1" : {
+        "luminosity" : 1, 
+        "DAS Name" : "SingleElectron/Run2016E-03Feb2017-v1/MINIAODSIM"
+    },
+    "data_SingleElectron_Run2016F-03Feb2017-v1" : {
+        "luminosity" : 1, 
+        "DAS Name" : "SingleElectron/Run2016F-03Feb2017-v1/MINIAODSIM"
+    },
+    "data_SingleElectron_Run2016G-03Feb2017-v1" : {
+        "luminosity" : 1, 
+        "DAS Name" : "SingleElectron/Run2016G-03Feb2017-v1/MINIAODSIM"
+    },
+    "data_SingleElectron_Run2016H-03Feb2017_ver2" : {
+        "luminosity" : 1, 
+        "DAS Name" : "SingleElectron/Run2016H-03Feb2017_ver2/MINIAODSIM"
+    },
+    "data_SingleElectron_Run2016H-03Feb2017_ver3" : {
+        "luminosity" : 1, 
+        "DAS Name" : "SingleElectron/Run2016H-03Feb2017_ver3/MINIAODSIM"
+    },
+    "DataEWKCorrected" : {
+        "luminosity" : 1, 
+        "DAS Name" : "Includes all previous"
+    }
+}
