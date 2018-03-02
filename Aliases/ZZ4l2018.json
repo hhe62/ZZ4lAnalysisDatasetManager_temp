@@ -1,5 +1,11 @@
 {
       "State" : {
+        "eeee" : {
+        },
+        "eemm" : {
+        },
+        "mmmm" : {
+        }
       },
       "Event" : {
          "doubleMuDZPass" : "(HLT_Mu17_TrkIsoVVL_Mu8_TrkIsoVVL_DZ_Mass3p8Pass || HLT_Mu17_TrkIsoVVL_Mu8_TrkIsoVVL_DZ_Mass8Pass)",
