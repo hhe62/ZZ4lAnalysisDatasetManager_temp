@@ -91,104 +91,104 @@
         "file_path" : "/store/user/uhussain/UWVVZZ_MC_22Feb2018/GluGluHToZZTo4L_M125_13TeV_powheg2_JHUGenV7011_pythia8_ext1/*.root",
         "plot_group" : "ggHZZ4l"
     },
-    "DoubleEG_Run2016B-17Nov2017-v1" : {
-        "file_path" : "/store/user/uhussain/UWVVZZ_DATA_2016B_20Feb2018/DoubleEG_17Nov2017-v1/*.root",
+    "DoubleEG_Run2017B-17Nov2017-v1" : {
+        "file_path" : "/store/user/uhussain/UWVVZZ_DATA_2017B_20Feb2018/DoubleEG_17Nov2017-v1/*.root",
         "plot_group" : "data"
     },
-    "DoubleEG_Run2016C-17Nov2017-v1" : {
-        "file_path" : "/store/user/uhussain/UWVVZZ_DATA_2016C_20Feb2018/DoubleEG_17Nov2017-v1/*.root",
+    "DoubleEG_Run2017C-17Nov2017-v1" : {
+        "file_path" : "/store/user/uhussain/UWVVZZ_DATA_2017C_20Feb2018/DoubleEG_17Nov2017-v1/*.root",
         "plot_group" : "data"
     },
-    "DoubleEG_Run2016D-17Nov2017-v1" : {
-        "file_path" : "/store/user/uhussain/UWVVZZ_DATA_2016D_20Feb2018/DoubleEG_17Nov2017-v1/*.root",
+    "DoubleEG_Run2017D-17Nov2017-v1" : {
+        "file_path" : "/store/user/uhussain/UWVVZZ_DATA_2017D_20Feb2018/DoubleEG_17Nov2017-v1/*.root",
         "plot_group" : "data"
     },
-    "DoubleEG_Run2016E-17Nov2017-v1" : {
-        "file_path" : "/store/user/uhussain/UWVVZZ_DATA_2016E_20Feb2018/DoubleEG_17Nov2017-v1/*.root",
+    "DoubleEG_Run2017E-17Nov2017-v1" : {
+        "file_path" : "/store/user/uhussain/UWVVZZ_DATA_2017E_20Feb2018/DoubleEG_17Nov2017-v1/*.root",
         "plot_group" : "data"
     },
-    "DoubleEG_Run2016F-17Nov2017-v1" : {
-        "file_path" : "/store/user/uhussain/UWVVZZ_DATA_2016F_20Feb2018/DoubleEG_17Nov2017-v1/*.root",
+    "DoubleEG_Run2017F-17Nov2017-v1" : {
+        "file_path" : "/store/user/uhussain/UWVVZZ_DATA_2017F_20Feb2018/DoubleEG_17Nov2017-v1/*.root",
         "plot_group" : "data"
     },
-    "DoubleMuon_Run2016B-17Nov2017-v1" : {
-            "file_path" : "/store/user/uhussain/UWVVZZ_DATA_2016B_20Feb2018/DoubleMuon_17Nov2017-v1/*.root",
+    "DoubleMuon_Run2017B-17Nov2017-v1" : {
+            "file_path" : "/store/user/uhussain/UWVVZZ_DATA_2017B_20Feb2018/DoubleMuon_17Nov2017-v1/*.root",
             "plot_group" : "data"
     },
-    "DoubleMuon_Run2016C-17Nov2017-v1" : {
-        "file_path" : "/store/user/uhussain/UWVVZZ_DATA_2016C_20Feb2018/DoubleMuon_17Nov2017-v1/*.root",
+    "DoubleMuon_Run2017C-17Nov2017-v1" : {
+        "file_path" : "/store/user/uhussain/UWVVZZ_DATA_2017C_20Feb2018/DoubleMuon_17Nov2017-v1/*.root",
         "plot_group" : "data"
     },
-    "DoubleMuon_Run2016D-17Nov2017-v1" : {
-        "file_path" : "/store/user/uhussain/UWVVZZ_DATA_2016D_20Feb2018/DoubleMuon_17Nov2017-v1/*.root",
+    "DoubleMuon_Run2017D-17Nov2017-v1" : {
+        "file_path" : "/store/user/uhussain/UWVVZZ_DATA_2017D_20Feb2018/DoubleMuon_17Nov2017-v1/*.root",
         "plot_group" : "data"
     },
-    "DoubleMuon_Run2016E-17Nov2017-v1" : {
-        "file_path" : "/store/user/uhussain/UWVVZZ_DATA_2016E_20Feb2018/DoubleMuon_17Nov2017-v1/*.root",
+    "DoubleMuon_Run2017E-17Nov2017-v1" : {
+        "file_path" : "/store/user/uhussain/UWVVZZ_DATA_2017E_20Feb2018/DoubleMuon_17Nov2017-v1/*.root",
         "plot_group" : "data"
     },
-    "DoubleMuon_Run2016F-17Nov2017-v1" : {
-        "file_path" : "/store/user/uhussain/UWVVZZ_DATA_2016F_20Feb2018/DoubleMuon_17Nov2017-v1/*.root",
+    "DoubleMuon_Run2017F-17Nov2017-v1" : {
+        "file_path" : "/store/user/uhussain/UWVVZZ_DATA_2017F_20Feb2018/DoubleMuon_17Nov2017-v1/*.root",
         "plot_group" : "data"
     },
-    "MuonEG_Run2016B-17Nov2017-v1" : {
-        "file_path" : "/store/user/uhussain/UWVVZZ_DATA_2016B_20Feb2018/MuonEG_17Nov2017-v1/*.root",
+    "MuonEG_Run2017B-17Nov2017-v1" : {
+        "file_path" : "/store/user/uhussain/UWVVZZ_DATA_2017B_20Feb2018/MuonEG_17Nov2017-v1/*.root",
         "plot_group" : "data"
     },
-    "MuonEG_Run2016C-17Nov2017-v1" : {
-        "file_path" : "/store/user/uhussain/UWVVZZ_DATA_2016C_20Feb2018/MuonEG_17Nov2017-v1/*.root",
+    "MuonEG_Run2017C-17Nov2017-v1" : {
+        "file_path" : "/store/user/uhussain/UWVVZZ_DATA_2017C_20Feb2018/MuonEG_17Nov2017-v1/*.root",
         "plot_group" : "data"
     },
-    "MuonEG_Run2016D-17Nov2017-v1" : {
-        "file_path" : "/store/user/uhussain/UWVVZZ_DATA_2016D_20Feb2018/MuonEG_17Nov2017-v1/*.root",
+    "MuonEG_Run2017D-17Nov2017-v1" : {
+        "file_path" : "/store/user/uhussain/UWVVZZ_DATA_2017D_20Feb2018/MuonEG_17Nov2017-v1/*.root",
         "plot_group" : "data"
     },
-    "MuonEG_Run2016E-17Nov2017-v1" : {
-        "file_path" : "/store/user/uhussain/UWVVZZ_DATA_2016E_20Feb2018/MuonEG_17Nov2017-v1/*.root",
+    "MuonEG_Run2017E-17Nov2017-v1" : {
+        "file_path" : "/store/user/uhussain/UWVVZZ_DATA_2017E_20Feb2018/MuonEG_17Nov2017-v1/*.root",
         "plot_group" : "data"
     },
-    "MuonEG_Run2016F-17Nov2017-v1" : {
-        "file_path" : "/store/user/uhussain/UWVVZZ_DATA_2016F_20Feb2018/MuonEG_17Nov2017-v1/*.root",
+    "MuonEG_Run2017F-17Nov2017-v1" : {
+        "file_path" : "/store/user/uhussain/UWVVZZ_DATA_2017F_20Feb2018/MuonEG_17Nov2017-v1/*.root",
         "plot_group" : "data"
     },
-    "SingleMuon_Run2016B-17Nov2017-v1" : {
-        "file_path" : "/store/user/uhussain/UWVVZZ_DATA_2016B_20Feb2018/SingleMuon_17Nov2017-v1/*.root",
+    "SingleMuon_Run2017B-17Nov2017-v1" : {
+        "file_path" : "/store/user/uhussain/UWVVZZ_DATA_2017B_20Feb2018/SingleMuon_17Nov2017-v1/*.root",
         "plot_group" : "data"
     },
-    "SingleMuon_Run2016C-17Nov2017-v1" : {
-        "file_path" : "/store/user/uhussain/UWVVZZ_DATA_2016C_20Feb2018/SingleMuon_17Nov2017-v1/*.root",
+    "SingleMuon_Run2017C-17Nov2017-v1" : {
+        "file_path" : "/store/user/uhussain/UWVVZZ_DATA_2017C_20Feb2018/SingleMuon_17Nov2017-v1/*.root",
         "plot_group" : "data"
     },
-    "SingleMuon_Run2016D-17Nov2017-v1" : {
-        "file_path" : "/store/user/uhussain/UWVVZZ_DATA_2016D_20Feb2018/SingleMuon_17Nov2017-v1/*.root",
+    "SingleMuon_Run2017D-17Nov2017-v1" : {
+        "file_path" : "/store/user/uhussain/UWVVZZ_DATA_2017D_20Feb2018/SingleMuon_17Nov2017-v1/*.root",
         "plot_group" : "data"
     },
-    "SingleMuon_Run2016E-17Nov2017-v1" : {
-        "file_path" : "/store/user/uhussain/UWVVZZ_DATA_2016E_20Feb2018/SingleMuon_17Nov2017-v1/*.root",
+    "SingleMuon_Run2017E-17Nov2017-v1" : {
+        "file_path" : "/store/user/uhussain/UWVVZZ_DATA_2017E_20Feb2018/SingleMuon_17Nov2017-v1/*.root",
         "plot_group" : "data"
     },
-    "SingleMuon_Run2016F-17Nov2017-v1" : {
-        "file_path" : "/store/user/uhussain/UWVVZZ_DATA_2016F_20Feb2018/SingleMuon_17Nov2017-v1/*.root",
+    "SingleMuon_Run2017F-17Nov2017-v1" : {
+        "file_path" : "/store/user/uhussain/UWVVZZ_DATA_2017F_20Feb2018/SingleMuon_17Nov2017-v1/*.root",
         "plot_group" : "data"
     },
-    "SingleElectron_Run2016B-17Nov2017-v1" : {
-        "file_path" : "/store/user/uhussain//UWVVZZ_DATA_2016B_20Feb2018/SingleElectron_17Nov2017-v1/*.root",
+    "SingleElectron_Run2017B-17Nov2017-v1" : {
+        "file_path" : "/store/user/uhussain//UWVVZZ_DATA_2017B_20Feb2018/SingleElectron_17Nov2017-v1/*.root",
         "plot_group" : "data"
     },
-    "SingleElectron_Run2016C-17Nov2017-v1" : {
-        "file_path" : "/store/user/uhussain/UWVVZZ_DATA_2016C_20Feb2018/SingleElectron_17Nov2017-v1/*.root",
+    "SingleElectron_Run2017C-17Nov2017-v1" : {
+        "file_path" : "/store/user/uhussain/UWVVZZ_DATA_2017C_20Feb2018/SingleElectron_17Nov2017-v1/*.root",
         "plot_group" : "data"
     },
-    "SingleElectron_Run2016D-17Nov2017-v1" : {
-        "file_path" : "/store/user/uhussain/UWVVZZ_DATA_2016D_20Feb2018/SingleElectron_17Nov2017-v1/*.root",
+    "SingleElectron_Run2017D-17Nov2017-v1" : {
+        "file_path" : "/store/user/uhussain/UWVVZZ_DATA_2017D_20Feb2018/SingleElectron_17Nov2017-v1/*.root",
         "plot_group" : "data"
     },
-    "SingleElectron_Run2016E-17Nov2017-v1" : {
-        "file_path" : "/store/user/uhussain/UWVVZZ_DATA_2016E_20Feb2018/SingleElectron_17Nov2017-v1/*.root",
+    "SingleElectron_Run2017E-17Nov2017-v1" : {
+        "file_path" : "/store/user/uhussain/UWVVZZ_DATA_2017E_20Feb2018/SingleElectron_17Nov2017-v1/*.root",
         "plot_group" : "data"
     },
-    "SingleElectron_Run2016F-17Nov2017-v1" : {
-        "file_path" : "/store/user/uhussain/UWVVZZ_DATA_2016F_20Feb2018/SingleElectron_17Nov2017-v1/*.root",
+    "SingleElectron_Run2017F-17Nov2017-v1" : {
+        "file_path" : "/store/user/uhussain/UWVVZZ_DATA_2017F_20Feb2018/SingleElectron_17Nov2017-v1/*.root",
         "plot_group" : "data"
-    },
+    }
 }
