@@ -1,0 +1,174 @@
+{  
+   "l1Pt": {  
+        "Initialize": {  
+            "type": "TH1F",
+            "nbins": 20,
+            "xmin": 0,
+            "xmax": 200
+        },
+        "Attributes": {  
+            "GetXaxis().SetTitle": "Leading lepton p_{T} [GeV]",  
+            "GetYaxis().SetTitle": "Events / 10 GeV",
+            "GetYaxis().SetTitleOffset": 1.2  
+        }
+    },
+   "l1Eta": {  
+        "Initialize": {  
+            "type": "TH1F",
+            "nbins": 15,
+            "xmin": -2.5,
+            "xmax": 2.5
+        },
+        "Attributes": {  
+            "GetXaxis().SetTitle": "Leading lepton #eta",  
+            "GetYaxis().SetTitle": "Events",
+            "SetMaximum": 35  
+        }
+    },
+   "l2Pt": {  
+        "Initialize": {  
+            "type": "TH1F",
+            "nbins": 20,
+            "xmin": 0,
+            "xmax": 200
+        },
+        "Attributes": {  
+            "GetXaxis().SetTitle": "Lepton 2 p_{T} [GeV]",  
+            "GetYaxis().SetTitle": "Events / 10 GeV",
+            "GetYaxis().SetTitleOffset": 1.2  
+        }
+    },
+   "l2Eta": {  
+        "Initialize": {  
+            "type": "TH1F",
+            "nbins": 15,
+            "xmin": -2.5,
+            "xmax": 2.5
+        },
+        "Attributes": {  
+            "GetXaxis().SetTitle": "Lepton 2 #eta",  
+            "GetYaxis().SetTitle": "Events",
+            "GetYaxis().SetTitleOffset": 1.2,
+            "SetMaximum": 35  
+        }
+    },
+   "l3Pt": {  
+        "Initialize": {  
+            "type": "TH1F",
+            "nbins": 20,
+            "xmin": 0,
+            "xmax": 200
+        },
+        "Attributes": {  
+            "GetXaxis().SetTitle": "Lepton 3 p_{T} [GeV]",  
+            "GetYaxis().SetTitle": "Events",
+            "GetYaxis().SetTitleOffset": 1.2  
+        }
+    },
+   "l3Eta": {  
+        "Initialize": {  
+            "type": "TH1F",
+            "nbins": 15,
+            "xmin": -2.5,
+            "xmax": 2.5
+        },
+        "Attributes": {  
+            "GetXaxis().SetTitle": "Lepton 3 #eta",  
+            "GetYaxis().SetTitle": "Events",
+            "GetYaxis().SetTitleOffset": 1.2,
+            "SetMaximum": 35  
+        }
+    },
+   "l4Pt": {  
+        "Initialize": {  
+            "type": "TH1F",
+            "nbins": 20,
+            "xmin": 0,
+            "xmax": 200
+        },
+        "Attributes": {  
+            "GetXaxis().SetTitle": "Lepton 4 p_{T} [GeV]",  
+            "GetYaxis().SetTitle": "Events",
+            "GetYaxis().SetTitleOffset": 1.2  
+        }
+    },
+   "l4Eta": {  
+        "Initialize": {  
+            "type": "TH1F",
+            "nbins": 15,
+            "xmin": -2.5,
+            "xmax": 2.5
+        },
+        "Attributes": {  
+            "GetXaxis().SetTitle": "Lepton 4 #eta",  
+            "GetYaxis().SetTitle": "Events",
+            "GetYaxis().SetTitleOffset": 1.2,
+            "SetMaximum": 35  
+        }
+    },
+   "Z1Pt": {  
+        "Initialize": {  
+            "type": "TH1F",
+            "nbins": 30,
+            "xmin": 0,
+            "xmax": 300
+        },
+        "Attributes": {  
+            "GetXaxis().SetTitle": "Z_{1} p_{T} [GeV]",  
+            "GetYaxis().SetTitle": "Events / 10 GeV",
+            "GetYaxis().SetTitleOffset": 1.2  
+        }
+    },
+  "Z1Mass": {  
+        "Initialize": {  
+            "type": "TH1F",
+            "nbins": 40,
+            "xmin": 40,
+            "xmax": 120
+        },
+        "Attributes": {  
+            "GetXaxis().SetTitle": "m_{Z_{1}} [GeV]",  
+            "GetYaxis().SetTitle": "Events / 2 GeV", 
+            "GetYaxis().SetTitleOffset": 1.2
+        }
+    },
+   "Z2Pt": {  
+        "Initialize": {  
+            "type": "TH1F",
+            "nbins": 30,
+            "xmin": 0,
+            "xmax": 300
+        },
+        "Attributes": {  
+            "GetXaxis().SetTitle": "Z_{2} p_{T} [GeV]",  
+            "GetYaxis().SetTitle": "Events / 10 GeV",
+            "GetYaxis().SetTitleOffset": 1.2  
+        }
+    },
+  "Z2Mass": {  
+        "Initialize": {  
+            "type": "TH1F",
+            "nbins": 60,
+            "xmin": 0,
+            "xmax": 120
+        },
+        "Attributes": {  
+            "GetXaxis().SetTitle": "m_{Z_{2}} [GeV]",  
+            "GetYaxis().SetTitle": "Events / 2 GeV", 
+            "GetYaxis().SetTitleOffset": 1.2
+        }
+    },
+   "Mass": {  
+        "Initialize": {  
+            "type": "TH1F",
+            "nbins": 32,
+            "xmin": 0,
+            "xmax": 800
+        },
+        "Attributes": {  
+            "GetXaxis().SetTitle": "m_{4l} [GeV]",  
+            "GetYaxis().SetTitle": "Events / 25 GeV",
+            "GetYaxis().SetTitleOffset": 1.2
+        }
+    },
+}
