@@ -1,0 +1,60 @@
+{
+    "qqZZ-powheg" : {
+        "Name" : "ZZ",
+        "Style" : "fill-lightblue",
+        "add_perc_error" : 0.0,
+        "Members" : [
+            "ZZTo4L-powheg_ext1"
+        ]
+    },
+
+    "HZZ-signal" : {
+        "Name" : "VV",
+        "Style" : "fill-lightred",
+        "add_perc_error" : 0.0,
+        "Members" : [
+            "ggHZZ_ext1",
+            "ttH_HToZZ_4L_ext1",
+            "WminusHToZZ_ext1",
+            "WplusHToZZ_ext1",
+            "ZHToZZ_4L"
+
+        ]
+    },
+    "ggZZ" : {
+        "Name" : "ZZ",
+        "Style" : "fill-blue",
+        "add_perc_error" : 0.0,
+        "Members" : [
+            "GluGluZZTo4e",
+            "GluGluZZTo4mu",
+            "GluGluZZTo2e2mu",
+            "GluGluZZTo2e2tau",
+            "GluGluZZTo2mu2tau"
+        ]
+    },
+    "dy-jets" : {
+        "Name" : "Drell-Yan",
+        "Style" : "fill-green",
+        "Members" : [
+            "DYJetsToLL_M10to50",
+            "DYJetsToLLM-50_ext1"
+        ]
+    },
+    "top" : {
+        "Name" : "ttbar",
+        "Style" : "fill-yellow",
+        "add_perc_error" : 0.0,
+        "Members" : [
+            "TTJets-amcatnlo",
+            "TTTo2L2Nu-powheg"
+        ]
+    },
+    "data_2017" : {
+        "Name" : "Data",
+        "Style" : "data",
+        "Members" : [
+            "AllData"
+        ]
+    }
+}
