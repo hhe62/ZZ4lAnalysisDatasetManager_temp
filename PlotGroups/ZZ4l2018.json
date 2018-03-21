@@ -9,7 +9,7 @@
     },
 
     "HZZ-signal" : {
-        "Name" : "VV",
+        "Name" : "HZZ",
         "Style" : "fill-lightred",
         "add_perc_error" : 0.0,
         "Members" : [
