@@ -1,0 +1,150 @@
+{
+    "DoubleEG_Run2017B-17Nov2017-v1" : {
+        "file_path" : "/data/uhussain/ZplusLAnalysisJobs2018_2018-09-26/2018-09-26-DoubleEG_Run2017B-17Nov2017-v1-ZplusL2018-ZplusLBaseTo4lVeto-v1/*",
+        "plot_group" : "data-2017"
+    },
+    "DoubleEG_Run2017C-17Nov2017-v1" : {
+        "file_path" : "/data/uhussain/ZplusLAnalysisJobs2018_2018-09-26/2018-09-26-DoubleEG_Run2017C-17Nov2017-v1-ZplusL2018-ZplusLBaseTo4lVeto-v1/*",
+        "plot_group" : "data-2017"
+    },
+    "DoubleEG_Run2017D-17Nov2017-v1" : {
+        "file_path" : "/data/uhussain/ZplusLAnalysisJobs2018_2018-09-26/2018-09-26-DoubleEG_Run2017D-17Nov2017-v1-ZplusL2018-ZplusLBaseTo4lVeto-v1/*",
+        "plot_group" : "data-2017"
+    },
+    "DoubleEG_Run2017E-17Nov2017-v1" : {
+        "file_path" : "/data/uhussain/ZplusLAnalysisJobs2018_2018-09-26/2018-09-26-DoubleEG_Run2017E-17Nov2017-v1-ZplusL2018-ZplusLBaseTo4lVeto-v1/*",
+        "plot_group" : "data-2017"
+    },
+    "DoubleEG_Run2017F-17Nov2017-v1" : {
+        "file_path" : "/data/uhussain/ZplusLAnalysisJobs2018_2018-09-26/2018-09-26-DoubleEG_Run2017F-17Nov2017-v1-ZplusL2018-ZplusLBaseTo4lVeto-v1/*",
+        "plot_group" : "data-2017"
+    },
+    "DoubleMuon_Run2017B-17Nov2017-v1" : {
+            "file_path" : "/data/uhussain/ZplusLAnalysisJobs2018_2018-09-26/2018-09-26-DoubleMuon_Run2017B-17Nov2017-v1-ZplusL2018-ZplusLBaseTo4lVeto-v1/*",
+            "plot_group" : "data-2017"
+    },
+    "DoubleMuon_Run2017C-17Nov2017-v1" : {
+        "file_path" : "/data/uhussain/ZplusLAnalysisJobs2018_2018-09-26/2018-09-26-DoubleMuon_Run2017C-17Nov2017-v1-ZplusL2018-ZplusLBaseTo4lVeto-v1/*",
+        "plot_group" : "data-2017"
+    },
+    "DoubleMuon_Run2017D-17Nov2017-v1" : {
+        "file_path" : "/data/uhussain/ZplusLAnalysisJobs2018_2018-09-26/2018-09-26-DoubleMuon_Run2017D-17Nov2017-v1-ZplusL2018-ZplusLBaseTo4lVeto-v1/*",
+        "plot_group" : "data-2017"
+    },
+    "DoubleMuon_Run2017E-17Nov2017-v1" : {
+        "file_path" : "/data/uhussain/ZplusLAnalysisJobs2018_2018-09-26/2018-09-26-DoubleMuon_Run2017E-17Nov2017-v1-ZplusL2018-ZplusLBaseTo4lVeto-v1/*",
+        "plot_group" : "data-2017"
+    },
+    "DoubleMuon_Run2017F-17Nov2017-v1" : {
+        "file_path" : "/data/uhussain/ZplusLAnalysisJobs2018_2018-09-26/2018-09-26-DoubleMuon_Run2017F-17Nov2017-v1-ZplusL2018-ZplusLBaseTo4lVeto-v1/*",
+        "plot_group" : "data-2017"
+    },
+    "MuonEG_Run2017B-17Nov2017-v1" : {
+        "file_path" : "/data/uhussain/ZplusLAnalysisJobs2018_2018-09-26/2018-09-26-MuonEG_Run2017B-17Nov2017-v1-ZplusL2018-ZplusLBaseTo4lVeto-v1/*",
+        "plot_group" : "data-2017"
+    },
+    "MuonEG_Run2017C-17Nov2017-v1" : {
+        "file_path" : "/data/uhussain/ZplusLAnalysisJobs2018_2018-09-26/2018-09-26-MuonEG_Run2017C-17Nov2017-v1-ZplusL2018-ZplusLBaseTo4lVeto-v1/*",
+        "plot_group" : "data-2017"
+    },
+    "MuonEG_Run2017D-17Nov2017-v1" : {
+        "file_path" : "/data/uhussain/ZplusLAnalysisJobs2018_2018-09-26/2018-09-26-MuonEG_Run2017D-17Nov2017-v1-ZplusL2018-ZplusLBaseTo4lVeto-v1/*",
+        "plot_group" : "data-2017"
+    },
+    "MuonEG_Run2017E-17Nov2017-v1" : {
+        "file_path" : "/data/uhussain/ZplusLAnalysisJobs2018_2018-09-26/2018-09-26-MuonEG_Run2017E-17Nov2017-v1-ZplusL2018-ZplusLBaseTo4lVeto-v1/*",
+        "plot_group" : "data-2017"
+    },
+    "MuonEG_Run2017F-17Nov2017-v1" : {
+        "file_path" : "/data/uhussain/ZplusLAnalysisJobs2018_2018-09-26/2018-09-26-MuonEG_Run2017F-17Nov2017-v1-ZplusL2018-ZplusLBaseTo4lVeto-v1/*",
+        "plot_group" : "data-2017"
+    },
+    "SingleMuon_Run2017B-17Nov2017-v1" : {
+        "file_path" : "/data/uhussain/ZplusLAnalysisJobs2018_2018-09-26/2018-09-26-SingleMuon_Run2017B-17Nov2017-v1-ZplusL2018-ZplusLBaseTo4lVeto-v1/*",
+        "plot_group" : "data-2017"
+    },
+    "SingleMuon_Run2017C-17Nov2017-v1" : {
+        "file_path" : "/data/uhussain/ZplusLAnalysisJobs2018_2018-09-26/2018-09-26-SingleMuon_Run2017C-17Nov2017-v1-ZplusL2018-ZplusLBaseTo4lVeto-v1/*",
+        "plot_group" : "data-2017"
+    },
+    "SingleMuon_Run2017D-17Nov2017-v1" : {
+        "file_path" : "/data/uhussain/ZplusLAnalysisJobs2018_2018-09-26/2018-09-26-SingleMuon_Run2017D-17Nov2017-v1-ZplusL2018-ZplusLBaseTo4lVeto-v1/*",
+        "plot_group" : "data-2017"
+    },
+    "SingleMuon_Run2017E-17Nov2017-v1" : {
+        "file_path" : "/data/uhussain/ZplusLAnalysisJobs2018_2018-09-26/2018-09-26-SingleMuon_Run2017E-17Nov2017-v1-ZplusL2018-ZplusLBaseTo4lVeto-v1/*",
+        "plot_group" : "data-2017"
+    },
+    "SingleMuon_Run2017F-17Nov2017-v1" : {
+        "file_path" : "/data/uhussain/ZplusLAnalysisJobs2018_2018-09-26/2018-09-26-SingleMuon_Run2017F-17Nov2017-v1-ZplusL2018-ZplusLBaseTo4lVeto-v1/*",
+        "plot_group" : "data-2017"
+    },
+    "SingleElectron_Run2017B-17Nov2017-v1" : {
+        "file_path" : "/data/uhussain/ZplusLAnalysisJobs2018_2018-09-26/2018-09-26-SingleElectron_Run2017B-17Nov2017-v1-ZplusL2018-ZplusLBaseTo4lVeto-v1/*",
+        "plot_group" : "data-2017"
+    },
+    "SingleElectron_Run2017C-17Nov2017-v1" : {
+        "file_path" : "/data/uhussain/ZplusLAnalysisJobs2018_2018-09-26/2018-09-26-SingleElectron_Run2017C-17Nov2017-v1-ZplusL2018-ZplusLBaseTo4lVeto-v1/*",
+        "plot_group" : "data-2017"
+    },
+    "SingleElectron_Run2017D-17Nov2017-v1" : {
+        "file_path" : "/data/uhussain/ZplusLAnalysisJobs2018_2018-09-26/2018-09-26-SingleElectron_Run2017D-17Nov2017-v1-ZplusL2018-ZplusLBaseTo4lVeto-v1/*",
+        "plot_group" : "data-2017"
+    },
+    "SingleElectron_Run2017E-17Nov2017-v1" : {
+        "file_path" : "/data/uhussain/ZplusLAnalysisJobs2018_2018-09-26/2018-09-26-SingleElectron_Run2017E-17Nov2017-v1-ZplusL2018-ZplusLBaseTo4lVeto-v1/*",
+        "plot_group" : "data-2017"
+    },
+    "SingleElectron_Run2017F-17Nov2017-v1" : {
+        "file_path" : "/data/uhussain/ZplusLAnalysisJobs2018_2018-09-26/2018-09-26-SingleElectron_Run2017F-17Nov2017-v1-ZplusL2018-ZplusLBaseTo4lVeto-v1/*",
+        "plot_group" : "data-2017"
+    },
+    "wz3lnu-mg5amcnlo" : {
+        "file_path" : "/data/uhussain/ZplusLAnalysisJobs2018_2018-09-26/2018-09-26-WZTo3LNu-ZplusL2018-ZplusLBaseTo4lVeto-v1/*",
+        "plot_group" : "wz3lnu-amcnlo"
+    },
+    "zz4l-powheg" : {
+        "file_path" : "/data/uhussain/ZplusLAnalysisJobs2018_2018-09-26/2018-09-26-ZZTo4L-powheg-ZplusL2018-ZplusLBaseTo4lVeto-v1/*",
+        "plot_group" : "qqZZ-powheg"
+    },
+    "TTJets-amcatnlo" : {
+        "file_path" : "/data/uhussain/ZplusLAnalysisJobs2018_2018-09-26/2018-09-26-TTJets-amcatnlo-ZplusL2018-ZplusLBaseTo4lVeto-v1/*",
+         "plot_group" : "top"
+    },
+    "TTTo2L2Nu-powheg" : {
+        "file_path" : "/data/uhussain/ZplusLAnalysisJobs2018_2018-09-26/2018-09-26-TTTo2L2Nu-powheg-ZplusL2018-ZplusLBaseTo4lVeto-v1/*",
+        "plot_group" : "top"
+    },
+    "TTTo2L2Nu-powheg_PSweights" : {
+        "file_path" : "/data/uhussain/ZplusLAnalysisJobs2018_2018-09-26/2018-09-26-TTTo2L2Nu-powheg_PSweights-ZplusL2018-ZplusLBaseTo4lVeto-v1/*",
+        "plot_group" : "top"
+    },
+    "DYJetsToLL_M10to50" : {
+        "file_path" : "/data/uhussain/ZplusLAnalysisJobs2018_2018-09-26/2018-09-26-DYJetsToLL_M10to50-ZplusL2018-ZplusLBaseTo4lVeto-v1/*",
+        "plot_group" : "dy-jets" 
+    },
+    "DYJetsToLLM-50" : {
+        "file_path" : "/data/uhussain/ZplusLAnalysisJobs2018_2018-09-26/2018-09-26-DYJetsToLLM-50-ZplusL2018-ZplusLBaseTo4lVeto-v1/*",
+        "plot_group" : "dy-jets" 
+    },
+    "ggZZ4e" : {
+        "file_path" : "/data/uhussain/ZplusLAnalysisJobs2018_2018-09-26/2018-09-26-GluGluZZTo4e-ZplusL2018-ZplusLBaseTo4lVeto-v1/*",
+        "plot_group" : "ggZZ"
+    },
+    "ggZZ4m" : {
+        "file_path" : "/data/uhussain/ZplusLAnalysisJobs2018_2018-09-26/2018-09-26-GluGluZZTo4mu-ZplusL2018-ZplusLBaseTo4lVeto-v1/*",
+        "plot_group" : "ggZZ"
+    },
+    "ggZZ2e2mu" : {
+        "file_path" : "/data/uhussain/ZplusLAnalysisJobs2018_2018-09-26/2018-09-26-GluGluZZTo2e2mu-ZplusL2018-ZplusLBaseTo4lVeto-v1/*",
+        "plot_group" : "ggZZ"
+    },
+    "GluGluZZTo2e2tau" : {
+        "file_path" : "/data/uhussain/ZplusLAnalysisJobs2018_2018-09-26/2018-09-26-GluGluZZTo2e2tau-ZplusL2018-ZplusLBaseTo4lVeto-v1/*",
+        "plot_group" : "ggZZ"
+    },
+    "GluGluZZTo2mu2tau" : {
+        "file_path" : "/data/uhussain/ZplusLAnalysisJobs2018_2018-09-26/2018-09-26-GluGluZZTo2mu2tau-ZplusL2018-ZplusLBaseTo4lVeto-v1/*",
+        "plot_group" : "ggZZ"
+    }
+}
