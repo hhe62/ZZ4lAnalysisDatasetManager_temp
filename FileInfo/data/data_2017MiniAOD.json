@@ -1,101 +1,101 @@
 {
-    "DoubleEG_Run2017B-17Nov2017-v1" : {
+    "data_DoubleEG_Run2017B-17Nov2017-v1" : {
         "luminosity" : 1,
         "DAS Name" : "DoubleEG/Run2017B-17Nov2017-v1/MINIAOD"
     },
-    "DoubleEG_Run2017C-17Nov2017-v1" : {
+    "data_DoubleEG_Run2017C-17Nov2017-v1" : {
         "luminosity" : 1,
         "DAS Name" : "DoubleEG/Run2017C-17Nov2017-v1/MINIAOD"
     },
-    "DoubleEG_Run2017D-17Nov2017-v1" : {
+    "data_DoubleEG_Run2017D-17Nov2017-v1" : {
         "luminosity" : 1, 
         "DAS Name" : "DoubleEG/Run2017D-17Nov2017-v1/MINIAOD"
     },
-    "DoubleEG_Run2017E-17Nov2017-v1" : {
+    "data_DoubleEG_Run2017E-17Nov2017-v1" : {
         "luminosity" : 1, 
         "DAS Name" : "DoubleEG/Run2017E-17Nov2017-v1/MINIAOD"
     },
-    "DoubleEG_Run2017F-17Nov2017-v1" : {
+    "data_DoubleEG_Run2017F-17Nov2017-v1" : {
         "luminosity" : 1, 
         "DAS Name" : "DoubleEG/Run2017F-17Nov2017-v1/MINIAOD"
     },
-    "DoubleMuon_Run2017B-17Nov2017-v1" : {
+    "data_DoubleMuon_Run2017B-17Nov2017-v1" : {
         "luminosity" : 1,
         "DAS Name" : "DoubleMuon/Run2017B-17Nov2017-v1/MINIAOD"
     },
-    "DoubleMuon_Run2017C-17Nov2017-v1" : {
+    "data_DoubleMuon_Run2017C-17Nov2017-v1" : {
         "luminosity" : 1,
         "DAS Name" : "DoubleMuon/Run2017C-17Nov2017-v1/MINIAOD"
     },
-    "DoubleMuon_Run2017D-17Nov2017-v1" : {
+    "data_DoubleMuon_Run2017D-17Nov2017-v1" : {
         "luminosity" : 1,
         "DAS Name" : "DoubleMuon/Run2017D-17Nov2017-v1/MINIAOD"
     },
-    "DoubleMuon_Run2017E-17Nov2017-v1" : {
+    "data_DoubleMuon_Run2017E-17Nov2017-v1" : {
         "luminosity" : 1, 
         "DAS Name" : "DoubleMuon/Run2017E-17Nov2017-v1/MINIAOD"
     },
-    "DoubleMuon_Run2017F-17Nov2017-v1" : {
+    "data_DoubleMuon_Run2017F-17Nov2017-v1" : {
         "luminosity" : 1, 
         "DAS Name" : "DoubleMuon/Run2017F-17Nov2017-v1/MINIAOD"
     },
-    "MuonEG_Run2017B-17Nov2017-v1" : {
+    "data_MuonEG_Run2017B-17Nov2017-v1" : {
         "luminosity" : 1,
         "DAS Name" : "MuonEG/Run2017B-17Nov2017-v1/MINIAOD"
     },
-    "MuonEG_Run2017C-17Nov2017-v1" : {
+    "data_MuonEG_Run2017C-17Nov2017-v1" : {
         "luminosity" : 1,
         "DAS Name" : "MuonEG/Run2017C-17Nov2017-v1/MINIAOD"
     },
-    "MuonEG_Run2017D-17Nov2017-v1" : {
+    "data_MuonEG_Run2017D-17Nov2017-v1" : {
         "luminosity" : 1,
         "DAS Name" : "MuonEG/Run2017D-17Nov2017-v1/MINIAOD"
     },
-    "MuonEG_Run2017E-17Nov2017-v1" : {
+    "data_MuonEG_Run2017E-17Nov2017-v1" : {
         "luminosity" : 1, 
         "DAS Name" : "MuonEG/Run2017E-17Nov2017-v1/MINIAOD"
     },
-    "MuonEG_Run2017F-17Nov2017-v1" : {
+    "data_MuonEG_Run2017F-17Nov2017-v1" : {
         "luminosity" : 1, 
         "DAS Name" : "MuonEG/Run2017F-17Nov2017-v1/MINIAOD"
     },
-    "SingleMuon_Run2017B-17Nov2017-v1" : {
+    "data_SingleMuon_Run2017B-17Nov2017-v1" : {
         "luminosity" : 1, 
-        "DAS Name" : "MuonEG/Run2017B-17Nov2017-v1/MINIAOD"
+        "DAS Name" : "SingleMuon/Run2017B-17Nov2017-v1/MINIAOD"
     },
-    "SingleMuon_Run2017C-17Nov2017-v1" : {
+    "data_SingleMuon_Run2017C-17Nov2017-v1" : {
         "luminosity" : 1,
         "DAS Name" : "SingleMuon/Run2017C-17Nov2017-v1/MINIAOD"
     },
-    "SingleMuon_Run2017D-17Nov2017-v1" : {
+    "data_SingleMuon_Run2017D-17Nov2017-v1" : {
         "luminosity" : 1,
         "DAS Name" : "SingleMuon/Run2017D-17Nov2017-v1/MINIAOD"
     },
-    "SingleMuon_Run2017E-17Nov2017-v1" : {
+    "data_SingleMuon_Run2017E-17Nov2017-v1" : {
         "luminosity" : 1, 
         "DAS Name" : "SingleMuon/Run2017E-17Nov2017-v1/MINIAOD"
     },
-    "SingleMuon_Run2017F-17Nov2017-v1" : {
+    "data_SingleMuon_Run2017F-17Nov2017-v1" : {
         "luminosity" : 1, 
         "DAS Name" : "SingleMuon/Run2017F-17Nov2017-v1/MINIAOD"
     },
-    "SingleElectron_Run2017B-17Nov2017-v1" : {
+    "data_SingleElectron_Run2017B-17Nov2017-v1" : {
         "luminosity" : 1,
         "DAS Name" : "SingleElectron/Run2017B-17Nov2017-v1/MINIAOD"
     },
-    "SingleElectron_Run2017C-17Nov2017-v1" : {
+    "data_SingleElectron_Run2017C-17Nov2017-v1" : {
         "luminosity" : 1,
         "DAS Name" : "SingleElectron/Run2017C-17Nov2017-v1/MINIAOD"
     },
-    "SingleElectron_Run2017D-17Nov2017-v1" : {
+    "data_SingleElectron_Run2017D-17Nov2017-v1" : {
         "luminosity" : 1,
         "DAS Name" : "SingleElectron/Run2017D-17Nov2017-v1/MINIAOD"
     },
-    "SingleElectron_Run2017E-17Nov2017-v1" : {
+    "data_SingleElectron_Run2017E-17Nov2017-v1" : {
         "luminosity" : 1, 
         "DAS Name" : "SingleElectron/Run2017E-17Nov2017-v1/MINIAOD"
     },
-    "SingleElectron_Run2017F-17Nov2017-v1" : {
+    "data_SingleElectron_Run2017F-17Nov2017-v1" : {
         "luminosity" : 1, 
         "DAS Name" : "SingleElectron/Run2017F-17Nov2017-v1/MINIAOD"
     },
