@@ -1,5 +1,5 @@
 {  
-   "l1Pt": {  
+   "Z1lep1_Pt": {  
         "Initialize": {  
             "type": "TH1F",
             "nbins": 20,
@@ -12,7 +12,7 @@
             "GetYaxis().SetTitleOffset": 1.2  
         }
     },
-   "l1Eta": {  
+   "Z1lep1_Eta": {  
         "Initialize": {  
             "type": "TH1F",
             "nbins": 15,
@@ -21,11 +21,22 @@
         },
         "Attributes": {  
             "GetXaxis().SetTitle": "Leading lepton #eta",  
-            "GetYaxis().SetTitle": "Events",
-            "SetMaximum": 35  
+            "GetYaxis().SetTitle": "Events"
         }
     },
-   "l2Pt": {  
+   "Z1lep1_Phi": {  
+        "Initialize": {  
+            "type": "TH1F",
+            "nbins": 25,
+            "xmin": -3.5,
+            "xmax": 3.5
+        },
+        "Attributes": {  
+            "GetXaxis().SetTitle": "Leading lepton #eta",  
+            "GetYaxis().SetTitle": "Events"
+        }
+    },
+   "Z1lep2_Pt": {  
         "Initialize": {  
             "type": "TH1F",
             "nbins": 20,
@@ -38,7 +49,7 @@
             "GetYaxis().SetTitleOffset": 1.2  
         }
     },
-   "l2Eta": {  
+   "Z1lep2_Eta": {  
         "Initialize": {  
             "type": "TH1F",
             "nbins": 15,
@@ -48,11 +59,22 @@
         "Attributes": {  
             "GetXaxis().SetTitle": "Lepton 2 #eta",  
             "GetYaxis().SetTitle": "Events",
-            "GetYaxis().SetTitleOffset": 1.2,
-            "SetMaximum": 35  
+            "GetYaxis().SetTitleOffset": 1.2
         }
     },
-   "l3Pt": {  
+   "Z1lep2_Phi": {  
+        "Initialize": {  
+            "type": "TH1F",
+            "nbins": 25,
+            "xmin": -3.5,
+            "xmax": 3.5
+        },
+        "Attributes": {  
+            "GetXaxis().SetTitle": "Leading lepton #eta",  
+            "GetYaxis().SetTitle": "Events"
+        }
+    },
+   "Z2lep1_Pt": {  
         "Initialize": {  
             "type": "TH1F",
             "nbins": 20,
@@ -65,7 +87,7 @@
             "GetYaxis().SetTitleOffset": 1.2  
         }
     },
-   "l3Eta": {  
+   "Z2lep1_Eta": {  
         "Initialize": {  
             "type": "TH1F",
             "nbins": 15,
@@ -75,11 +97,22 @@
         "Attributes": {  
             "GetXaxis().SetTitle": "Lepton 3 #eta",  
             "GetYaxis().SetTitle": "Events",
-            "GetYaxis().SetTitleOffset": 1.2,
-            "SetMaximum": 35  
+            "GetYaxis().SetTitleOffset": 1.2
         }
     },
-   "l4Pt": {  
+   "Z2lep1_Phi": {  
+        "Initialize": {  
+            "type": "TH1F",
+            "nbins": 25,
+            "xmin": -3.5,
+            "xmax": 3.5
+        },
+        "Attributes": {  
+            "GetXaxis().SetTitle": "Leading lepton #eta",  
+            "GetYaxis().SetTitle": "Events"
+        }
+    },
+   "Z2lep2_Pt": {  
         "Initialize": {  
             "type": "TH1F",
             "nbins": 20,
@@ -92,7 +125,7 @@
             "GetYaxis().SetTitleOffset": 1.2  
         }
     },
-   "l4Eta": {  
+   "Z2lep2_Eta": {  
         "Initialize": {  
             "type": "TH1F",
             "nbins": 15,
@@ -104,6 +137,18 @@
             "GetYaxis().SetTitle": "Events",
             "GetYaxis().SetTitleOffset": 1.2,
             "SetMaximum": 35  
+        }
+    },
+   "Z2lep2_Phi": {  
+        "Initialize": {  
+            "type": "TH1F",
+            "nbins": 25,
+            "xmin": -3.5,
+            "xmax": 3.5
+        },
+        "Attributes": {  
+            "GetXaxis().SetTitle": "Leading lepton #eta",  
+            "GetYaxis().SetTitle": "Events"
         }
     },
    "Z1Pt": {  
@@ -170,5 +215,5 @@
             "GetYaxis().SetTitle": "Events / 25 GeV",
             "GetYaxis().SetTitleOffset": 1.2
         }
-    },
+    }
 }
