@@ -107,15 +107,15 @@
         "file_path" : "/store/user/uhussain/UWVVNtuples_02Aug2018/ZZTo4L_13TeV_powheg_pythia8/RunIIFall17MiniAOD-94X_mc2017_realistic_v10_ext1-v1/*/*/*.root",
         "plot_group" : "qqZZ-powheg"
     },
-    "TTJets-amcatnlo" : {
+    "tt-jets" : {
         "file_path" : "/store/user/uhussain/UWVVNtuples_02Aug2018/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/RunIIFall17MiniAOD-94X_mc2017_realistic_v10-v1/*/*/*.root",
          "plot_group" : "top"
     },
-    "TTTo2L2Nu-powheg" : {
+    "tt-lep" : {
         "file_path" : "/store/user/uhussain/UWVVNtuples_02Aug2018/TTTo2L2Nu_TuneCP5_13TeV-powheg-pythia8/RunIIFall17MiniAOD-94X_mc2017_realistic_v10-v2/*/*/*.root",
         "plot_group" : "top"
     },
-    "TTTo2L2Nu-powheg_PSweights" : {
+    "tt-lep_PSweights" : {
         "file_path" : "/store/user/uhussain/UWVVNtuples_02Aug2018/TTTo2L2Nu_TuneCP5_PSweights_13TeV-powheg-pythia8/RunIIFall17MiniAOD-94X_mc2017_realistic_v10-v1/*/*/*.root",
         "plot_group" : "top"
     },
@@ -155,11 +155,11 @@
         "file_path" : "/store/user/uhussain/UWVVNtuples_02Aug2018/GluGluToContinToZZTo2e2mu_13TeV_MCFM701_pythia8/RunIIFall17MiniAOD-94X_mc2017_realistic_v10-v2/*/*/*.root",
         "plot_group" : "ggZZ"
     },
-    "GluGluZZTo2e2tau" : {
+    "ggZZ2e2tau" : {
         "file_path" : "/store/user/uhussain/UWVVNtuples_02Aug2018/GluGluToContinToZZTo2e2tau_13TeV_MCFM701_pythia8/RunIIFall17MiniAOD-94X_mc2017_realistic_v10-v2/*/*/*.root",
         "plot_group" : "ggZZ"
     },
-    "GluGluZZTo2mu2tau" : {
+    "ggZZ2mu2tau" : {
         "file_path" : "/store/user/uhussain/UWVVNtuples_02Aug2018/GluGluToContinToZZTo2mu2tau_13TeV_MCFM701_pythia8/RunIIFall17MiniAOD-94X_mc2017_realistic_v10-v2/*/*/*.root",
         "plot_group" : "ggZZ"
     },

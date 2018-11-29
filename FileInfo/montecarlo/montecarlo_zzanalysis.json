@@ -210,7 +210,7 @@
         "DAS Name" : "DY4JetsToLL_M-50_TuneCUETP8M1_13TeV-madgraphMLM-pythia8"
     },
     "DYJetsToLLM-50" : {
-        "cross_section" : 5765.4,
+        "cross_section" : 6104,
         "Source of cross section" : "https://twiki.cern.ch/twiki/bin/viewauth/CMS/SummaryTable1G25ns#DY_Z",
         "DAS Name" : "DYJetsToLL_M-50_TuneCUETP8M1_13TeV-[amcatnloFXFX OR madgraphMLM]-pythia8"
     },
@@ -303,5 +303,30 @@
         "cross_section" : 0.2086,
         "Source of cross section" : "MCM",
         "DAS Name" : "WWW_4F_TuneCUETP8M1_13TeV-amcatnlo-pythia8"
+    },
+    "ggHZZ" : {
+        "cross_section" : 0.01218,
+        "Source of cross section" : "AN2017_342_V9",
+        "DAS Name" : "GluGluHToZZTo4L_M125_13TeV_powheg2_JHUgenV709_pythia8"
+    },
+    "ttH_HToZZ_4L" : {
+        "cross_section" : 0.000393,
+        "Source of cross section" : "AN2017_342_V9",
+        "DAS Name" : "ttH_HToZZ_4LFilter_M125_13TeV_powheg_JHUgenV709_pythia8"
+    },
+    "WminusHToZZ" : {
+        "cross_section" : 0.000147,
+        "Source of cross section" : "AN2017_342_V9",
+        "DAS Name" : "WminusH_HToZZTo4L_M125_13TeV_powheg2-minlo-HWJ_JHUgenV709_pythia8"
+    },
+    "WplusHToZZ" : {
+        "cross_section" : 0.000232,
+        "Source of cross section" : "AN2017_342_V9",
+        "DAS Name" : "WplusH_HToZZTo4L_M125_13TeV_powheg2-minlo-HWJ_JHUgenV709_pythia8"
+    },
+    "ZHToZZ_4L" : {
+        "cross_section" : 0.000668,
+        "Source of cross section" : "AN2017_342_V9",
+        "DAS Name" : "ZH_HToZZ_4LFilter_M125_13TeV_powheg2-minlo-HZJ_JHUgenV709_pythia8"
     }
 }
