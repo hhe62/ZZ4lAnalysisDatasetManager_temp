@@ -1,0 +1,82 @@
+{
+    "qqZZ-powheg" : {
+        "Name" : "qq/gq #rightarrow ZZ(+jets)",
+        "Style" : "fill-lightblue",
+        "add_perc_error" : 0.0,
+        "Members" : [
+            "zz4l-powheg"
+        ]
+    },
+
+    "HZZ-signal" : {
+        "Name" : "H #rightarrow ZZ",
+        "Style" : "fill-lightred",
+        "add_perc_error" : 0.0,
+        "Members" : [
+            "ggHZZ",
+            "vbfHZZ",
+            "ttH_HToZZ_4L",
+            "WminusHToZZ",
+            "WplusHToZZ",
+            "ZHToZZ_4L"
+
+        ]
+    },
+    "ggZZ" : {
+        "Name" : "gg #rightarrow ZZ(+jets)",
+        "Style" : "fill-blue",
+        "add_perc_error" : 0.0,
+        "Members" : [
+            "ggZZ4e",
+            "ggZZ4m",
+            "ggZZ2e2mu",
+            "ggZZ2e2tau",
+            "ggZZ2mu2tau"
+        ]
+    },
+    "dy-jets" : {
+        "Name" : "Drell-Yan",
+        "Style" : "fill-green",
+        "Members" : [
+            "DYJetsToLLM-50"
+        ]
+    },
+    "top" : {
+        "Name" : "TT",
+        "Style" : "fill-red",
+        "add_perc_error" : 0.0,
+        "Members" : [
+            "tt-lep"
+        ]
+    },
+    "wz3lnu-amcnlo" : {
+        "Name" : "WZ",
+        "Style" : "fill-maroon",
+        "add_perc_error" : 0.0,
+        "Members" : [
+            "wz3lnu-mg5amcnlo"
+        ]
+    },
+    "nonprompt" : {
+        "Name" : "Z+X",
+        "Style" : "fill-green",
+        "add_perc_error" : 0.3,
+        "Members" : [
+            "DataEWKCorrected"
+        ]
+    },
+    "data" : {
+        "Name" : "Data",
+        "Style" : "data",
+        "Members" : [
+            "AllData"
+        ]
+    },
+    "data_all" : {
+        "Name" : "Data",
+        "Style" : "data",
+        "Members" : [
+            "AllData"
+        ]
+    }
+}

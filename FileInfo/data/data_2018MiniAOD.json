@@ -1,0 +1,150 @@
+{
+    "data_EGamma_Run2018A-PromptReco-v1" : {
+        "luminosity" : 1,
+        "DAS Name" : "EGamma/Run2018A-PromptReco-v1/MINIAOD"
+    },
+    "data_EGamma_Run2018A-PromptReco-v2" : {
+        "luminosity" : 1,
+        "DAS Name" : "EGamma/Run2018A-PromptReco-v2/MINIAOD"
+    },
+    "data_EGamma_Run2018A-PromptReco-v3" : {
+        "luminosity" : 1,
+        "DAS Name" : "EGamma/Run2018A-PromptReco-v3/MINIAOD"
+    },
+    "data_EGamma_Run2018B-PromptReco-v1" : {
+        "luminosity" : 1,
+        "DAS Name" : "EGamma/Run2018B-PromptReco-v1/MINIAOD"
+    },
+    "data_EGamma_Run2018B-PromptReco-v2" : {
+        "luminosity" : 1,
+        "DAS Name" : "EGamma/Run2018B-PromptReco-v2/MINIAOD"
+    },
+    "data_EGamma_Run2018C-PromptReco-v1" : {
+        "luminosity" : 1,
+        "DAS Name" : "EGamma/Run2018C-PromptReco-v1/MINIAOD"
+    },
+    "data_EGamma_Run2018C-PromptReco-v2" : {
+        "luminosity" : 1,
+        "DAS Name" : "EGamma/Run2018C-PromptReco-v2/MINIAOD"
+    },
+    "data_EGamma_Run2018C-PromptReco-v3" : {
+        "luminosity" : 1,
+        "DAS Name" : "EGamma/Run2018C-PromptReco-v3/MINIAOD"
+    },
+    "data_EGamma_Run2018D-PromptReco-v2" : {
+        "luminosity" : 1,
+        "DAS Name" : "EGamma/Run2018D-PromptReco-v2/MINIAOD"
+    },
+    "data_DoubleMuon_Run2018A-PromptReco-v1" : {
+        "luminosity" : 1,
+        "DAS Name" : "DoubleMuon/Run2018A-PromptReco-v1/MINIAOD"
+    },
+    "data_DoubleMuon_Run2018A-PromptReco-v2" : {
+        "luminosity" : 1,
+        "DAS Name" : "DoubleMuon/Run2018A-PromptReco-v2/MINIAOD"
+    },
+    "data_DoubleMuon_Run2018A-PromptReco-v3" : {
+        "luminosity" : 1,
+        "DAS Name" : "DoubleMuon/Run2018A-PromptReco-v3/MINIAOD"
+    },
+    "data_DoubleMuon_Run2018B-PromptReco-v1" : {
+        "luminosity" : 1,
+        "DAS Name" : "DoubleMuon/Run2018B-PromptReco-v1/MINIAOD"
+    },
+    "data_DoubleMuon_Run2018B-PromptReco-v2" : {
+        "luminosity" : 1,
+        "DAS Name" : "DoubleMuon/Run2018B-PromptReco-v2/MINIAOD"
+    },
+    "data_DoubleMuon_Run2018C-PromptReco-v1" : {
+        "luminosity" : 1,
+        "DAS Name" : "DoubleMuon/Run2018C-PromptReco-v1/MINIAOD"
+    },
+    "data_DoubleMuon_Run2018C-PromptReco-v2" : {
+        "luminosity" : 1,
+        "DAS Name" : "DoubleMuon/Run2018C-PromptReco-v2/MINIAOD"
+    },
+    "data_DoubleMuon_Run2018C-PromptReco-v3" : {
+        "luminosity" : 1,
+        "DAS Name" : "DoubleMuon/Run2018C-PromptReco-v3/MINIAOD"
+    },
+    "data_DoubleMuon_Run2018D-PromptReco-v2" : {
+        "luminosity" : 1,
+        "DAS Name" : "DoubleMuon/Run2018D-PromptReco-v2/MINIAOD"
+    },
+    "data_MuonEG_Run2018A-PromptReco-v1" : {
+        "luminosity" : 1,
+        "DAS Name" : "MuonEG/Run2018A-PromptReco-v1/MINIAOD"
+    },
+    "data_MuonEG_Run2018A-PromptReco-v2" : {
+        "luminosity" : 1,
+        "DAS Name" : "MuonEG/Run2018A-PromptReco-v2/MINIAOD"
+    },
+    "data_MuonEG_Run2018A-PromptReco-v3" : {
+        "luminosity" : 1,
+        "DAS Name" : "MuonEG/Run2018A-PromptReco-v3/MINIAOD"
+    },
+    "data_MuonEG_Run2018B-PromptReco-v1" : {
+        "luminosity" : 1,
+        "DAS Name" : "MuonEG/Run2018B-PromptReco-v1/MINIAOD"
+    },
+    "data_MuonEG_Run2018B-PromptReco-v2" : {
+        "luminosity" : 1,
+        "DAS Name" : "MuonEG/Run2018B-PromptReco-v2/MINIAOD"
+    },
+    "data_MuonEG_Run2018C-PromptReco-v1" : {
+        "luminosity" : 1,
+        "DAS Name" : "MuonEG/Run2018C-PromptReco-v1/MINIAOD"
+    },
+    "data_MuonEG_Run2018C-PromptReco-v2" : {
+        "luminosity" : 1,
+        "DAS Name" : "MuonEG/Run2018C-PromptReco-v2/MINIAOD"
+    },
+    "data_MuonEG_Run2018C-PromptReco-v3" : {
+        "luminosity" : 1,
+        "DAS Name" : "MuonEG/Run2018C-PromptReco-v3/MINIAOD"
+    },
+    "data_MuonEG_Run2018D-PromptReco-v2" : {
+        "luminosity" : 1,
+        "DAS Name" : "MuonEG/Run2018D-PromptReco-v2/MINIAOD"
+    },
+    "data_SingleMuon_Run2018A-PromptReco-v1" : {
+        "luminosity" : 1,
+        "DAS Name" : "SingleMuon/Run2018A-PromptReco-v1/MINIAOD"
+    },
+    "data_SingleMuon_Run2018A-PromptReco-v2" : {
+        "luminosity" : 1,
+        "DAS Name" : "SingleMuon/Run2018A-PromptReco-v2/MINIAOD"
+    },
+    "data_SingleMuon_Run2018A-PromptReco-v3" : {
+        "luminosity" : 1,
+        "DAS Name" : "SingleMuon/Run2018A-PromptReco-v3/MINIAOD"
+    },
+    "data_SingleMuon_Run2018B-PromptReco-v1" : {
+        "luminosity" : 1,
+        "DAS Name" : "SingleMuon/Run2018B-PromptReco-v1/MINIAOD"
+    },
+    "data_SingleMuon_Run2018B-PromptReco-v2" : {
+        "luminosity" : 1,
+        "DAS Name" : "SingleMuon/Run2018B-PromptReco-v2/MINIAOD"
+    },
+    "data_SingleMuon_Run2018C-PromptReco-v1" : {
+        "luminosity" : 1,
+        "DAS Name" : "SingleMuon/Run2018C-PromptReco-v1/MINIAOD"
+    },
+    "data_SingleMuon_Run2018C-PromptReco-v2" : {
+        "luminosity" : 1,
+        "DAS Name" : "SingleMuon/Run2018C-PromptReco-v2/MINIAOD"
+    },
+    "data_SingleMuon_Run2018C-PromptReco-v3" : {
+        "luminosity" : 1,
+        "DAS Name" : "SingleMuon/Run2018C-PromptReco-v3/MINIAOD"
+    },
+    "data_SingleMuon_Run2018D-PromptReco-v2" : {
+        "luminosity" : 1,
+        "DAS Name" : "SingleMuon/Run2018D-PromptReco-v2/MINIAOD"
+    },
+    "DataEWKCorrected" : {
+        "luminosity" : 1, 
+        "DAS Name" : "Includes all previous"
+    }
+}
