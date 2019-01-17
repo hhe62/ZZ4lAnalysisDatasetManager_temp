@@ -66,7 +66,7 @@ def getDefaultParser():
                         help="Don't add CMS plot decorations")
     parser.add_argument("--logy", action='store_true',
                         help="Use logaritmic scale on Y-axis")
-    parser.add_argument("-c", "--channels", type=str, default="eeee,eemm,mmmm",
+    parser.add_argument("-c", "--channels", type=str, default="eeee,eemm,mmee,mmmm",
                         help="List (separate by commas) of channels to plot") 
     parser.add_argument("--no_scalefactors", action='store_true',
                         help="No scale factors")
@@ -86,7 +86,6 @@ def getListOfFiles(file_set, selection):
         filelist = []
         if "nonprompt" in file_set:
             filelist.append("nonprompt")
-            filelist.append("top-ewk")
         else:
             if "dyjets" in file_set:
                 drellyan = "dyjets"

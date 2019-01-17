@@ -1,56 +1,77 @@
 {
     "qqZZ-powheg" : {
-        "Name" : "ZZ",
+        "Name" : "qq/gq #rightarrow ZZ(+jets)",
         "Style" : "fill-lightblue",
         "add_perc_error" : 0.0,
         "Members" : [
-            "ZZTo4L-powheg_ext1"
+            "zz4l-powheg"
         ]
     },
 
     "HZZ-signal" : {
-        "Name" : "HZZ",
+        "Name" : "H #rightarrow ZZ",
         "Style" : "fill-lightred",
         "add_perc_error" : 0.0,
         "Members" : [
-            "ggHZZ_ext1",
-            "ttH_HToZZ_4L_ext1",
-            "WminusHToZZ_ext1",
-            "WplusHToZZ_ext1",
+            "ggHZZ",
+            "ttH_HToZZ_4L",
+            "WminusHToZZ",
+            "WplusHToZZ",
             "ZHToZZ_4L"
 
         ]
     },
     "ggZZ" : {
-        "Name" : "ZZ",
+        "Name" : "gg #rightarrow ZZ(+jets)",
         "Style" : "fill-blue",
         "add_perc_error" : 0.0,
         "Members" : [
-            "GluGluZZTo4e",
-            "GluGluZZTo4mu",
-            "GluGluZZTo2e2mu",
-            "GluGluZZTo2e2tau",
-            "GluGluZZTo2mu2tau"
+            "ggZZ4e",
+            "ggZZ4m",
+            "ggZZ2e2mu",
+            "ggZZ2e2tau",
+            "ggZZ2mu2tau"
         ]
     },
     "dy-jets" : {
         "Name" : "Drell-Yan",
         "Style" : "fill-green",
         "Members" : [
-            "DYJetsToLL_M10to50",
-            "DYJetsToLLM-50_ext1"
+            "DYJetsToLLM-50"
         ]
     },
     "top" : {
-        "Name" : "ttbar",
-        "Style" : "fill-yellow",
+        "Name" : "TT",
+        "Style" : "fill-red",
         "add_perc_error" : 0.0,
         "Members" : [
-            "TTJets-amcatnlo",
-            "TTTo2L2Nu-powheg"
+            "tt-jets"
         ]
     },
-    "data_2017" : {
+    "wz3lnu-amcnlo" : {
+        "Name" : "WZ",
+        "Style" : "fill-maroon",
+        "add_perc_error" : 0.0,
+        "Members" : [
+            "wz3lnu-mg5amcnlo"
+        ]
+    },
+    "nonprompt" : {
+        "Name" : "Z+X",
+        "Style" : "fill-green",
+        "add_perc_error" : 0.3,
+        "Members" : [
+            "DataEWKCorrected"
+        ]
+    },
+    "data" : {
+        "Name" : "Data",
+        "Style" : "data",
+        "Members" : [
+            "AllData"
+        ]
+    },
+    "data_all" : {
         "Name" : "Data",
         "Style" : "data",
         "Members" : [

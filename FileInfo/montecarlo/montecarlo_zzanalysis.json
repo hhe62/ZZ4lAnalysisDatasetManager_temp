@@ -146,42 +146,42 @@
     "ggZZ4e" : {
         "cross_section" : 0.001586,
         "Source of cross section" : "MCM",
-        "kfactor" : 2.3,
+        "kfactor" : 1.7,
         "Source of k-factor" : "http://arxiv.org/abs/1509.06734",
         "DAS Name" : "GluGluToZZTo4e_BackgroundOnly_13TeV_MCFM"
     },
     "ggZZ4m" : {
         "cross_section" : 0.001586,
         "Source of cross section" : "MCM",
-        "kfactor" : 2.3,
+        "kfactor" : 1.7,
         "Source of k-factor" : "http://arxiv.org/abs/1509.06734",
         "DAS Name" : "GluGluToZZTo4mu_BackgroundOnly_13TeV_MCFM"
     },
     "ggZZ4t" : {
         "cross_section" : 0.001586,
         "Source of cross section" : "MCM",
-        "kfactor" : 2.3,
+        "kfactor" : 1.7,
         "Source of k-factor" : "http://arxiv.org/abs/1509.06734",
         "DAS Name" : "GluGluToZZTo4tau_BackgroundOnly_13TeV_MCFM"
     },
     "ggZZ2e2mu" : {
         "cross_section" : 0.003194,
         "Source of cross section" : "MCM",
-        "kfactor" : 2.3,
+        "kfactor" : 1.7,
         "Source of k-factor" : "http://arxiv.org/abs/1509.06734",
         "DAS Name" : "GluGluToZZTo2e2mu_BackgroundOnly_13TeV_MCFM"
     },
     "ggZZ2e2tau" : {
         "cross_section" : 0.003194,
         "Source of cross section" : "MCM",
-        "kfactor" : 2.3,
+        "kfactor" : 1.7,
         "Source of k-factor" : "http://arxiv.org/abs/1509.06734",
         "DAS Name" : "GluGluToZZTo2e2tau_BackgroundOnly_13TeV_MCFM"
     },
     "ggZZ2mu2tau" : {
         "cross_section" : 0.003194,
         "Source of cross section" : "MCM",
-        "kfactor" : 2.3,
+        "kfactor" : 1.7,
         "Source of k-factor" : "http://arxiv.org/abs/1509.06734",
         "DAS Name" : "GluGluToZZTo2mu2tau_BackgroundOnly_13TeV_MCFM"
     },
@@ -308,6 +308,11 @@
         "cross_section" : 0.01218,
         "Source of cross section" : "AN2017_342_V9",
         "DAS Name" : "GluGluHToZZTo4L_M125_13TeV_powheg2_JHUgenV709_pythia8"
+    },
+    "vbfHZZ" : {
+        "cross_section" : 0.001044,
+        "Source of cross section" : "AN2017_342_V9",
+        "DAS Name" : "VBF_HToZZTo4L_M125_13TeV_powheg2_JHUGenV7011_pythia8"
     },
     "ttH_HToZZ_4L" : {
         "cross_section" : 0.000393,
