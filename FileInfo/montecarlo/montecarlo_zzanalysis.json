@@ -30,6 +30,11 @@
         "Source of cross section" : "MG5_aMC@NLO gridpack",
         "DAS Name" : "WZTo3LNu_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8"
     },
+    "wz3lnu-amcnlo" : {
+        "cross_section" : 4.715,
+        "Source of cross section" : "MG5_aMC@NLO gridpack",
+        "DAS Name" : "WZTo3LNu_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8"
+    },
     "wzjj-aqgcft" : {
         "cross_section" : 0.01623, 
         "Source of cross section" : "MadGraph LO",
@@ -127,7 +132,7 @@
     "zz4l-powheg" : {
         "cross_section" : 1.256,
         "Source of cross section" : "POWHEG tarball",
-        "kfactor" : 1.1,
+        "kfactor" : 1.0835,
         "Source of k-factor" : "k factor from mll only calculation of Grazzini",
         "DAS Name" : "ZZTo4L_13TeV_powheg_pythia8"
     },
@@ -304,6 +309,26 @@
         "Source of cross section" : "MCM",
         "DAS Name" : "WWW_4F_TuneCUETP8M1_13TeV-amcatnlo-pythia8"
     },
+    "WWZJetsTo4L2Nu" : { 
+        "cross_section" : 0.0006024,
+        "Source of cross section" : "MCM",
+        "DAS Name" : "WWZJetsTo4L2Nu_4f_TuneCP5_13TeV_amcatnloFXFX_pythia8"
+    },
+    "WZZJetsTo4L2Nu" : { 
+        "cross_section" : 0.00027,
+        "Source of cross section" : "MCM",
+        "DAS Name" : "WZZJetsTo4L2Nu_4f_TuneCP5_13TeV_amcatnloFXFX_pythia8"
+    },
+    "ZZGJetsTo4L2Nu" : { 
+        "cross_section" : 0.001042,
+        "Source of cross section" : "MCM",
+        "DAS Name" : "ZZGJetsTo4L2Nu_4f_TuneCP5_13TeV_amcatnloFXFX_pythia8"
+    },
+    "ZZZJetsTo4L2Nu" : { 
+        "cross_section" : 0.0001907,
+        "Source of cross section" : "MCM",
+        "DAS Name" : "ZZZJetsTo4L2Nu_4f_TuneCP5_13TeV_amcatnloFXFX_pythia8"
+    },
     "ggHZZ" : {
         "cross_section" : 0.01218,
         "Source of cross section" : "AN2017_342_V9",
@@ -333,5 +358,15 @@
         "cross_section" : 0.000668,
         "Source of cross section" : "AN2017_342_V9",
         "DAS Name" : "ZH_HToZZ_4LFilter_M125_13TeV_powheg2-minlo-HZJ_JHUgenV709_pythia8"
+    },
+    "2018SignalSync" : {
+        "cross_section" : 1.0,
+        "Source of cross section" : "AN2017_342_V9",
+        "DAS Name" : "Signal Sync Files"
+    },
+    "2017SignalSync" : {
+        "cross_section" : 1.0,
+        "Source of cross section" : "AN2017_342_V9",
+        "DAS Name" : "Signal Sync Files"
     }
 }
