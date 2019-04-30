@@ -29,6 +29,7 @@
         "Members" : [
             "ggZZ4e",
             "ggZZ4m",
+            "ggZZ4t",
             "ggZZ2e2mu",
             "ggZZ2e2tau",
             "ggZZ2mu2tau"
@@ -46,15 +47,26 @@
         "Style" : "fill-red",
         "add_perc_error" : 0.0,
         "Members" : [
-            "tt-lep"
+            "tt-jets"
         ]
     },
-    "wz3lnu-amcnlo" : {
+    "wz3lnu-powheg" : {
         "Name" : "WZ",
         "Style" : "fill-maroon",
         "add_perc_error" : 0.0,
         "Members" : [
-            "wz3lnu-mg5amcnlo"
+            "wz3lnu-powheg"
+        ]
+    },
+    "VVV" : {
+        "Name" : "VVV",
+        "Style" : "fill-yellow",
+        "add_perc_error" : 0.0,
+        "Members" : [
+            "ZZGJetsTo4L2Nu",
+            "ZZZJetsTo4L2Nu",
+            "WZZJetsTo4L2Nu",
+            "WWZJetsTo4L2Nu"
         ]
     },
     "nonprompt" : {

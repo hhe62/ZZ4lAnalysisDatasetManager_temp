@@ -46,6 +46,84 @@
             "GetYaxis().SetTitle": "Events Passing Selection"
               }
     },
+   "LepPt": {  
+        "Initialize": {  
+            "type": "TH1D",
+            "nbins": 20,
+            "xmin": 0,
+            "xmax": 200
+        },
+        "Attributes": {  
+            "GetXaxis().SetTitle": "Lepton p_{T} [GeV]",  
+            "GetYaxis().SetTitle": "Events / 10 GeV",
+            "GetYaxis().SetTitleOffset": 1.2  
+        }
+    },
+   "LepEta": {  
+        "Initialize": {  
+            "type": "TH1D",
+            "nbins": 15,
+            "xmin": -2.5,
+            "xmax": 2.5
+        },
+        "Attributes": {  
+            "GetXaxis().SetTitle": "Lepton #eta",  
+            "GetYaxis().SetTitle": "Events",
+            "GetYaxis().SetTitleOffset": 1.2
+        }
+    },
+   "Lep12Pt": {  
+        "Initialize": {  
+            "type": "TH1D",
+            "nbins": 20,
+            "xmin": 0,
+            "xmax": 200
+        },
+        "Attributes": {  
+            "GetXaxis().SetTitle": "Lepton_{12} p_{T} [GeV]",  
+            "GetYaxis().SetTitle": "Events / 10 GeV",
+            "GetYaxis().SetTitleOffset": 1.2  
+        }
+    },
+   "Lep12Eta": {  
+        "Initialize": {  
+            "type": "TH1D",
+            "nbins": 15,
+            "xmin": -2.5,
+            "xmax": 2.5
+        },
+        "Attributes": {  
+            "GetXaxis().SetTitle": "Lepton_{12} #eta",  
+            "GetYaxis().SetTitle": "Events",
+            "GetYaxis().SetTitleOffset": 1.2
+        }
+    },
+   "Lep34Pt": {  
+        "Initialize": {  
+            "type": "TH1D",
+            "nbins": 20,
+            "xmin": 0,
+            "xmax": 200
+        },
+        "Attributes": {  
+            "GetXaxis().SetTitle": "Lepton_{34} p_{T} [GeV]",  
+            "GetYaxis().SetTitle": "Events / 10 GeV",
+            "GetYaxis().SetTitleOffset": 1.2  
+        }
+    },
+   "Lep34Eta": {  
+        "Initialize": {  
+            "type": "TH1D",
+            "nbins": 15,
+            "xmin": -2.5,
+            "xmax": 2.5
+        },
+        "Attributes": {  
+            "GetXaxis().SetTitle": "Lepton_{34} #eta",  
+            "GetYaxis().SetTitle": "Events",
+            "GetYaxis().SetTitleOffset": 1.2
+        }
+    },
    "Z1lep1_Phi": {  
         "Initialize": {  
             "type": "TH1D",
@@ -186,6 +264,19 @@
             "GetYaxis().SetTitleOffset": 1.2  
         }
     },
+   "ZPt": {  
+        "Initialize": {  
+            "type": "TH1D",
+            "nbins": 60,
+            "xmin": 0,
+            "xmax": 600
+        },
+        "Attributes": {  
+            "GetXaxis().SetTitle": "Z p_{T} [GeV]",  
+            "GetYaxis().SetTitle": "Events / 10 GeV",
+            "GetYaxis().SetTitleOffset": 1.2  
+        }
+    },
   "Z1Mass": {  
         "Initialize": {  
             "type": "TH1D",
@@ -306,9 +397,9 @@
    "Mass": {  
         "Initialize": {  
             "type": "TH1D",
-            "nbins": 258,
+            "nbins": 284,
             "xmin": 70,
-            "xmax": 1102
+            "xmax": 1206
         },
         "Attributes": {  
             "GetXaxis().SetTitle": "m_{4l} [GeV]",  
@@ -316,6 +407,37 @@
             "GetYaxis().SetTitleOffset": 1.2
         }
     },
+   "ZZPt": {  
+        "Initialize": {  
+            "type": "TH1D",
+            "nbins": 24,
+            "xmin": 0,
+            "xmax": 1200
+        },
+        "Attributes": {  
+            "GetXaxis().SetTitle": "ZZ p_{T} [GeV]",  
+            "GetYaxis().SetTitle": "Events / 50 GeV",
+            "GetYaxis().SetTitleOffset": 1.2
+        }
+    },
+   "Z1Mass_Z2Mass": {  
+        "Initialize": {  
+            "type": "TH2D",
+            "nbinsx": 80,
+            "xmin": 40,
+            "xmax": 120,
+            "nbinsy": 108,
+            "ymin": 12,
+            "ymax": 120
+
+        },
+        "Attributes": {  
+            "GetXaxis().SetTitle": "Z_{1,l1} p_{T} [GeV]",  
+            "GetXaxis().SetTitleOffset": 1.2,
+            "GetXaxis().SetTitle": "Z_{1,l2} p_{T} [GeV]",  
+            "GetXaxis().SetTitleOffset": 1.2  
+        }
+  },
    "Z1lep1_Z1lep2_Pt": {  
         "Initialize": {  
             "type": "TH2D",

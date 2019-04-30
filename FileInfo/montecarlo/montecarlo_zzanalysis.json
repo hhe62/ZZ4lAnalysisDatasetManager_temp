@@ -329,6 +329,11 @@
         "Source of cross section" : "MCM",
         "DAS Name" : "ZZZJetsTo4L2Nu_4f_TuneCP5_13TeV_amcatnloFXFX_pythia8"
     },
+    "ttZJets" : { 
+        "cross_section" : 0.2529,
+        "Source of cross section" : "MCM",
+        "DAS Name" : "ttZJets_TuneCP5_13TeV_madgraphMLM_pythia8"
+    },
     "ggHZZ" : {
         "cross_section" : 0.01218,
         "Source of cross section" : "AN2017_342_V9",
