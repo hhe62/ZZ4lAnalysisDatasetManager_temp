@@ -1,0 +1,6 @@
+{
+    "EGamma_Run2018A-PromptReco-v1" : {
+        "file_path" : "/store/user/uhussain/UWVVNtuples_31Jul2018/EGamma/Run2018A-PromptReco-v1/*/*/*.root",
+        "plot_group" : "data-2018"
+    }
+}

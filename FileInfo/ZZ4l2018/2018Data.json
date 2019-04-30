@@ -1,0 +1,146 @@
+{
+    "data_EGamma_Run2018A-PromptReco-v1" : {
+        "file_path" : "/data/uhussain/ZZ2019AnalysisNewSetup_2018-11-01/2018Skim/2018-10-31-EGamma_Run2018A-PromptReco-v1-ZZ4l2019-preselectionTo4lmass-v1/*",
+        "plot_group" : "data-2018"
+    },
+    "data_EGamma_Run2018A-PromptReco-v2" : {
+        "file_path" : "/data/uhussain/ZZ2019AnalysisNewSetup_2018-11-01/2018Skim/2018-10-31-EGamma_Run2018A-PromptReco-v2-ZZ4l2019-preselectionTo4lmass-v1/*",
+        "plot_group" : "data-2018"
+    },
+    "data_EGamma_Run2018A-PromptReco-v3" : {
+        "file_path" : "/data/uhussain/ZZ2019AnalysisNewSetup_2018-11-01/2018Skim/2018-10-31-EGamma_Run2018A-PromptReco-v3-ZZ4l2019-preselectionTo4lmass-v1/*",
+        "plot_group" : "data-2018"
+    },
+    "data_EGamma_Run2018B-PromptReco-v1" : {
+        "file_path" : "/data/uhussain/ZZ2019AnalysisNewSetup_2018-11-01/2018Skim/2018-10-31-EGamma_Run2018B-PromptReco-v1-ZZ4l2019-preselectionTo4lmass-v1/*",
+        "plot_group" : "data-2018"
+    },
+    "data_EGamma_Run2018B-PromptReco-v2" : {
+        "file_path" : "/data/uhussain/ZZ2019AnalysisNewSetup_2018-11-01/2018Skim/2018-10-31-EGamma_Run2018B-PromptReco-v2-ZZ4l2019-preselectionTo4lmass-v1/*",
+        "plot_group" : "data-2018"
+    },
+    "data_EGamma_Run2018C-PromptReco-v1" : {
+        "file_path" : "/data/uhussain/ZZ2019AnalysisNewSetup_2018-11-01/2018Skim/2018-10-31-EGamma_Run2018C-PromptReco-v1-ZZ4l2019-preselectionTo4lmass-v1/*",
+        "plot_group" : "data-2018"
+    },
+    "data_EGamma_Run2018C-PromptReco-v2" : {
+        "file_path" : "/data/uhussain/ZZ2019AnalysisNewSetup_2018-11-01/2018Skim/2018-10-31-EGamma_Run2018C-PromptReco-v2-ZZ4l2019-preselectionTo4lmass-v1/*",
+        "plot_group" : "data-2018"
+    },
+    "data_EGamma_Run2018C-PromptReco-v3" : {
+        "file_path" : "/data/uhussain/ZZ2019AnalysisNewSetup_2018-11-01/2018Skim/2018-10-31-EGamma_Run2018C-PromptReco-v3-ZZ4l2019-preselectionTo4lmass-v1/*",
+        "plot_group" : "data-2018"
+    },
+    "data_EGamma_Run2018D-PromptReco-v2" : {
+        "file_path" : "/data/uhussain/ZZ2019AnalysisNewSetup_2018-11-01/2018Skim/2018-10-31-EGamma_Run2018D-PromptReco-v2-ZZ4l2019-preselectionTo4lmass-v1/*",
+        "plot_group" : "data-2018"
+    },
+    "data_DoubleMuon_Run2018A-PromptReco-v1" : {
+        "file_path" : "/data/uhussain/ZZ2019AnalysisNewSetup_2018-11-01/2018Skim/2018-10-31-DoubleMuon_Run2018A-PromptReco-v1-ZZ4l2019-preselectionTo4lmass-v1/*",
+        "plot_group" : "data-2018"
+    },
+    "data_DoubleMuon_Run2018A-PromptReco-v2" : {
+        "file_path" : "/data/uhussain/ZZ2019AnalysisNewSetup_2018-11-01/2018Skim/2018-10-31-DoubleMuon_Run2018A-PromptReco-v2-ZZ4l2019-preselectionTo4lmass-v1/*",
+        "plot_group" : "data-2018"
+    },
+    "data_DoubleMuon_Run2018A-PromptReco-v3" : {
+        "file_path" : "/data/uhussain/ZZ2019AnalysisNewSetup_2018-11-01/2018Skim/2018-10-31-DoubleMuon_Run2018A-PromptReco-v3-ZZ4l2019-preselectionTo4lmass-v1/*",
+        "plot_group" : "data-2018"
+    },
+    "data_DoubleMuon_Run2018B-PromptReco-v1" : {
+            "file_path" : "/data/uhussain/ZZ2019AnalysisNewSetup_2018-11-01/2018Skim/2018-10-31-DoubleMuon_Run2018B-PromptReco-v1-ZZ4l2019-preselectionTo4lmass-v1/*",
+            "plot_group" : "data-2018"
+    },
+    "data_DoubleMuon_Run2018B-PromptReco-v2" : {
+            "file_path" : "/data/uhussain/ZZ2019AnalysisNewSetup_2018-11-01/2018Skim/2018-10-31-DoubleMuon_Run2018B-PromptReco-v2-ZZ4l2019-preselectionTo4lmass-v1/*",
+            "plot_group" : "data-2018"
+    },
+    "data_DoubleMuon_Run2018C-PromptReco-v1" : {
+        "file_path" : "/data/uhussain/ZZ2019AnalysisNewSetup_2018-11-01/2018Skim/2018-10-31-DoubleMuon_Run2018C-PromptReco-v1-ZZ4l2019-preselectionTo4lmass-v1/*",
+        "plot_group" : "data-2018"
+    },
+    "data_DoubleMuon_Run2018C-PromptReco-v2" : {
+        "file_path" : "/data/uhussain/ZZ2019AnalysisNewSetup_2018-11-01/2018Skim/2018-10-31-DoubleMuon_Run2018C-PromptReco-v2-ZZ4l2019-preselectionTo4lmass-v1/*",
+        "plot_group" : "data-2018"
+    },
+    "data_DoubleMuon_Run2018C-PromptReco-v3" : {
+        "file_path" : "/data/uhussain/ZZ2019AnalysisNewSetup_2018-11-01/2018Skim/2018-10-31-DoubleMuon_Run2018C-PromptReco-v3-ZZ4l2019-preselectionTo4lmass-v1/*",
+        "plot_group" : "data-2018"
+    },
+    "data_DoubleMuon_Run2018D-PromptReco-v2" : {
+        "file_path" : "/data/uhussain/ZZ2019AnalysisNewSetup_2018-11-01/2018Skim/2018-10-31-DoubleMuon_Run2018D-PromptReco-v2-ZZ4l2019-preselectionTo4lmass-v1/*",
+        "plot_group" : "data-2018"
+    },
+    "data_MuonEG_Run2018A-PromptReco-v1" : {
+        "file_path" : "/data/uhussain/ZZ2019AnalysisNewSetup_2018-11-01/2018Skim/2018-10-31-MuonEG_Run2018A-PromptReco-v1-ZZ4l2019-preselectionTo4lmass-v1/*",
+        "plot_group" : "data-2018"
+    },
+    "data_MuonEG_Run2018A-PromptReco-v2" : {
+        "file_path" : "/data/uhussain/ZZ2019AnalysisNewSetup_2018-11-01/2018Skim/2018-10-31-MuonEG_Run2018A-PromptReco-v2-ZZ4l2019-preselectionTo4lmass-v1/*",
+        "plot_group" : "data-2018"
+    },
+    "data_MuonEG_Run2018A-PromptReco-v3" : {
+        "file_path" : "/data/uhussain/ZZ2019AnalysisNewSetup_2018-11-01/2018Skim/2018-10-31-MuonEG_Run2018A-PromptReco-v3-ZZ4l2019-preselectionTo4lmass-v1/*",
+        "plot_group" : "data-2018"
+    },
+    "data_MuonEG_Run2018B-PromptReco-v1" : {
+        "file_path" : "/data/uhussain/ZZ2019AnalysisNewSetup_2018-11-01/2018Skim/2018-10-31-MuonEG_Run2018B-PromptReco-v1-ZZ4l2019-preselectionTo4lmass-v1/*",
+        "plot_group" : "data-2018"
+    },
+    "data_MuonEG_Run2018B-PromptReco-v2" : {
+        "file_path" : "/data/uhussain/ZZ2019AnalysisNewSetup_2018-11-01/2018Skim/2018-10-31-MuonEG_Run2018B-PromptReco-v2-ZZ4l2019-preselectionTo4lmass-v1/*",
+        "plot_group" : "data-2018"
+    },
+    "data_MuonEG_Run2018C-PromptReco-v1" : {
+        "file_path" : "/data/uhussain/ZZ2019AnalysisNewSetup_2018-11-01/2018Skim/2018-10-31-MuonEG_Run2018C-PromptReco-v1-ZZ4l2019-preselectionTo4lmass-v1/*",
+        "plot_group" : "data-2018"
+    },
+    "data_MuonEG_Run2018C-PromptReco-v2" : {
+        "file_path" : "/data/uhussain/ZZ2019AnalysisNewSetup_2018-11-01/2018Skim/2018-10-31-MuonEG_Run2018C-PromptReco-v2-ZZ4l2019-preselectionTo4lmass-v1/*",
+        "plot_group" : "data-2018"
+    },
+    "data_MuonEG_Run2018C-PromptReco-v3" : {
+        "file_path" : "/data/uhussain/ZZ2019AnalysisNewSetup_2018-11-01/2018Skim/2018-10-31-MuonEG_Run2018C-PromptReco-v3-ZZ4l2019-preselectionTo4lmass-v1/*",
+        "plot_group" : "data-2018"
+    },
+    "data_MuonEG_Run2018D-PromptReco-v2" : {
+        "file_path" : "/data/uhussain/ZZ2019AnalysisNewSetup_2018-11-01/2018Skim/2018-10-31-MuonEG_Run2018D-PromptReco-v2-ZZ4l2019-preselectionTo4lmass-v1/*",
+        "plot_group" : "data-2018"
+    },
+    "data_SingleMuon_Run2018A-PromptReco-v1" : {
+        "file_path" : "/data/uhussain/ZZ2019AnalysisNewSetup_2018-11-01/2018Skim/2018-10-31-SingleMuon_Run2018A-PromptReco-v1-ZZ4l2019-preselectionTo4lmass-v1/*",
+        "plot_group" : "data-2018"
+    },
+    "data_SingleMuon_Run2018A-PromptReco-v2" : {
+        "file_path" : "/data/uhussain/ZZ2019AnalysisNewSetup_2018-11-01/2018Skim/2018-10-31-SingleMuon_Run2018A-PromptReco-v2-ZZ4l2019-preselectionTo4lmass-v1/*",
+        "plot_group" : "data-2018"
+    },
+    "data_SingleMuon_Run2018A-PromptReco-v3" : {
+        "file_path" : "/data/uhussain/ZZ2019AnalysisNewSetup_2018-11-01/2018Skim/2018-10-31-SingleMuon_Run2018A-PromptReco-v3-ZZ4l2019-preselectionTo4lmass-v1/*",
+        "plot_group" : "data-2018"
+    },
+    "data_SingleMuon_Run2018B-PromptReco-v1" : {
+        "file_path" : "/data/uhussain/ZZ2019AnalysisNewSetup_2018-11-01/2018Skim/2018-10-31-SingleMuon_Run2018B-PromptReco-v1-ZZ4l2019-preselectionTo4lmass-v1/*",
+        "plot_group" : "data-2018"
+    },
+    "data_SingleMuon_Run2018B-PromptReco-v2" : {
+        "file_path" : "/data/uhussain/ZZ2019AnalysisNewSetup_2018-11-01/2018Skim/2018-10-31-SingleMuon_Run2018B-PromptReco-v2-ZZ4l2019-preselectionTo4lmass-v1/*",
+        "plot_group" : "data-2018"
+    },
+    "data_SingleMuon_Run2018C-PromptReco-v1" : {
+        "file_path" : "/data/uhussain/ZZ2019AnalysisNewSetup_2018-11-01/2018Skim/2018-10-31-SingleMuon_Run2018C-PromptReco-v1-ZZ4l2019-preselectionTo4lmass-v1/*",
+        "plot_group" : "data-2018"
+    },
+    "data_SingleMuon_Run2018C-PromptReco-v2" : {
+        "file_path" : "/data/uhussain/ZZ2019AnalysisNewSetup_2018-11-01/2018Skim/2018-10-31-SingleMuon_Run2018C-PromptReco-v2-ZZ4l2019-preselectionTo4lmass-v1/*",
+        "plot_group" : "data-2018"
+    },
+    "data_SingleMuon_Run2018C-PromptReco-v3" : {
+        "file_path" : "/data/uhussain/ZZ2019AnalysisNewSetup_2018-11-01/2018Skim/2018-10-31-SingleMuon_Run2018C-PromptReco-v3-ZZ4l2019-preselectionTo4lmass-v1/*",
+        "plot_group" : "data-2018"
+    },
+    "data_SingleMuon_Run2018D-PromptReco-v2" : {
+        "file_path" : "/data/uhussain/ZZ2019AnalysisNewSetup_2018-11-01/2018Skim/2018-10-31-SingleMuon_Run2018D-PromptReco-v2-ZZ4l2019-preselectionTo4lmass-v1/*",
+        "plot_group" : "data-2018"
+    }
+}

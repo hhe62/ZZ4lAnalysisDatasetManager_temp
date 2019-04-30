@@ -1,0 +1,146 @@
+{ 
+    "data_EGamma_Run2018A-PromptReco-v1" : {
+        "file_path" : "/store/user/uhussain/UWVVNtuples_18Oct2018/EGamma/Run2018A-PromptReco-v1/*/*/*.root",
+        "plot_group" : "data-2018"
+    },
+    "data_EGamma_Run2018A-PromptReco-v2" : {
+        "file_path" : "/store/user/uhussain/UWVVNtuples_18Oct2018/EGamma/Run2018A-PromptReco-v2/*/*/*.root",
+        "plot_group" : "data-2018"
+    },
+    "data_EGamma_Run2018A-PromptReco-v3" : {
+        "file_path" : "/store/user/uhussain/UWVVNtuples_18Oct2018/EGamma/Run2018A-PromptReco-v3/*/*/*.root",
+        "plot_group" : "data-2018"
+    }, 
+    "data_EGamma_Run2018B-PromptReco-v1" : {
+        "file_path" : "/store/user/uhussain/UWVVNtuples_18Oct2018/EGamma/Run2018B-PromptReco-v1/*/*/*.root",
+        "plot_group" : "data-2018"
+    },
+    "data_EGamma_Run2018B-PromptReco-v2" : {
+        "file_path" : "/store/user/uhussain/UWVVNtuples_18Oct2018/EGamma/Run2018B-PromptReco-v2/*/*/*.root",
+        "plot_group" : "data-2018"
+    },
+    "data_EGamma_Run2018C-PromptReco-v1" : {
+        "file_path" : "/store/user/uhussain/UWVVNtuples_18Oct2018/EGamma/Run2018C-PromptReco-v1/*/*/*.root",
+        "plot_group" : "data-2018"
+    },
+    "data_EGamma_Run2018C-PromptReco-v2" : {
+        "file_path" : "/store/user/uhussain/UWVVNtuples_18Oct2018/EGamma/Run2018C-PromptReco-v2/*/*/*.root",
+        "plot_group" : "data-2018"
+    },
+    "data_EGamma_Run2018C-PromptReco-v3" : {
+        "file_path" : "/store/user/uhussain/UWVVNtuples_18Oct2018/EGamma/Run2018C-PromptReco-v3/*/*/*.root",
+        "plot_group" : "data-2018"
+    },
+    "data_EGamma_Run2018D-PromptReco-v2" : {
+        "file_path" : "/store/user/uhussain/UWVVNtuples_18Oct2018/EGamma/Run2018D-PromptReco-v2/*/*/*.root",
+        "plot_group" : "data-2018"
+    },
+    "data_DoubleMuon_Run2018A-PromptReco-v1" : {
+        "file_path" : "/store/user/uhussain/UWVVNtuples_18Oct2018/DoubleMuon/Run2018A-PromptReco-v1/*/*/*.root",
+        "plot_group" : "data-2018"
+    },
+    "data_DoubleMuon_Run2018A-PromptReco-v2" : {
+        "file_path" : "/store/user/uhussain/UWVVNtuples_18Oct2018/DoubleMuon/Run2018A-PromptReco-v2/*/*/*.root",
+        "plot_group" : "data-2018"
+    },
+    "data_DoubleMuon_Run2018A-PromptReco-v3" : {
+        "file_path" : "/store/user/uhussain/UWVVNtuples_18Oct2018/DoubleMuon/Run2018A-PromptReco-v3/*/*/*.root",
+        "plot_group" : "data-2018"
+    }, 
+    "data_DoubleMuon_Run2018B-PromptReco-v1" : {
+        "file_path" : "/store/user/uhussain/UWVVNtuples_18Oct2018/DoubleMuon/Run2018B-PromptReco-v1/*/*/*.root",
+        "plot_group" : "data-2018"
+    },
+    "data_DoubleMuon_Run2018B-PromptReco-v2" : {
+        "file_path" : "/store/user/uhussain/UWVVNtuples_18Oct2018/DoubleMuon/Run2018B-PromptReco-v2/*/*/*.root",
+        "plot_group" : "data-2018"
+    },
+    "data_DoubleMuon_Run2018C-PromptReco-v1" : {
+        "file_path" : "/store/user/uhussain/UWVVNtuples_18Oct2018/DoubleMuon/Run2018C-PromptReco-v1/*/*/*.root",
+        "plot_group" : "data-2018"
+    },
+    "data_DoubleMuon_Run2018C-PromptReco-v2" : {
+        "file_path" : "/store/user/uhussain/UWVVNtuples_18Oct2018/DoubleMuon/Run2018C-PromptReco-v2/*/*/*.root",
+        "plot_group" : "data-2018"
+    },
+    "data_DoubleMuon_Run2018C-PromptReco-v3" : {
+        "file_path" : "/store/user/uhussain/UWVVNtuples_18Oct2018/DoubleMuon/Run2018C-PromptReco-v3/*/*/*.root",
+        "plot_group" : "data-2018"
+    },
+    "data_DoubleMuon_Run2018D-PromptReco-v2" : {
+        "file_path" : "/store/user/uhussain/UWVVNtuples_18Oct2018/DoubleMuon/Run2018D-PromptReco-v2/*/*/*.root",
+        "plot_group" : "data-2018"
+    },
+    "data_MuonEG_Run2018A-PromptReco-v1" : {
+        "file_path" : "/store/user/uhussain/UWVVNtuples_18Oct2018/MuonEG/Run2018A-PromptReco-v1/*/*/*.root",
+        "plot_group" : "data-2018"
+    },
+    "data_MuonEG_Run2018A-PromptReco-v2" : {
+        "file_path" : "/store/user/uhussain/UWVVNtuples_18Oct2018/MuonEG/Run2018A-PromptReco-v2/*/*/*.root",
+        "plot_group" : "data-2018"
+    },
+    "data_MuonEG_Run2018A-PromptReco-v3" : {
+        "file_path" : "/store/user/uhussain/UWVVNtuples_18Oct2018/MuonEG/Run2018A-PromptReco-v3/*/*/*.root",
+        "plot_group" : "data-2018"
+    }, 
+    "data_MuonEG_Run2018B-PromptReco-v1" : {
+        "file_path" : "/store/user/uhussain/UWVVNtuples_18Oct2018/MuonEG/Run2018B-PromptReco-v1/*/*/*.root",
+        "plot_group" : "data-2018"
+    },
+    "data_MuonEG_Run2018B-PromptReco-v2" : {
+        "file_path" : "/store/user/uhussain/UWVVNtuples_18Oct2018/MuonEG/Run2018B-PromptReco-v2/*/*/*.root",
+        "plot_group" : "data-2018"
+    },
+    "data_MuonEG_Run2018C-PromptReco-v1" : {
+        "file_path" : "/store/user/uhussain/UWVVNtuples_18Oct2018/MuonEG/Run2018C-PromptReco-v1/*/*/*.root",
+        "plot_group" : "data-2018"
+    },
+    "data_MuonEG_Run2018C-PromptReco-v2" : {
+        "file_path" : "/store/user/uhussain/UWVVNtuples_18Oct2018/MuonEG/Run2018C-PromptReco-v2/*/*/*.root",
+        "plot_group" : "data-2018"
+    },
+    "data_MuonEG_Run2018C-PromptReco-v3" : {
+        "file_path" : "/store/user/uhussain/UWVVNtuples_18Oct2018/MuonEG/Run2018C-PromptReco-v3/*/*/*.root",
+        "plot_group" : "data-2018"
+    },
+    "data_MuonEG_Run2018D-PromptReco-v2" : {
+        "file_path" : "/store/user/uhussain/UWVVNtuples_18Oct2018/MuonEG/Run2018D-PromptReco-v2/*/*/*.root",
+        "plot_group" : "data-2018"
+    },
+    "data_SingleMuon_Run2018A-PromptReco-v1" : {
+        "file_path" : "/store/user/uhussain/UWVVNtuples_18Oct2018/SingleMuon/Run2018A-PromptReco-v1/*/*/*.root",
+        "plot_group" : "data-2018"
+    },
+    "data_SingleMuon_Run2018A-PromptReco-v2" : {
+        "file_path" : "/store/user/uhussain/UWVVNtuples_18Oct2018/SingleMuon/Run2018A-PromptReco-v2/*/*/*.root",
+        "plot_group" : "data-2018"
+    },
+    "data_SingleMuon_Run2018A-PromptReco-v3" : {
+        "file_path" : "/store/user/uhussain/UWVVNtuples_18Oct2018/SingleMuon/Run2018A-PromptReco-v3/*/*/*.root",
+        "plot_group" : "data-2018"
+    }, 
+    "data_SingleMuon_Run2018B-PromptReco-v1" : {
+        "file_path" : "/store/user/uhussain/UWVVNtuples_18Oct2018/SingleMuon/Run2018B-PromptReco-v1/*/*/*.root",
+         "plot_group" : "data-2018"
+    },
+    "data_SingleMuon_Run2018B-PromptReco-v2" : {
+        "file_path" : "/store/user/uhussain/UWVVNtuples_18Oct2018/SingleMuon/Run2018B-PromptReco-v2/*/*/*.root",
+        "plot_group" : "data-2018"
+    },
+    "data_SingleMuon_Run2018C-PromptReco-v1" : {
+        "file_path" : "/store/user/uhussain/UWVVNtuples_18Oct2018/SingleMuon/Run2018C-PromptReco-v1/*/*/*.root",
+        "plot_group" : "data-2018"
+    },
+    "data_SingleMuon_Run2018C-PromptReco-v2" : {
+        "file_path" : "/store/user/uhussain/UWVVNtuples_18Oct2018/SingleMuon/Run2018C-PromptReco-v2/*/*/*.root",
+        "plot_group" : "data-2018"
+    },
+    "data_SingleMuon_Run2018C-PromptReco-v3" : {
+        "file_path" : "/store/user/uhussain/UWVVNtuples_18Oct2018/SingleMuon/Run2018C-PromptReco-v3/*/*/*.root",
+        "plot_group" : "data-2018"
+    },
+    "data_SingleMuon_Run2018D-PromptReco-v2" : {
+        "file_path" : "/store/user/uhussain/UWVVNtuples_18Oct2018/SingleMuon/Run2018D-PromptReco-v2/*/*/*.root",
+        "plot_group" : "data-2018"
+    }
+}

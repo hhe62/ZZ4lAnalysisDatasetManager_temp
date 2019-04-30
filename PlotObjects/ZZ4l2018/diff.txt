@@ -1,0 +1,80 @@
+280,292d279
+<   "ZMass": {  
+<         "Initialize": {  
+<             "type": "TH1D",
+<             "nbins": 60,
+<             "xmin": 60,
+<             "xmax": 120
+<         },
+<         "Attributes": {  
+<             "GetXaxis().SetTitle": "m_{Z} [GeV]",  
+<             "GetYaxis().SetTitle": "Z bosons / 1 GeV", 
+<             "GetYaxis().SetTitleOffset": 1.2
+<         }
+<     },
+296,297c283,284
+<             "nbins": 60,
+<             "xmin": 60,
+---
+>             "nbins": 40,
+>             "xmin": 40,
+302c289
+<             "GetYaxis().SetTitle": "Events / 1 GeV", 
+---
+>             "GetYaxis().SetTitle": "Events / 2 GeV", 
+349c336
+<             "xmin": 60,
+---
+>             "xmin": 0,
+354c341
+<             "GetYaxis().SetTitle": "Events / 1 GeV", 
+---
+>             "GetYaxis().SetTitle": "Events / 2 GeV", 
+413,415c400,402
+<             "nbins": 22,
+<             "xmin": 100,
+<             "xmax": 1200
+---
+>             "nbins": 284,
+>             "xmin": 70,
+>             "xmax": 1206
+418,419c405,406
+<             "GetXaxis().SetTitle": "m_{ZZ} [GeV]",  
+<             "GetYaxis().SetTitle": "Events / 50 GeV",
+---
+>             "GetXaxis().SetTitle": "m_{4l} [GeV]",  
+>             "GetYaxis().SetTitle": "Events / 4 GeV",
+439,440c426,427
+<             "nbinsx": 60,
+<             "xmin": 60,
+---
+>             "nbinsx": 80,
+>             "xmin": 40,
+442,443c429,430
+<             "nbinsy": 60,
+<             "ymin": 60,
+---
+>             "nbinsy": 108,
+>             "ymin": 12,
+603,623d589
+<     },
+<     "YieldByChannel": {
+<       "Initialize": {  
+<         "type": "TH1D",
+<         "nbins": 4,
+<         "xmin": 0,
+<         "xmax": 4
+<         },
+<       "Attributes": {  
+<        "GetYaxis().SetTitle": "Events",
+<        "GetXaxis().SetBinLabel": [[1, "Total"],
+<             [2, "eeee"],
+<             [3, "ee#mu#mu"],
+<             [4, "#mu#mu#mu#mu"]
+<             ],
+<            "GetXaxis().SetLabelSize" : 0.05,
+<            "GetXaxis().SetLabelOffset" : 1.2,
+<             "GetYaxis().SetTitleOffset": 1.2,
+<             "SetMaximum" : 1200,
+<             "SetMinimum" : 0.001
+<         }

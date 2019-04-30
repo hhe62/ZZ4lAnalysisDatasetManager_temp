@@ -1,0 +1,50 @@
+{ 
+    "EGamma_Run2018A-PromptReco-v1" : {
+        "file_path" : "/store/user/uhussain/UWVVNtuples_26Oct2018/EGamma/Run2018A-PromptReco-v1/*/*/*.root",
+        "plot_group" : "data-2018"
+    },
+    "EGamma_Run2018A-PromptReco-v2" : {
+        "file_path" : "/store/user/uhussain/UWVVNtuples_26Oct2018/EGamma/Run2018A-PromptReco-v2/*/*/*.root",
+        "plot_group" : "data-2018"
+    },
+    "EGamma_Run2018A-PromptReco-v3" : {
+        "file_path" : "/store/user/uhussain/UWVVNtuples_26Oct2018/EGamma/Run2018A-PromptReco-v3/*/*/*.root",
+        "plot_group" : "data-2018"
+    }, 
+    "DoubleMuon_Run2018A-PromptReco-v1" : {
+        "file_path" : "/store/user/uhussain/UWVVNtuples_26Oct2018/DoubleMuon/Run2018A-PromptReco-v1/*/*/*.root",
+        "plot_group" : "data-2018"
+    },
+    "DoubleMuon_Run2018A-PromptReco-v2" : {
+        "file_path" : "/store/user/uhussain/UWVVNtuples_26Oct2018/DoubleMuon/Run2018A-PromptReco-v2/*/*/*.root",
+        "plot_group" : "data-2018"
+    },
+    "DoubleMuon_Run2018A-PromptReco-v3" : {
+        "file_path" : "/store/user/uhussain/UWVVNtuples_26Oct2018/DoubleMuon/Run2018A-PromptReco-v3/*/*/*.root",
+        "plot_group" : "data-2018"
+    }, 
+    "MuonEG_Run2018A-PromptReco-v1" : {
+        "file_path" : "/store/user/uhussain/UWVVNtuples_26Oct2018/MuonEG/Run2018A-PromptReco-v1/*/*/*.root",
+        "plot_group" : "data-2018"
+    },
+    "MuonEG_Run2018A-PromptReco-v2" : {
+        "file_path" : "/store/user/uhussain/UWVVNtuples_26Oct2018/MuonEG/Run2018A-PromptReco-v2/*/*/*.root",
+        "plot_group" : "data-2018"
+    },
+    "MuonEG_Run2018A-PromptReco-v3" : {
+        "file_path" : "/store/user/uhussain/UWVVNtuples_26Oct2018/MuonEG/Run2018A-PromptReco-v3/*/*/*.root",
+        "plot_group" : "data-2018"
+    }, 
+    "SingleMuon_Run2018A-PromptReco-v1" : {
+        "file_path" : "/store/user/uhussain/UWVVNtuples_26Oct2018/SingleMuon/Run2018A-PromptReco-v1/*/*/*.root",
+        "plot_group" : "data-2018"
+    },
+    "SingleMuon_Run2018A-PromptReco-v2" : {
+        "file_path" : "/store/user/uhussain/UWVVNtuples_26Oct2018/SingleMuon/Run2018A-PromptReco-v2/*/*/*.root",
+        "plot_group" : "data-2018"
+    },
+    "SingleMuon_Run2018A-PromptReco-v3" : {
+        "file_path" : "/store/user/uhussain/UWVVNtuples_26Oct2018/SingleMuon/Run2018A-PromptReco-v3/*/*/*.root",
+        "plot_group" : "data-2018"
+    } 
+}

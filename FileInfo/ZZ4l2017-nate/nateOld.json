@@ -1,0 +1,162 @@
+{
+    "DoubleEG_Run2016B-03Feb2017_ver2" : {
+        "file_path" : "/nawoods/ntuples/uwvvNtuples_data_10mar2017_LooseSIPLooseVtx/Run2016B_DoubleEG_03Feb2017_ver2-v2_*.root",
+        "plot_group" : "data"
+    },
+    "DoubleEG_Run2016C-03Feb2017-v1" : {
+        "file_path" : "/nawoods/ntuples/uwvvNtuples_data_10mar2017_LooseSIPLooseVtx/Run2016C_DoubleEG_03Feb2017-v1_*.root",
+        "plot_group" : "data"
+    },
+    "DoubleEG_Run2016D-03Feb2017-v1" : {
+        "file_path" : "/nawoods/ntuples/uwvvNtuples_data_10mar2017_LooseSIPLooseVtx/Run2016D_DoubleEG_03Feb2017-v1_*.root",
+        "plot_group" : "data"
+    },
+    "DoubleEG_Run2016E-03Feb2017-v1" : {
+        "file_path" : "/nawoods/ntuples/uwvvNtuples_data_10mar2017_LooseSIPLooseVtx/Run2016E_DoubleEG_03Feb2017-v1_*.root",
+        "plot_group" : "data"
+    },
+    "DoubleEG_Run2016F-03Feb2017-v1" : {
+        "file_path" : "/nawoods/ntuples/uwvvNtuples_data_10mar2017_LooseSIPLooseVtx/Run2016F_DoubleEG_03Feb2017-v1_*.root",
+        "plot_group" : "data"
+    },
+    "DoubleEG_Run2016G-03Feb2017-v1" : {
+        "file_path" : "/nawoods/ntuples/uwvvNtuples_data_10mar2017_LooseSIPLooseVtx/Run2016G_DoubleEG_03Feb2017-v1_*.root",
+        "plot_group" : "data"
+    },
+    "DoubleEG_Run2016H-03Feb2017_ver2" : {
+        "file_path" : "/nawoods/ntuples/uwvvNtuples_data_10mar2017_LooseSIPLooseVtx/Run2016H_DoubleEG_03Feb2017_ver2-v1_*.root",
+        "plot_group" : "data"
+    },
+    "DoubleEG_Run2016H-03Feb2017_ver3" : {
+        "file_path" : "/nawoods/ntuples/uwvvNtuples_data_10mar2017_LooseSIPLooseVtx/Run2016H_DoubleEG_03Feb2017_ver3-v1_*.root",
+        "plot_group" : "data"
+    },
+    "DoubleMuon_Run2016B-03Feb2017_ver2" : {
+            "file_path" : "/nawoods/ntuples/uwvvNtuples_data_10mar2017_LooseSIPLooseVtx/Run2016B_DoubleMuon_03Feb2017_ver2-v2_*.root",
+            "plot_group" : "data"
+    },
+    "DoubleMuon_Run2016C-03Feb2017-v1" : {
+        "file_path" : "/nawoods/ntuples/uwvvNtuples_data_10mar2017_LooseSIPLooseVtx/Run2016C_DoubleMuon_03Feb2017-v1_*.root",
+        "plot_group" : "data"
+    },
+    "DoubleMuon_Run2016D-03Feb2017-v1" : {
+        "file_path" : "/nawoods/ntuples/uwvvNtuples_data_10mar2017_LooseSIPLooseVtx/Run2016D_DoubleMuon_03Feb2017-v1_*.root",
+        "plot_group" : "data"
+    },
+    "DoubleMuon_Run2016E-03Feb2017-v1" : {
+        "file_path" : "/nawoods/ntuples/uwvvNtuples_data_10mar2017_LooseSIPLooseVtx/Run2016E_DoubleMuon_03Feb2017-v1_*.root",
+        "plot_group" : "data"
+    },
+    "DoubleMuon_Run2016F-03Feb2017-v1" : {
+        "file_path" : "/nawoods/ntuples/uwvvNtuples_data_10mar2017_LooseSIPLooseVtx/Run2016F_DoubleMuon_03Feb2017-v1_*.root",
+        "plot_group" : "data"
+    },
+    "DoubleMuon_Run2016G-03Feb2017-v1" : {
+        "file_path" : "/nawoods/ntuples/uwvvNtuples_data_10mar2017_LooseSIPLooseVtx/Run2016G_DoubleMuon_03Feb2017-v1_*.root",
+        "plot_group" : "data"
+    },
+    "DoubleMuon_Run2016H-03Feb2017_ver2" : {
+        "file_path" : "/nawoods/ntuples/uwvvNtuples_data_10mar2017_LooseSIPLooseVtx/Run2016H_DoubleMuon_03Feb2017_ver2-v1_*.root",
+        "plot_group" : "data"
+    },
+    "DoubleMuon_Run2016H-03Feb2017_ver3" : {
+        "file_path" : "/nawoods/ntuples/uwvvNtuples_data_10mar2017_LooseSIPLooseVtx/Run2016H_DoubleMuon_03Feb2017_ver3-v1_*.root",
+        "plot_group" : "data"
+    },
+    "MuonEG_Run2016B-03Feb2017_ver2" : {
+        "file_path" : "/nawoods/ntuples/uwvvNtuples_data_10mar2017_LooseSIPLooseVtx/Run2016B_MuonEG_03Feb2017_ver2-v2_*.root",
+        "plot_group" : "data"
+    },
+    "MuonEG_Run2016C-03Feb2017-v1" : {
+        "file_path" : "/nawoods/ntuples/uwvvNtuples_data_10mar2017_LooseSIPLooseVtx/Run2016C_MuonEG_03Feb2017-v1_*.root",
+        "plot_group" : "data"
+    },
+    "MuonEG_Run2016D-03Feb2017-v1" : {
+        "file_path" : "/nawoods/ntuples/uwvvNtuples_data_10mar2017_LooseSIPLooseVtx/Run2016D_MuonEG_03Feb2017-v1_*.root",
+        "plot_group" : "data"
+    },
+    "MuonEG_Run2016E-03Feb2017-v1" : {
+        "file_path" : "/nawoods/ntuples/uwvvNtuples_data_10mar2017_LooseSIPLooseVtx/Run2016E_MuonEG_03Feb2017-v1_*.root",
+        "plot_group" : "data"
+    },
+    "MuonEG_Run2016F-03Feb2017-v1" : {
+        "file_path" : "/nawoods/ntuples/uwvvNtuples_data_10mar2017_LooseSIPLooseVtx/Run2016F_MuonEG_03Feb2017-v1_*.root",
+        "plot_group" : "data"
+    },
+    "MuonEG_Run2016G-03Feb2017-v1" : {
+        "file_path" : "/nawoods/ntuples/uwvvNtuples_data_10mar2017_LooseSIPLooseVtx/Run2016G_MuonEG_03Feb2017-v1_*.root",
+        "plot_group" : "data"
+    },
+    "MuonEG_Run2016H-03Feb2017_ver2" : {
+        "file_path" : "/nawoods/ntuples/uwvvNtuples_data_10mar2017_LooseSIPLooseVtx/Run2016H_MuonEG_03Feb2017_ver2-v1_*.root",
+        "plot_group" : "data"
+    },
+    "MuonEG_Run2016H-03Feb2017_ver3" : {
+        "file_path" : "/nawoods/ntuples/uwvvNtuples_data_10mar2017_LooseSIPLooseVtx/Run2016H_MuonEG_03Feb2017_ver3-v1_*.root",
+        "plot_group" : "data"
+    },
+    "SingleMuon_Run2016B-03Feb2017_ver2" : {
+        "file_path" : "/nawoods/ntuples/uwvvNtuples_data_10mar2017_LooseSIPLooseVtx/Run2016B_SingleMuon_03Feb2017_ver2-v2_*.root",
+        "plot_group" : "data"
+    },
+    "SingleMuon_Run2016C-03Feb2017-v1" : {
+        "file_path" : "/nawoods/ntuples/uwvvNtuples_data_10mar2017_LooseSIPLooseVtx/Run2016C_SingleMuon_03Feb2017-v1_*.root",
+        "plot_group" : "data"
+    },
+    "SingleMuon_Run2016D-03Feb2017-v1" : {
+        "file_path" : "/nawoods/ntuples/uwvvNtuples_data_10mar2017_LooseSIPLooseVtx/Run2016D_SingleMuon_03Feb2017-v1_*.root",
+        "plot_group" : "data"
+    },
+    "SingleMuon_Run2016E-03Feb2017-v1" : {
+        "file_path" : "/nawoods/ntuples/uwvvNtuples_data_10mar2017_LooseSIPLooseVtx/Run2016E_SingleMuon_03Feb2017-v1_*.root",
+        "plot_group" : "data"
+    },
+    "SingleMuon_Run2016F-03Feb2017-v1" : {
+        "file_path" : "/nawoods/ntuples/uwvvNtuples_data_10mar2017_LooseSIPLooseVtx/Run2016F_SingleMuon_03Feb2017-v1_*.root",
+        "plot_group" : "data"
+    },
+    "SingleMuon_Run2016G-03Feb2017-v1" : {
+        "file_path" : "/nawoods/ntuples/uwvvNtuples_data_10mar2017_LooseSIPLooseVtx/Run2016G_SingleMuon_03Feb2017-v1_*.root",
+        "plot_group" : "data"
+    },
+    "SingleMuon_Run2016H-03Feb2017_ver2" : {
+        "file_path" : "/nawoods/ntuples/uwvvNtuples_data_10mar2017_LooseSIPLooseVtx/Run2016H_SingleMuon_03Feb2017_ver2-v1_*.root",
+        "plot_group" : "data"
+    },
+    "SingleMuon_Run2016H-03Feb2017_ver3" : {
+        "file_path" : "/nawoods/ntuples/uwvvNtuples_data_10mar2017_LooseSIPLooseVtx/Run2016H_SingleMuon_03Feb2017_ver3-v1_*.root",
+        "plot_group" : "data"
+    },
+    "SingleElectron_Run2016B-03Feb2017_ver2" : {
+        "file_path" : "/nawoods/ntuples/uwvvNtuples_data_10mar2017_LooseSIPLooseVtx/Run2016B_SingleElectron_03Feb2017_ver2-v2_*.root",
+        "plot_group" : "data"
+    },
+    "SingleElectron_Run2016C-03Feb2017-v1" : {
+        "file_path" : "/nawoods/ntuples/uwvvNtuples_data_10mar2017_LooseSIPLooseVtx/Run2016C_SingleElectron_03Feb2017-v1_*.root",
+        "plot_group" : "data"
+    },
+    "SingleElectron_Run2016D-03Feb2017-v1" : {
+        "file_path" : "/nawoods/ntuples/uwvvNtuples_data_10mar2017_LooseSIPLooseVtx/Run2016D_SingleElectron_03Feb2017-v1_*.root",
+        "plot_group" : "data"
+    },
+    "SingleElectron_Run2016E-03Feb2017-v1" : {
+        "file_path" : "/nawoods/ntuples/uwvvNtuples_data_10mar2017_LooseSIPLooseVtx/Run2016E_SingleElectron_03Feb2017-v1_*.root",
+        "plot_group" : "data"
+    },
+    "SingleElectron_Run2016F-03Feb2017-v1" : {
+        "file_path" : "/nawoods/ntuples/uwvvNtuples_data_10mar2017_LooseSIPLooseVtx/Run2016F_SingleElectron_03Feb2017-v1_*.root",
+        "plot_group" : "data"
+    },
+    "SingleElectron_Run2016G-03Feb2017-v1" : {
+        "file_path" : "/nawoods/ntuples/uwvvNtuples_data_10mar2017_LooseSIPLooseVtx/Run2016G_SingleElectron_03Feb2017-v1_*.root",
+        "plot_group" : "data"
+    },
+    "SingleElectron_Run2016H-03Feb2017_ver2" : {
+        "file_path" : "/nawoods/ntuples/uwvvNtuples_data_10mar2017_LooseSIPLooseVtx/Run2016H_SingleElectron_03Feb2017_ver2-v1_*.root",
+        "plot_group" : "data"
+    },
+    "SingleElectron_Run2016H-03Feb2017_ver3" : {
+        "file_path" : "/nawoods/ntuples/uwvvNtuples_data_10mar2017_LooseSIPLooseVtx/Run2016H_SingleElectron_03Feb2017_ver3-v1_*.root",
+        "plot_group" : "data"
+    }
+}

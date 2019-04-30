@@ -1,0 +1,418 @@
+{
+    "DoubleEG_Run2016B-03Feb2017_0" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/B_DoubleEG_03Feb2017_ver2-v2_0/",
+        "plot_group" : "data"
+    },
+    "DoubleEG_Run2016B-03Feb2017_1" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/B_DoubleEG_03Feb2017_ver2-v2_1/",
+        "plot_group" : "data"
+    },
+    "DoubleEG_Run2016B-03Feb2017_2" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/B_DoubleEG_03Feb2017_ver2-v2_2/",
+        "plot_group" : "data"
+    },
+    "DoubleEG_Run2016B-03Feb2017_3" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/B_DoubleEG_03Feb2017_ver2-v2_3/",
+        "plot_group" : "data"
+    },
+    "DoubleEG_Run2016C-03Feb2017_0" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/C_DoubleEG_03Feb2017-v1_0/",
+        "plot_group" : "data"
+    },
+    "DoubleEG_Run2016C-03Feb2017_1" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/C_DoubleEG_03Feb2017-v1_1/",
+        "plot_group" : "data"
+    },
+    "DoubleEG_Run2016D-03Feb2017_0" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/D_DoubleEG_03Feb2017-v1_0/",
+        "plot_group" : "data"
+    },
+    "DoubleEG_Run2016D-03Feb2017_1" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/D_DoubleEG_03Feb2017-v1_1/",
+        "plot_group" : "data"
+    },
+    "DoubleEG_Run2016E-03Feb2017_0" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/E_DoubleEG_03Feb2017-v1_0/",
+        "plot_group" : "data"
+    },
+    "DoubleEG_Run2016E-03Feb2017_1" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/E_DoubleEG_03Feb2017-v1_1/",
+        "plot_group" : "data"
+    },
+    "DoubleEG_Run2016F-03Feb2017_0" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/F_DoubleEG_03Feb2017-v1_0/",
+        "plot_group" : "data"
+    },
+    "DoubleEG_Run2016F-03Feb2017_1" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/F_DoubleEG_03Feb2017-v1_1/",
+        "plot_group" : "data"
+    },
+    "DoubleEG_Run2016G-03Feb2017_0" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/G_DoubleEG_03Feb2017-v1_0/",
+        "plot_group" : "data"
+    },
+    "DoubleEG_Run2016G-03Feb2017_1" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/G_DoubleEG_03Feb2017-v1_1/",
+        "plot_group" : "data"
+    },
+    "DoubleEG_Run2016G-03Feb2017_2" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/G_DoubleEG_03Feb2017-v1_2/",
+        "plot_group" : "data"
+    },
+    "DoubleEG_Run2016H-03Feb2017_0" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/H_DoubleEG_03Feb2017_ver2-v1_0/",
+        "plot_group" : "data"
+    },
+    "DoubleEG_Run2016H-03Feb2017_1" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/H_DoubleEG_03Feb2017_ver2-v1_1/",
+        "plot_group" : "data"
+    },
+    "DoubleEG_Run2016H-03Feb2017_2" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/H_DoubleEG_03Feb2017_ver2-v1_2/",
+        "plot_group" : "data"
+    },
+    "DoubleEG_Run2016H-03Feb2017_3" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/H_DoubleEG_03Feb2017_ver2-v1_3/",
+        "plot_group" : "data"
+    },
+    "DoubleEG_Run2016H-03Feb2017_4" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/H_DoubleEG_03Feb2017_ver2-v1_4/",
+        "plot_group" : "data"
+    },
+    "DoubleEG_Run2016H-03Feb2017_5" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/H_DoubleEG_03Feb2017_ver2-v1_5/",
+        "plot_group" : "data"
+    },
+    "DoubleEG_Run2016H-03Feb2017_ver3_0" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/H_DoubleEG_03Feb2017_ver3-v1_0/",
+        "plot_group" : "data"
+    },
+    "DoubleMuon_Run2016B-03Feb2017_0" : {
+            "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/B_DoubleMuon_03Feb2017_ver2-v2_0/",
+            "plot_group" : "data"
+    },
+    "DoubleMuon_Run2016B-03Feb2017_1" : {
+            "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/B_DoubleMuon_03Feb2017_ver2-v2_1/",
+            "plot_group" : "data"
+    },
+    "DoubleMuon_Run2016C-03Feb2017_0" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/C_DoubleMuon_03Feb2017-v1_0/",
+        "plot_group" : "data"
+    },
+    "DoubleMuon_Run2016D-03Feb2017_0" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/D_DoubleMuon_03Feb2017-v1_0/",
+        "plot_group" : "data"
+    },
+    "DoubleMuon_Run2016D-03Feb2017_1" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/D_DoubleMuon_03Feb2017-v1_1/",
+        "plot_group" : "data"
+    },
+    "DoubleMuon_Run2016E-03Feb2017-v1" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/E_DoubleMuon_03Feb2017-v1_0/",
+        "plot_group" : "data"
+    },
+    "DoubleMuon_Run2016F-03Feb2017-v1" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/F_DoubleMuon_03Feb2017-v1_0/",
+        "plot_group" : "data"
+    },
+    "DoubleMuon_Run2016G-03Feb2017_0" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/G_DoubleMuon_03Feb2017-v1_0/",
+        "plot_group" : "data"
+    },
+    "DoubleMuon_Run2016G-03Feb2017_1" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/G_DoubleMuon_03Feb2017-v1_1/",
+        "plot_group" : "data"
+    },
+    "DoubleMuon_Run2016H-03Feb2017_0" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/H_DoubleMuon_03Feb2017_ver2-v1_0/",
+        "plot_group" : "data"
+    },
+    "DoubleMuon_Run2016H-03Feb2017_1" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/H_DoubleMuon_03Feb2017_ver2-v1_1/",
+        "plot_group" : "data"
+    },
+    "DoubleMuon_Run2016H-03Feb2017_ver3_0" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/H_DoubleMuon_03Feb2017_ver3-v1_0/",
+        "plot_group" : "data"
+    },
+    "MuonEG_Run2016B-03Feb2017_ver2" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/B_MuonEG_03Feb2017_ver2-v2_0/",
+        "plot_group" : "data"
+    },
+    "MuonEG_Run2016C-03Feb2017-v1" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/C_MuonEG_03Feb2017-v1_0/",
+        "plot_group" : "data"
+    },
+    "MuonEG_Run2016D-03Feb2017-v1" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/D_MuonEG_03Feb2017-v1_0/",
+        "plot_group" : "data"
+    },
+    "MuonEG_Run2016E-03Feb2017-v1" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/E_MuonEG_03Feb2017-v1_0/",
+        "plot_group" : "data"
+    },
+    "MuonEG_Run2016F-03Feb2017-v1" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/F_MuonEG_03Feb2017-v1_0/",
+        "plot_group" : "data"
+    },
+    "MuonEG_Run2016G-03Feb2017_0" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/G_MuonEG_03Feb2017-v1_0/",
+        "plot_group" : "data"
+    },
+    "MuonEG_Run2016G-03Feb2017_1" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/G_MuonEG_03Feb2017-v1_1/",
+        "plot_group" : "data"
+    },
+    "MuonEG_Run2016H-03Feb2017_0" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/H_MuonEG_03Feb2017_ver2-v1_0/",
+        "plot_group" : "data"
+    },
+    "MuonEG_Run2016H-03Feb2017_1" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/H_MuonEG_03Feb2017_ver2-v1_1/",
+        "plot_group" : "data"
+    },
+    "MuonEG_Run2016H-03Feb2017_ver3" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/H_MuonEG_03Feb2017_ver3-v1_0/",
+        "plot_group" : "data"
+    },
+    "SingleMuon_Run2016B-03Feb2017_0" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/B_SingleMuon_03Feb2017_ver2-v2_0/",
+        "plot_group" : "data"
+    },
+    "SingleMuon_Run2016B-03Feb2017_1" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/B_SingleMuon_03Feb2017_ver2-v2_1/",
+        "plot_group" : "data"
+    },
+    "SingleMuon_Run2016B-03Feb2017_2" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/B_SingleMuon_03Feb2017_ver2-v2_2/",
+        "plot_group" : "data"
+    },
+    "SingleMuon_Run2016B-03Feb2017_3" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/B_SingleMuon_03Feb2017_ver2-v2_3/",
+        "plot_group" : "data"
+    },
+    "SingleMuon_Run2016C-03Feb2017_0" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/C_SingleMuon_03Feb2017-v1_0/",
+        "plot_group" : "data"
+    },
+    "SingleMuon_Run2016C-03Feb2017_1" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/C_SingleMuon_03Feb2017-v1_1/",
+        "plot_group" : "data"
+    },
+    "SingleMuon_Run2016D-03Feb2017_0" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/D_SingleMuon_03Feb2017-v1_0/",
+        "plot_group" : "data"
+    },
+    "SingleMuon_Run2016D-03Feb2017_1" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/D_SingleMuon_03Feb2017-v1_1/",
+        "plot_group" : "data"
+    },
+    "SingleMuon_Run2016D-03Feb2017_2" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/D_SingleMuon_03Feb2017-v1_2/",
+        "plot_group" : "data"
+    },
+    "SingleMuon_Run2016E-03Feb2017_0" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/E_SingleMuon_03Feb2017-v1_0/",
+        "plot_group" : "data"
+    },
+    "SingleMuon_Run2016E-03Feb2017_1" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/E_SingleMuon_03Feb2017-v1_1/",
+        "plot_group" : "data"
+    },
+    "SingleMuon_Run2016E-03Feb2017_2" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/E_SingleMuon_03Feb2017-v1_2/",
+        "plot_group" : "data"
+    },
+    "SingleMuon_Run2016F-03Feb2017_0" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/F_SingleMuon_03Feb2017-v1_0/",
+        "plot_group" : "data"
+    },
+    "SingleMuon_Run2016F-03Feb2017_1" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/F_SingleMuon_03Feb2017-v1_1/",
+        "plot_group" : "data"
+    },
+    "SingleMuon_Run2016G-03Feb2017_0" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/G_SingleMuon_03Feb2017-v1_0/",
+        "plot_group" : "data"
+    },
+    "SingleMuon_Run2016G-03Feb2017_1" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/G_SingleMuon_03Feb2017-v1_1/",
+        "plot_group" : "data"
+    },
+    "SingleMuon_Run2016G-03Feb2017_2" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/G_SingleMuon_03Feb2017-v1_2/",
+        "plot_group" : "data"
+    },
+    "SingleMuon_Run2016G-03Feb2017_3" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/G_SingleMuon_03Feb2017-v1_3/",
+        "plot_group" : "data"
+    },
+    "SingleMuon_Run2016H-03Feb2017_0" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/H_SingleMuon_03Feb2017_ver2-v1_0/",
+        "plot_group" : "data"
+    },
+    "SingleMuon_Run2016H-03Feb2017_1" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/H_SingleMuon_03Feb2017_ver2-v1_1/",
+        "plot_group" : "data"
+    },
+    "SingleMuon_Run2016H-03Feb2017_2" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/H_SingleMuon_03Feb2017_ver2-v1_2/",
+        "plot_group" : "data"
+    },
+    "SingleMuon_Run2016H-03Feb2017_3" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/H_SingleMuon_03Feb2017_ver2-v1_3/",
+        "plot_group" : "data"
+    },
+    "SingleMuon_Run2016H-03Feb2017_4" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/H_SingleMuon_03Feb2017_ver2-v1_4/",
+        "plot_group" : "data"
+    },
+    "SingleMuon_Run2016H-03Feb2017_5" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/H_SingleMuon_03Feb2017_ver2-v1_5/",
+        "plot_group" : "data"
+    },
+    "SingleMuon_Run2016H-03Feb2017_6" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/H_SingleMuon_03Feb2017_ver2-v1_6/",
+        "plot_group" : "data"
+    },
+    "SingleMuon_Run2016H-03Feb2017_ver3" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/H_SingleMuon_03Feb2017_ver3-v1_0/",
+        "plot_group" : "data"
+    },
+    "SingleElectron_Run2016B-03Feb2017_0" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/B_SingleElectron_03Feb2017_ver2-v2_0/",
+        "plot_group" : "data"
+    },
+    "SingleElectron_Run2016B-03Feb2017_1" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/B_SingleElectron_03Feb2017_ver2-v2_1/",
+        "plot_group" : "data"
+    },
+    "SingleElectron_Run2016B-03Feb2017_2" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/B_SingleElectron_03Feb2017_ver2-v2_2/",
+        "plot_group" : "data"
+    },
+    "SingleElectron_Run2016B-03Feb2017_3" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/B_SingleElectron_03Feb2017_ver2-v2_3/",
+        "plot_group" : "data"
+    },
+    "SingleElectron_Run2016B-03Feb2017_4" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/B_SingleElectron_03Feb2017_ver2-v2_4/",
+        "plot_group" : "data"
+    },
+    "SingleElectron_Run2016B-03Feb2017_5" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/B_SingleElectron_03Feb2017_ver2-v2_5/",
+        "plot_group" : "data"
+    },
+    "SingleElectron_Run2016B-03Feb2017_6" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/B_SingleElectron_03Feb2017_ver2-v2_6/",
+        "plot_group" : "data"
+    },
+    "SingleElectron_Run2016C-03Feb2017_0" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/C_SingleElectron_03Feb2017-v1_0/",
+        "plot_group" : "data"
+    },
+    "SingleElectron_Run2016C-03Feb2017_1" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/C_SingleElectron_03Feb2017-v1_1/",
+        "plot_group" : "data"
+    },
+    "SingleElectron_Run2016C-03Feb2017_2" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/C_SingleElectron_03Feb2017-v1_2/",
+        "plot_group" : "data"
+    },
+    "SingleElectron_Run2016D-03Feb2017_0" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/D_SingleElectron_03Feb2017-v1_0/",
+        "plot_group" : "data"
+    },
+    "SingleElectron_Run2016D-03Feb2017_1" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/D_SingleElectron_03Feb2017-v1_1/",
+        "plot_group" : "data"
+    },
+    "SingleElectron_Run2016D-03Feb2017_2" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/D_SingleElectron_03Feb2017-v1_2/",
+        "plot_group" : "data"
+    },
+    "SingleElectron_Run2016D-03Feb2017_3" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/D_SingleElectron_03Feb2017-v1_3/",
+        "plot_group" : "data"
+    },
+    "SingleElectron_Run2016D-03Feb2017_4" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/D_SingleElectron_03Feb2017-v1_4/",
+        "plot_group" : "data"
+    },
+    "SingleElectron_Run2016E-03Feb2017_0" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/E_SingleElectron_03Feb2017-v1_0/",
+        "plot_group" : "data"
+    },
+    "SingleElectron_Run2016E-03Feb2017_1" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/E_SingleElectron_03Feb2017-v1_1/",
+        "plot_group" : "data"
+    },
+    "SingleElectron_Run2016E-03Feb2017_2" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/E_SingleElectron_03Feb2017-v1_2/",
+        "plot_group" : "data"
+    },
+    "SingleElectron_Run2016E-03Feb2017_3" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/E_SingleElectron_03Feb2017-v1_3/",
+        "plot_group" : "data"
+    },
+    "SingleElectron_Run2016F-03Feb2017_0" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/F_SingleElectron_03Feb2017-v1_0/",
+        "plot_group" : "data"
+    },
+    "SingleElectron_Run2016F-03Feb2017_1" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/F_SingleElectron_03Feb2017-v1_1/",
+        "plot_group" : "data"
+    },
+    "SingleElectron_Run2016F-03Feb2017_2" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/F_SingleElectron_03Feb2017-v1_2/",
+        "plot_group" : "data"
+    },
+    "SingleElectron_Run2016G-03Feb2017_0" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/G_SingleElectron_03Feb2017-v1_0/",
+        "plot_group" : "data"
+    },
+    "SingleElectron_Run2016G-03Feb2017_1" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/G_SingleElectron_03Feb2017-v1_1/",
+        "plot_group" : "data"
+    },
+    "SingleElectron_Run2016G-03Feb2017_2" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/G_SingleElectron_03Feb2017-v1_2/",
+        "plot_group" : "data"
+    },
+    "SingleElectron_Run2016G-03Feb2017_3" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/G_SingleElectron_03Feb2017-v1_3/",
+        "plot_group" : "data"
+    },
+    "SingleElectron_Run2016G-03Feb2017_4" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/G_SingleElectron_03Feb2017-v1_4/",
+        "plot_group" : "data"
+    },
+    "SingleElectron_Run2016H-03Feb2017_0" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/H_SingleElectron_03Feb2017_ver2-v1_0/",
+        "plot_group" : "data"
+    },
+    "SingleElectron_Run2016H-03Feb2017_1" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/H_SingleElectron_03Feb2017_ver2-v1_1/",
+        "plot_group" : "data"
+    },
+    "SingleElectron_Run2016H-03Feb2017_2" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/H_SingleElectron_03Feb2017_ver2-v1_2/",
+        "plot_group" : "data"
+    },
+    "SingleElectron_Run2016H-03Feb2017_3" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/H_SingleElectron_03Feb2017_ver2-v1_3/",
+        "plot_group" : "data"
+    },
+    "SingleElectron_Run2016H-03Feb2017_4" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/H_SingleElectron_03Feb2017_ver2-v1_4/",
+        "plot_group" : "data"
+    },
+    "SingleElectron_Run2016H-03Feb2017_5" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/H_SingleElectron_03Feb2017_ver2-v1_5/",
+        "plot_group" : "data"
+    },
+    "SingleElectron_Run2016H-03Feb2017_ver3" : {
+        "file_path" : "/data/uhussain/ZZTo4l/NateDataFiles/H_SingleElectron_03Feb2017_ver3-v1_0/",
+        "plot_group" : "data"
+    }
+}

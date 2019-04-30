@@ -1,0 +1,183 @@
+3c3
+<         "file_path" : "/store/user/uhussain/UWVVNtuples_13Feb2019/DoubleEG/Run2017B-17Nov2017-v1/*/*/*.root",
+---
+>         "file_path" : "/data/uhussain/ZZSkimmedFiles/ZZ2018Analysis_2018-12-13/LooseLeptons/2018-12-12-data_DoubleEG_Run2017B-17Nov2017-v1-ZZ4l2018-loosePreselectionTo4lmass-v1/*",
+7c7
+<         "file_path" : "/store/user/uhussain/UWVVNtuples_13Feb2019/DoubleEG/Run2017C-17Nov2017-v1/*/*/*.root",
+---
+>         "file_path" : "/data/uhussain/ZZSkimmedFiles/ZZ2018Analysis_2018-12-13/LooseLeptons/2018-12-12-data_DoubleEG_Run2017C-17Nov2017-v1-ZZ4l2018-loosePreselectionTo4lmass-v1/*",
+11c11
+<         "file_path" : "/store/user/uhussain/UWVVNtuples_13Feb2019/DoubleEG/Run2017D-17Nov2017-v1/*/*/*.root",
+---
+>         "file_path" : "/data/uhussain/ZZSkimmedFiles/ZZ2018Analysis_2018-12-13/LooseLeptons/2018-12-12-data_DoubleEG_Run2017D-17Nov2017-v1-ZZ4l2018-loosePreselectionTo4lmass-v1/*",
+15c15
+<         "file_path" : "/store/user/uhussain/UWVVNtuples_13Feb2019/DoubleEG/Run2017E-17Nov2017-v1/*/*/*.root",
+---
+>         "file_path" : "/data/uhussain/ZZSkimmedFiles/ZZ2018Analysis_2018-12-13/LooseLeptons/2018-12-12-data_DoubleEG_Run2017E-17Nov2017-v1-ZZ4l2018-loosePreselectionTo4lmass-v1/*",
+19c19
+<         "file_path" : "/store/user/uhussain/UWVVNtuples_13Feb2019/DoubleEG/Run2017F-17Nov2017-v1/*/*/*.root",
+---
+>         "file_path" : "/data/uhussain/ZZSkimmedFiles/ZZ2018Analysis_2018-12-13/LooseLeptons/2018-12-12-data_DoubleEG_Run2017F-17Nov2017-v1-ZZ4l2018-loosePreselectionTo4lmass-v1/*",
+23c23
+<             "file_path" : "/store/user/uhussain/UWVVNtuples_13Feb2019/DoubleMuon/Run2017B-17Nov2017-v1/*/*/*.root",
+---
+>             "file_path" : "/data/uhussain/ZZSkimmedFiles/ZZ2018Analysis_2018-12-13/LooseLeptons/2018-12-12-data_DoubleMuon_Run2017B-17Nov2017-v1-ZZ4l2018-loosePreselectionTo4lmass-v1/*",
+27c27
+<         "file_path" : "/store/user/uhussain/UWVVNtuples_13Feb2019/DoubleMuon/Run2017C-17Nov2017-v1/*/*/*.root",
+---
+>         "file_path" : "/data/uhussain/ZZSkimmedFiles/ZZ2018Analysis_2018-12-13/LooseLeptons/2018-12-12-data_DoubleMuon_Run2017C-17Nov2017-v1-ZZ4l2018-loosePreselectionTo4lmass-v1/*",
+31c31
+<         "file_path" : "/store/user/uhussain/UWVVNtuples_13Feb2019/DoubleMuon/Run2017D-17Nov2017-v1/*/*/*.root",
+---
+>         "file_path" : "/data/uhussain/ZZSkimmedFiles/ZZ2018Analysis_2018-12-13/LooseLeptons/2018-12-12-data_DoubleMuon_Run2017D-17Nov2017-v1-ZZ4l2018-loosePreselectionTo4lmass-v1/*",
+35c35
+<         "file_path" : "/store/user/uhussain/UWVVNtuples_13Feb2019/DoubleMuon/Run2017E-17Nov2017-v1/*/*/*.root",
+---
+>         "file_path" : "/data/uhussain/ZZSkimmedFiles/ZZ2018Analysis_2018-12-13/LooseLeptons/2018-12-12-data_DoubleMuon_Run2017E-17Nov2017-v1-ZZ4l2018-loosePreselectionTo4lmass-v1/*",
+39c39
+<         "file_path" : "/store/user/uhussain/UWVVNtuples_13Feb2019/DoubleMuon/Run2017F-17Nov2017-v1/*/*/*.root",
+---
+>         "file_path" : "/data/uhussain/ZZSkimmedFiles/ZZ2018Analysis_2018-12-13/LooseLeptons/2018-12-12-data_DoubleMuon_Run2017F-17Nov2017-v1-ZZ4l2018-loosePreselectionTo4lmass-v1/*",
+43c43
+<         "file_path" : "/store/user/uhussain/UWVVNtuples_13Feb2019/MuonEG/Run2017B-17Nov2017-v1/*/*/*.root",
+---
+>         "file_path" : "/data/uhussain/ZZSkimmedFiles/ZZ2018Analysis_2018-12-13/LooseLeptons/2018-12-12-data_MuonEG_Run2017B-17Nov2017-v1-ZZ4l2018-loosePreselectionTo4lmass-v1/*",
+47c47
+<         "file_path" : "/store/user/uhussain/UWVVNtuples_13Feb2019/MuonEG/Run2017C-17Nov2017-v1/*/*/*.root",
+---
+>         "file_path" : "/data/uhussain/ZZSkimmedFiles/ZZ2018Analysis_2018-12-13/LooseLeptons/2018-12-12-data_MuonEG_Run2017C-17Nov2017-v1-ZZ4l2018-loosePreselectionTo4lmass-v1/*",
+51c51
+<         "file_path" : "/store/user/uhussain/UWVVNtuples_13Feb2019/MuonEG/Run2017D-17Nov2017-v1/*/*/*.root",
+---
+>         "file_path" : "/data/uhussain/ZZSkimmedFiles/ZZ2018Analysis_2018-12-13/LooseLeptons/2018-12-12-data_MuonEG_Run2017D-17Nov2017-v1-ZZ4l2018-loosePreselectionTo4lmass-v1/*",
+55c55
+<         "file_path" : "/store/user/uhussain/UWVVNtuples_13Feb2019/MuonEG/Run2017E-17Nov2017-v1/*/*/*.root",
+---
+>         "file_path" : "/data/uhussain/ZZSkimmedFiles/ZZ2018Analysis_2018-12-13/LooseLeptons/2018-12-12-data_MuonEG_Run2017E-17Nov2017-v1-ZZ4l2018-loosePreselectionTo4lmass-v1/*",
+59c59
+<         "file_path" : "/store/user/uhussain/UWVVNtuples_13Feb2019/MuonEG/Run2017F-17Nov2017-v1/*/*/*.root",
+---
+>         "file_path" : "/data/uhussain/ZZSkimmedFiles/ZZ2018Analysis_2018-12-13/LooseLeptons/2018-12-12-data_MuonEG_Run2017F-17Nov2017-v1-ZZ4l2018-loosePreselectionTo4lmass-v1/*",
+63c63
+<         "file_path" : "/store/user/uhussain/UWVVNtuples_13Feb2019/SingleMuon/Run2017B-17Nov2017-v1/*/*/*.root",
+---
+>         "file_path" : "/data/uhussain/ZZSkimmedFiles/ZZ2018Analysis_2018-12-13/LooseLeptons/2018-12-12-data_SingleMuon_Run2017B-17Nov2017-v1-ZZ4l2018-loosePreselectionTo4lmass-v1/*",
+67c67
+<         "file_path" : "/store/user/uhussain/UWVVNtuples_19Feb2019/SingleMuon/Run2017C-17Nov2017-v1/*/*/*.root",
+---
+>         "file_path" : "/data/uhussain/ZZSkimmedFiles/ZZ2018Analysis_2018-12-13/LooseLeptons/2018-12-12-data_SingleMuon_Run2017C-17Nov2017-v1-ZZ4l2018-loosePreselectionTo4lmass-v1/*",
+71c71
+<         "file_path" : "/store/user/uhussain/UWVVNtuples_13Feb2019/SingleMuon/Run2017D-17Nov2017-v1/*/*/*.root",
+---
+>         "file_path" : "/data/uhussain/ZZSkimmedFiles/ZZ2018Analysis_2018-12-13/LooseLeptons/2018-12-12-data_SingleMuon_Run2017D-17Nov2017-v1-ZZ4l2018-loosePreselectionTo4lmass-v1/*",
+75c75
+<         "file_path" : "/store/user/uhussain/UWVVNtuples_13Feb2019/SingleMuon/Run2017E-17Nov2017-v1/*/*/*.root",
+---
+>         "file_path" : "/data/uhussain/ZZSkimmedFiles/ZZ2018Analysis_2018-12-13/LooseLeptons/2018-12-12-data_SingleMuon_Run2017E-17Nov2017-v1-ZZ4l2018-loosePreselectionTo4lmass-v1/*",
+79c79
+<         "file_path" : "/store/user/uhussain/UWVVNtuples_19Feb2019/SingleMuon/Run2017F-17Nov2017-v1/*/*/*.root",
+---
+>         "file_path" : "/data/uhussain/ZZSkimmedFiles/ZZ2018Analysis_2018-12-13/LooseLeptons/2018-12-12-data_SingleMuon_Run2017F-17Nov2017-v1-ZZ4l2018-loosePreselectionTo4lmass-v1/*",
+83c83
+<         "file_path" : "/store/user/uhussain//UWVVNtuples_13Feb2019/SingleElectron/Run2017B-17Nov2017-v1/*/*/*.root",
+---
+>         "file_path" : "/data/uhussain/ZZSkimmedFiles/ZZ2018Analysis_2018-12-13/LooseLeptons/2018-12-12-data_SingleElectron_Run2017B-17Nov2017-v1-ZZ4l2018-loosePreselectionTo4lmass-v1/*",
+87c87
+<         "file_path" : "/store/user/uhussain/UWVVNtuples_19Feb2019/SingleElectron/Run2017C-17Nov2017-v1/*/*/*.root",
+---
+>         "file_path" : "/data/uhussain/ZZSkimmedFiles/ZZ2018Analysis_2018-12-13/LooseLeptons/2018-12-12-data_SingleElectron_Run2017C-17Nov2017-v1-ZZ4l2018-loosePreselectionTo4lmass-v1/*",
+91c91
+<         "file_path" : "/store/user/uhussain/UWVVNtuples_13Feb2019/SingleElectron/Run2017D-17Nov2017-v1/*/*/*.root",
+---
+>         "file_path" : "/data/uhussain/ZZSkimmedFiles/ZZ2018Analysis_2018-12-13/LooseLeptons/2018-12-12-data_SingleElectron_Run2017D-17Nov2017-v1-ZZ4l2018-loosePreselectionTo4lmass-v1/*",
+95c95
+<         "file_path" : "/store/user/uhussain/UWVVNtuples_13Feb2019/SingleElectron/Run2017E-17Nov2017-v1/*/*/*.root",
+---
+>         "file_path" : "/data/uhussain/ZZSkimmedFiles/ZZ2018Analysis_2018-12-13/LooseLeptons/2018-12-12-data_SingleElectron_Run2017E-17Nov2017-v1-ZZ4l2018-loosePreselectionTo4lmass-v1/*",
+99c99
+<         "file_path" : "/store/user/uhussain/UWVVNtuples_13Feb2019/SingleElectron/Run2017F-17Nov2017-v1/*/*/*.root",
+---
+>         "file_path" : "/data/uhussain/ZZSkimmedFiles/ZZ2018Analysis_2018-12-13/LooseLeptons/2018-12-12-data_SingleElectron_Run2017F-17Nov2017-v1-ZZ4l2018-loosePreselectionTo4lmass-v1/*",
+103c103
+<         "file_path" : "/store/user/uhussain/UWVVNtuples_13Feb2019/WZTo3LNu_TuneCP5_13TeV-amcatnloFXFX-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/*/*/*.root",
+---
+>         "file_path" : "/data/uhussain/ZZSkimmedFiles/ZZ2018Analysis_2018-12-13/LooseLeptons/2018-12-12-wz3lnu-mg5amcnlo-ZZ4l2018-loosePreselectionTo4lmass-v1/*",
+107c107
+<         "file_path" : "/store/user/uhussain/UWVVNtuples_13Feb2019/ZZTo4L_13TeV_powheg_pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14_ext1-v1/*/*/*.root",
+---
+>         "file_path" : "/data/uhussain/ZZSkimmedFiles/ZZ2018Analysis_2018-12-13/LooseLeptons/2018-12-12-zz4l-powheg-ZZ4l2018-loosePreselectionTo4lmass-v1/*",
+111,112c111,112
+<         "file_path" : "/store/user/uhussain/UWVVNtuples_13Feb2019/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/*/*/*.root",
+<          "plot_group" : "top"
+---
+>         "file_path" : "/data/uhussain/ZZSkimmedFiles/ZZ2018Analysis_2018-12-13/LooseLeptons/2018-12-12-tt-jets-ZZ4l2018-loosePreselectionTo4lmass-v1/*",
+>         "plot_group" : "top"
+115c115
+<         "file_path" : "/store/user/uhussain/UWVVNtuples_13Feb2019/DYJetsToLL_M-10to50_TuneCP5_13TeV-madgraphMLM-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14_ext1-v2/*/*/*.root",
+---
+>         "file_path" : "/data/uhussain/ZZSkimmedFiles/ZZ2018Analysis_2018-12-13/LooseLeptons/2018-12-12-DYJetsToLL_M10to50-ZZ4l2018-loosePreselectionTo4lmass-v1/*",
+119c119
+<         "file_path" : "/store/user/uhussain/UWVVNtuples_13Feb2019/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14_ext1-v1/*/*/*.root",
+---
+>         "file_path" : "/data/uhussain/ZZSkimmedFiles/ZZ2018Analysis_2018-12-13/LooseLeptons/2018-12-12-DYJetsToLLM-50-ZZ4l2018-loosePreselectionTo4lmass-v1/*",
+123c123
+<         "file_path" : "/store/user/uhussain/UWVVNtuples_13Feb2019/GluGluToContinToZZTo4e_13TeV_MCFM701_pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14_ext1-v2/*/*/*.root",
+---
+>         "file_path" : "/data/uhussain/ZZSkimmedFiles/ZZ2018Analysis_2018-12-13/LooseLeptons/2018-12-12-ggZZ4e-ZZ4l2018-loosePreselectionTo4lmass-v1/*",
+127c127
+<         "file_path" : "/store/user/uhussain/UWVVNtuples_13Feb2019/GluGluToContinToZZTo4mu_13TeV_MCFM701_pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14_ext1-v2/*/*/*.root",
+---
+>         "file_path" : "/data/uhussain/ZZSkimmedFiles/ZZ2018Analysis_2018-12-13/LooseLeptons/2018-12-12-ggZZ4m-ZZ4l2018-loosePreselectionTo4lmass-v1/*",
+131c131
+<         "file_path" : "/store/user/uhussain/UWVVNtuples_13Feb2019/GluGluToContinToZZTo2e2mu_13TeV_MCFM701_pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14_ext1-v2/*/*/*.root",
+---
+>         "file_path" : "/data/uhussain/ZZSkimmedFiles/ZZ2018Analysis_2018-12-13/LooseLeptons/2018-12-12-ggZZ2e2mu-ZZ4l2018-loosePreselectionTo4lmass-v1/*",
+135c135
+<         "file_path" : "/store/user/uhussain/UWVVNtuples_13Feb2019/GluGluToContinToZZTo2e2tau_13TeV_MCFM701_pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14_ext1-v2/*/*/*.root",
+---
+>         "file_path" : "/data/uhussain/ZZSkimmedFiles/ZZ2018Analysis_2018-12-13/LooseLeptons/2018-12-12-ggZZ2e2tau-ZZ4l2018-loosePreselectionTo4lmass-v1/*",
+139c139
+<         "file_path" : "/store/user/uhussain/UWVVNtuples_13Feb2019/GluGluToContinToZZTo2mu2tau_13TeV_MCFM701_pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14_ext1-v2/*/*/*.root",
+---
+>         "file_path" : "/data/uhussain/ZZSkimmedFiles/ZZ2018Analysis_2018-12-13/LooseLeptons/2018-12-12-ggZZ2mu2tau-ZZ4l2018-loosePreselectionTo4lmass-v1/*",
+143c143
+<         "file_path" : "/store/user/uhussain/UWVVNtuples16_13Feb2019/ZZGJetsTo4L2Nu_4f_TuneCP5_13TeV_amcatnloFXFX_pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/*/*/*.root",
+---
+>         "file_path" : "/data/uhussain/ZZSkimmedFiles/ZZ2018Analysis_2018-12-13/LooseLeptons/2019-01-29-ZZGJetsTo4L2Nu-ZZ4l2018-loosePreselectionTo4lmass-v1/*",
+147c147
+<         "file_path" : "/store/user/uhussain/UWVVNtuples16_13Feb2019/ZZZJetsTo4L2Nu_4f_TuneCP5_13TeV_amcatnloFXFX_pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/*/*/*.root",
+---
+>         "file_path" : "/data/uhussain/ZZSkimmedFiles/ZZ2018Analysis_2018-12-13/LooseLeptons/2019-01-29-ZZZJetsTo4L2Nu-ZZ4l2018-loosePreselectionTo4lmass-v1/*",
+151c151
+<         "file_path" : "/store/user/uhussain/UWVVNtuples16_13Feb2019/WZZJetsTo4L2Nu_4f_TuneCP5_13TeV_amcatnloFXFX_pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/*/*/*.root",
+---
+>         "file_path" : "/data/uhussain/ZZSkimmedFiles/ZZ2018Analysis_2018-12-13/LooseLeptons/2019-01-29-WZZJetsTo4L2Nu-ZZ4l2018-loosePreselectionTo4lmass-v1/*",
+155c155
+<         "file_path" : "/store/user/uhussain/UWVVNtuples16_13Feb2019/WWZJetsTo4L2Nu_4f_TuneCP5_13TeV_amcatnloFXFX_pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/*/*/*.root",
+---
+>         "file_path" : "/data/uhussain/ZZSkimmedFiles/ZZ2018Analysis_2018-12-13/LooseLeptons/2019-01-29-WWZJetsTo4L2Nu-ZZ4l2018-loosePreselectionTo4lmass-v1/*",
+157a158,161
+>     "ggHZZ" : {
+>         "file_path" : "/data/uhussain/ZZSkimmedFiles/ZZ2018Analysis_2018-12-13/LooseLeptons/2018-12-12-ggHZZ-ZZ4l2018-loosePreselectionTo4lmass-v1/*",
+>         "plot_group" : "HZZ-signal"
+>     },
+159c163
+<         "file_path" : "/store/user/uhussain/UWVVNtuples_13Feb2019/ttH_HToZZ_4LFilter_M125_13TeV_powheg2_JHUGenV7011_pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14_ext1-v1/*/*/*.root",
+---
+>         "file_path" : "/data/uhussain/ZZSkimmedFiles/ZZ2018Analysis_2018-12-13/LooseLeptons/2018-12-12-ttH_HToZZ_4L-ZZ4l2018-loosePreselectionTo4lmass-v1/*",
+163c167
+<         "file_path" : "/store/user/uhussain/UWVVNtuples_13Feb2019/WminusH_HToZZTo4L_M125_13TeV_powheg2-minlo-HWJ_JHUGenV7011_pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14_ext1-v1/*/*/*.root",
+---
+>         "file_path" : "/data/uhussain/ZZSkimmedFiles/ZZ2018Analysis_2018-12-13/LooseLeptons/2018-12-12-WminusHToZZ-ZZ4l2018-loosePreselectionTo4lmass-v1/*",
+167c171
+<         "file_path" : "/store/user/uhussain/UWVVNtuples_13Feb2019/WplusH_HToZZTo4L_M125_13TeV_powheg2-minlo-HWJ_JHUGenV7011_pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/*/*/*.root",
+---
+>         "file_path" : "/data/uhussain/ZZSkimmedFiles/ZZ2018Analysis_2018-12-13/LooseLeptons/2018-12-12-WplusHToZZ-ZZ4l2018-loosePreselectionTo4lmass-v1/*",
+171,175c175
+<         "file_path" : "/store/user/uhussain/UWVVNtuples_13Feb2019/ZH_HToZZ_4LFilter_M125_13TeV_powheg2-minlo-HZJ_JHUGenV7011_pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/*/*/*.root",
+<         "plot_group" : "HZZ-signal"
+<     },
+<     "ggHZZ" : {
+<         "file_path" : "/store/user/uhussain/UWVVNtuples_13Feb2019/GluGluHToZZTo4L_M125_13TeV_powheg2_JHUGenV7011_pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/*/*/*.root",
+---
+>         "file_path" : "/data/uhussain/ZZSkimmedFiles/ZZ2018Analysis_2018-12-13/LooseLeptons/2018-12-12-ZHToZZ_4L-ZZ4l2018-loosePreselectionTo4lmass-v1/*",

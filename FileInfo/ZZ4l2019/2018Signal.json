@@ -1,0 +1,26 @@
+{
+    "ggHZZ" : {
+        "file_path" : "/data/uhussain/ZZ2019AnalysisJobs_2019-01-17/LooseLeptons/2019-01-17-ggHZZ-ZZ4l2019-loosePreselectionTo4lmass-v1/*",
+        "plot_group" : "HZZ-signal"
+    },
+    "vbfHZZ" : {
+        "file_path" : "/data/uhussain/ZZ2019AnalysisJobs_2019-01-17/LooseLeptons/2019-01-17-vbfHZZ-ZZ4l2019-loosePreselectionTo4lmass-v1/*",
+        "plot_group" : "HZZ-signal"
+    },
+    "ttH_HToZZ_4L" : {
+        "file_path" : "/data/uhussain/ZZ2019AnalysisJobs_2019-01-17/LooseLeptons/2019-01-17-ttH_HToZZ_4L-ZZ4l2019-loosePreselectionTo4lmass-v1/*",
+        "plot_group" : "HZZ-signal"
+    },
+    "WminusHToZZ" : {
+        "file_path" : "/data/uhussain/ZZ2019AnalysisJobs_2019-01-17/LooseLeptons/2019-01-17-WminusHToZZ-ZZ4l2019-loosePreselectionTo4lmass-v1/*",
+        "plot_group" : "HZZ-signal"
+    },
+    "WplusHToZZ" : {
+        "file_path" : "/data/uhussain/ZZ2019AnalysisJobs_2019-01-17/LooseLeptons/2019-01-17-WplusHToZZ-ZZ4l2019-loosePreselectionTo4lmass-v1/*",
+        "plot_group" : "HZZ-signal"
+    },
+    "ZHToZZ_4L" : {
+        "file_path" : "/data/uhussain/ZZ2019AnalysisJobs_2019-01-17/LooseLeptons/2019-01-17-ZHToZZ_4L-ZZ4l2019-loosePreselectionTo4lmass-v1/*",
+        "plot_group" : "HZZ-signal"
+    }
+}

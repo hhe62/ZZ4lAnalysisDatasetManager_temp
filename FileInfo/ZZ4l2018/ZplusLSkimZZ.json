@@ -1,0 +1,150 @@
+{
+    "data_DoubleEG_Run2017B-17Nov2017-v1" : {
+        "file_path" : "/data/uhussain/ZplusLAnalysis_2018-12-16/ZplusLSkim/2018-12-16-DoubleEG_Run2017B-17Nov2017-v1-ZplusL2018-ZplusLBaseTo4lVeto-v1/*",
+        "plot_group" : "data-2017"
+    },
+    "data_DoubleEG_Run2017C-17Nov2017-v1" : {
+        "file_path" : "/data/uhussain/ZplusLAnalysis_2018-12-16/ZplusLSkim/2018-12-16-DoubleEG_Run2017C-17Nov2017-v1-ZplusL2018-ZplusLBaseTo4lVeto-v1/*",
+        "plot_group" : "data-2017"
+    },
+    "data_DoubleEG_Run2017D-17Nov2017-v1" : {
+        "file_path" : "/data/uhussain/ZplusLAnalysis_2018-12-16/ZplusLSkim/2018-12-16-DoubleEG_Run2017D-17Nov2017-v1-ZplusL2018-ZplusLBaseTo4lVeto-v1/*",
+        "plot_group" : "data-2017"
+    },
+    "data_DoubleEG_Run2017E-17Nov2017-v1" : {
+        "file_path" : "/data/uhussain/ZplusLAnalysis_2018-12-16/ZplusLSkim/2018-12-16-DoubleEG_Run2017E-17Nov2017-v1-ZplusL2018-ZplusLBaseTo4lVeto-v1/*",
+        "plot_group" : "data-2017"
+    },
+    "data_DoubleEG_Run2017F-17Nov2017-v1" : {
+        "file_path" : "/data/uhussain/ZplusLAnalysis_2018-12-16/ZplusLSkim/2018-12-16-DoubleEG_Run2017F-17Nov2017-v1-ZplusL2018-ZplusLBaseTo4lVeto-v1/*",
+        "plot_group" : "data-2017"
+    },
+    "data_DoubleMuon_Run2017B-17Nov2017-v1" : {
+            "file_path" : "/data/uhussain/ZplusLAnalysis_2018-12-16/ZplusLSkim/2018-12-16-DoubleMuon_Run2017B-17Nov2017-v1-ZplusL2018-ZplusLBaseTo4lVeto-v1/*",
+            "plot_group" : "data-2017"
+    },
+    "data_DoubleMuon_Run2017C-17Nov2017-v1" : {
+        "file_path" : "/data/uhussain/ZplusLAnalysis_2018-12-16/ZplusLSkim/2018-12-16-DoubleMuon_Run2017C-17Nov2017-v1-ZplusL2018-ZplusLBaseTo4lVeto-v1/*",
+        "plot_group" : "data-2017"
+    },
+    "data_DoubleMuon_Run2017D-17Nov2017-v1" : {
+        "file_path" : "/data/uhussain/ZplusLAnalysis_2018-12-16/ZplusLSkim/2018-12-16-DoubleMuon_Run2017D-17Nov2017-v1-ZplusL2018-ZplusLBaseTo4lVeto-v1/*",
+        "plot_group" : "data-2017"
+    },
+    "data_DoubleMuon_Run2017E-17Nov2017-v1" : {
+        "file_path" : "/data/uhussain/ZplusLAnalysis_2018-12-16/ZplusLSkim/2018-12-16-DoubleMuon_Run2017E-17Nov2017-v1-ZplusL2018-ZplusLBaseTo4lVeto-v1/*",
+        "plot_group" : "data-2017"
+    },
+    "data_DoubleMuon_Run2017F-17Nov2017-v1" : {
+        "file_path" : "/data/uhussain/ZplusLAnalysis_2018-12-16/ZplusLSkim/2018-12-16-DoubleMuon_Run2017F-17Nov2017-v1-ZplusL2018-ZplusLBaseTo4lVeto-v1/*",
+        "plot_group" : "data-2017"
+    },
+    "data_MuonEG_Run2017B-17Nov2017-v1" : {
+        "file_path" : "/data/uhussain/ZplusLAnalysis_2018-12-16/ZplusLSkim/2018-12-16-MuonEG_Run2017B-17Nov2017-v1-ZplusL2018-ZplusLBaseTo4lVeto-v1/*",
+        "plot_group" : "data-2017"
+    },
+    "data_MuonEG_Run2017C-17Nov2017-v1" : {
+        "file_path" : "/data/uhussain/ZplusLAnalysis_2018-12-16/ZplusLSkim/2018-12-16-MuonEG_Run2017C-17Nov2017-v1-ZplusL2018-ZplusLBaseTo4lVeto-v1/*",
+        "plot_group" : "data-2017"
+    },
+    "data_MuonEG_Run2017D-17Nov2017-v1" : {
+        "file_path" : "/data/uhussain/ZplusLAnalysis_2018-12-16/ZplusLSkim/2018-12-16-MuonEG_Run2017D-17Nov2017-v1-ZplusL2018-ZplusLBaseTo4lVeto-v1/*",
+        "plot_group" : "data-2017"
+    },
+    "data_MuonEG_Run2017E-17Nov2017-v1" : {
+        "file_path" : "/data/uhussain/ZplusLAnalysis_2018-12-16/ZplusLSkim/2018-12-16-MuonEG_Run2017E-17Nov2017-v1-ZplusL2018-ZplusLBaseTo4lVeto-v1/*",
+        "plot_group" : "data-2017"
+    },
+    "data_MuonEG_Run2017F-17Nov2017-v1" : {
+        "file_path" : "/data/uhussain/ZplusLAnalysis_2018-12-16/ZplusLSkim/2018-12-16-MuonEG_Run2017F-17Nov2017-v1-ZplusL2018-ZplusLBaseTo4lVeto-v1/*",
+        "plot_group" : "data-2017"
+    },
+    "data_SingleMuon_Run2017B-17Nov2017-v1" : {
+        "file_path" : "/data/uhussain/ZplusLAnalysis_2018-12-16/ZplusLSkim/2018-12-16-SingleMuon_Run2017B-17Nov2017-v1-ZplusL2018-ZplusLBaseTo4lVeto-v1/*",
+        "plot_group" : "data-2017"
+    },
+    "data_SingleMuon_Run2017C-17Nov2017-v1" : {
+        "file_path" : "/data/uhussain/ZplusLAnalysis_2018-12-16/ZplusLSkim/2018-12-16-SingleMuon_Run2017C-17Nov2017-v1-ZplusL2018-ZplusLBaseTo4lVeto-v1/*",
+        "plot_group" : "data-2017"
+    },
+    "data_SingleMuon_Run2017D-17Nov2017-v1" : {
+        "file_path" : "/data/uhussain/ZplusLAnalysis_2018-12-16/ZplusLSkim/2018-12-16-SingleMuon_Run2017D-17Nov2017-v1-ZplusL2018-ZplusLBaseTo4lVeto-v1/*",
+        "plot_group" : "data-2017"
+    },
+    "data_SingleMuon_Run2017E-17Nov2017-v1" : {
+        "file_path" : "/data/uhussain/ZplusLAnalysis_2018-12-16/ZplusLSkim/2018-12-16-SingleMuon_Run2017E-17Nov2017-v1-ZplusL2018-ZplusLBaseTo4lVeto-v1/*",
+        "plot_group" : "data-2017"
+    },
+    "data_SingleMuon_Run2017F-17Nov2017-v1" : {
+        "file_path" : "/data/uhussain/ZplusLAnalysis_2018-12-16/ZplusLSkim/2018-12-16-SingleMuon_Run2017F-17Nov2017-v1-ZplusL2018-ZplusLBaseTo4lVeto-v1/*",
+        "plot_group" : "data-2017"
+    },
+    "data_SingleElectron_Run2017B-17Nov2017-v1" : {
+        "file_path" : "/data/uhussain/ZplusLAnalysis_2018-12-16/ZplusLSkim/2018-12-16-SingleElectron_Run2017B-17Nov2017-v1-ZplusL2018-ZplusLBaseTo4lVeto-v1/*",
+        "plot_group" : "data-2017"
+    },
+    "data_SingleElectron_Run2017C-17Nov2017-v1" : {
+        "file_path" : "/data/uhussain/ZplusLAnalysis_2018-12-16/ZplusLSkim/2018-12-16-SingleElectron_Run2017C-17Nov2017-v1-ZplusL2018-ZplusLBaseTo4lVeto-v1/*",
+        "plot_group" : "data-2017"
+    },
+    "data_SingleElectron_Run2017D-17Nov2017-v1" : {
+        "file_path" : "/data/uhussain/ZplusLAnalysis_2018-12-16/ZplusLSkim/2018-12-16-SingleElectron_Run2017D-17Nov2017-v1-ZplusL2018-ZplusLBaseTo4lVeto-v1/*",
+        "plot_group" : "data-2017"
+    },
+    "data_SingleElectron_Run2017E-17Nov2017-v1" : {
+        "file_path" : "/data/uhussain/ZplusLAnalysis_2018-12-16/ZplusLSkim/2018-12-16-SingleElectron_Run2017E-17Nov2017-v1-ZplusL2018-ZplusLBaseTo4lVeto-v1/*",
+        "plot_group" : "data-2017"
+    },
+    "data_SingleElectron_Run2017F-17Nov2017-v1" : {
+        "file_path" : "/data/uhussain/ZplusLAnalysis_2018-12-16/ZplusLSkim/2018-12-16-SingleElectron_Run2017F-17Nov2017-v1-ZplusL2018-ZplusLBaseTo4lVeto-v1/*",
+        "plot_group" : "data-2017"
+    },
+    "wz3lnu-mg5amcnlo" : {
+        "file_path" : "/data/uhussain/ZplusLAnalysis_2018-12-16/ZplusLSkim/2018-12-16-wz3lnu-mg5amcnlo-ZplusL2018-ZplusLBaseTo4lVeto-v1/*",
+        "plot_group" : "wz3lnu-amcnlo"
+    },
+    "zz4l-powheg" : {
+        "file_path" : "/data/uhussain/ZplusLAnalysis_2018-12-16/ZplusLSkim/2018-12-16-zz4l-powheg-ZplusL2018-ZplusLBaseTo4lVeto-v1/*",
+        "plot_group" : "qqZZ-powheg"
+    },
+    "tt-jets" : {
+        "file_path" : "/data/uhussain/ZplusLAnalysis_2018-12-16/ZplusLSkim/2018-12-16-tt-jets-ZplusL2018-ZplusLBaseTo4lVeto-v1/*",
+         "plot_group" : "top"
+    },
+    "tt-lep" : {
+        "file_path" : "/data/uhussain/ZplusLAnalysis_2018-12-16/ZplusLSkim/2018-12-16-tt-lep-ZplusL2018-ZplusLBaseTo4lVeto-v1/*",
+        "plot_group" : "top"
+    },
+    "tt-lep_PSweights" : {
+        "file_path" : "/data/uhussain/ZplusLAnalysis_2018-12-16/ZplusLSkim/2018-12-16-tt-lep_PSweights-ZplusL2018-ZplusLBaseTo4lVeto-v1/*",
+        "plot_group" : "top"
+    },
+    "DYJetsToLL_M10to50" : {
+        "file_path" : "/data/uhussain/ZplusLAnalysis_2018-12-16/ZplusLSkim/2018-12-16-DYJetsToLL_M10to50-ZplusL2018-ZplusLBaseTo4lVeto-v1/*",
+        "plot_group" : "dy-jets" 
+    },
+    "DYJetsToLLM-50" : {
+        "file_path" : "/data/uhussain/ZplusLAnalysis_2018-12-16/ZplusLSkim/2018-12-16-DYJetsToLLM-50-ZplusL2018-ZplusLBaseTo4lVeto-v1/*",
+        "plot_group" : "dy-jets" 
+    },
+    "ggZZ4e" : {
+        "file_path" : "/data/uhussain/ZplusLAnalysis_2018-12-16/ZplusLSkim/2018-12-16-ggZZ4e-ZplusL2018-ZplusLBaseTo4lVeto-v1/*",
+        "plot_group" : "ggZZ"
+    },
+    "ggZZ4m" : {
+        "file_path" : "/data/uhussain/ZplusLAnalysis_2018-12-16/ZplusLSkim/2018-12-16-ggZZ4m-ZplusL2018-ZplusLBaseTo4lVeto-v1/*",
+        "plot_group" : "ggZZ"
+    },
+    "ggZZ2e2mu" : {
+        "file_path" : "/data/uhussain/ZplusLAnalysis_2018-12-16/ZplusLSkim/2018-12-16-ggZZ2e2mu-ZplusL2018-ZplusLBaseTo4lVeto-v1/*",
+        "plot_group" : "ggZZ"
+    },
+    "ggZZ2e2tau" : {
+        "file_path" : "/data/uhussain/ZplusLAnalysis_2018-12-16/ZplusLSkim/2018-12-16-ggZZ2e2tau-ZplusL2018-ZplusLBaseTo4lVeto-v1/*",
+        "plot_group" : "ggZZ"
+    },
+    "ggZZ2mu2tau" : {
+        "file_path" : "/data/uhussain/ZplusLAnalysis_2018-12-16/ZplusLSkim/2018-12-16-ggZZ2mu2tau-ZplusL2018-ZplusLBaseTo4lVeto-v1/*",
+        "plot_group" : "ggZZ"
+    }
+}

@@ -1,0 +1,106 @@
+{
+    "data_DoubleEG_Run2017B-31Mar2018-v1" : {
+        "luminosity" : 1,
+        "DAS Name" : "DoubleEG/Run2017B-31Mar2018-v1/MINIAOD"
+    },
+    "data_DoubleEG_Run2017C-31Mar2018-v1" : {
+        "luminosity" : 1,
+        "DAS Name" : "DoubleEG/Run2017C-31Mar2018-v1/MINIAOD"
+    },
+    "data_DoubleEG_Run2017D-31Mar2018-v1" : {
+        "luminosity" : 1, 
+        "DAS Name" : "DoubleEG/Run2017D-31Mar2018-v1/MINIAOD"
+    },
+    "data_DoubleEG_Run2017E-31Mar2018-v1" : {
+        "luminosity" : 1, 
+        "DAS Name" : "DoubleEG/Run2017E-31Mar2018-v1/MINIAOD"
+    },
+    "data_DoubleEG_Run2017F-31Mar2018-v1" : {
+        "luminosity" : 1, 
+        "DAS Name" : "DoubleEG/Run2017F-31Mar2018-v1/MINIAOD"
+    },
+    "data_DoubleMuon_Run2017B-31Mar2018-v1" : {
+        "luminosity" : 1,
+        "DAS Name" : "DoubleMuon/Run2017B-31Mar2018-v1/MINIAOD"
+    },
+    "data_DoubleMuon_Run2017C-31Mar2018-v1" : {
+        "luminosity" : 1,
+        "DAS Name" : "DoubleMuon/Run2017C-31Mar2018-v1/MINIAOD"
+    },
+    "data_DoubleMuon_Run2017D-31Mar2018-v1" : {
+        "luminosity" : 1,
+        "DAS Name" : "DoubleMuon/Run2017D-31Mar2018-v1/MINIAOD"
+    },
+    "data_DoubleMuon_Run2017E-31Mar2018-v1" : {
+        "luminosity" : 1, 
+        "DAS Name" : "DoubleMuon/Run2017E-31Mar2018-v1/MINIAOD"
+    },
+    "data_DoubleMuon_Run2017F-31Mar2018-v1" : {
+        "luminosity" : 1, 
+        "DAS Name" : "DoubleMuon/Run2017F-31Mar2018-v1/MINIAOD"
+    },
+    "data_MuonEG_Run2017B-31Mar2018-v1" : {
+        "luminosity" : 1,
+        "DAS Name" : "MuonEG/Run2017B-31Mar2018-v1/MINIAOD"
+    },
+    "data_MuonEG_Run2017C-31Mar2018-v1" : {
+        "luminosity" : 1,
+        "DAS Name" : "MuonEG/Run2017C-31Mar2018-v1/MINIAOD"
+    },
+    "data_MuonEG_Run2017D-31Mar2018-v1" : {
+        "luminosity" : 1,
+        "DAS Name" : "MuonEG/Run2017D-31Mar2018-v1/MINIAOD"
+    },
+    "data_MuonEG_Run2017E-31Mar2018-v1" : {
+        "luminosity" : 1, 
+        "DAS Name" : "MuonEG/Run2017E-31Mar2018-v1/MINIAOD"
+    },
+    "data_MuonEG_Run2017F-31Mar2018-v1" : {
+        "luminosity" : 1, 
+        "DAS Name" : "MuonEG/Run2017F-31Mar2018-v1/MINIAOD"
+    },
+    "data_SingleMuon_Run2017B-31Mar2018-v1" : {
+        "luminosity" : 1, 
+        "DAS Name" : "SingleMuon/Run2017B-31Mar2018-v1/MINIAOD"
+    },
+    "data_SingleMuon_Run2017C-31Mar2018-v1" : {
+        "luminosity" : 1,
+        "DAS Name" : "SingleMuon/Run2017C-31Mar2018-v1/MINIAOD"
+    },
+    "data_SingleMuon_Run2017D-31Mar2018-v1" : {
+        "luminosity" : 1,
+        "DAS Name" : "SingleMuon/Run2017D-31Mar2018-v1/MINIAOD"
+    },
+    "data_SingleMuon_Run2017E-31Mar2018-v1" : {
+        "luminosity" : 1, 
+        "DAS Name" : "SingleMuon/Run2017E-31Mar2018-v1/MINIAOD"
+    },
+    "data_SingleMuon_Run2017F-31Mar2018-v1" : {
+        "luminosity" : 1, 
+        "DAS Name" : "SingleMuon/Run2017F-31Mar2018-v1/MINIAOD"
+    },
+    "data_SingleElectron_Run2017B-31Mar2018-v1" : {
+        "luminosity" : 1,
+        "DAS Name" : "SingleElectron/Run2017B-31Mar2018-v1/MINIAOD"
+    },
+    "data_SingleElectron_Run2017C-31Mar2018-v1" : {
+        "luminosity" : 1,
+        "DAS Name" : "SingleElectron/Run2017C-31Mar2018-v1/MINIAOD"
+    },
+    "data_SingleElectron_Run2017D-31Mar2018-v1" : {
+        "luminosity" : 1,
+        "DAS Name" : "SingleElectron/Run2017D-31Mar2018-v1/MINIAOD"
+    },
+    "data_SingleElectron_Run2017E-31Mar2018-v1" : {
+        "luminosity" : 1, 
+        "DAS Name" : "SingleElectron/Run2017E-31Mar2018-v1/MINIAOD"
+    },
+    "data_SingleElectron_Run2017F-31Mar2018-v1" : {
+        "luminosity" : 1, 
+        "DAS Name" : "SingleElectron/Run2017F-31Mar2018-v1/MINIAOD"
+    },
+    "DataEWKCorrected" : {
+        "luminosity" : 1, 
+        "DAS Name" : "Includes all previous"
+    }
+}

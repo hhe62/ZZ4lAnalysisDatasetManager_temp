@@ -1,0 +1,102 @@
+{
+    "data_DoubleEG_Run2017B-17Nov2017-v1" : {
+        "file_path" : "/store/user/uhussain/UWVVNtuples_16Aug2018/DoubleEG/Run2017B-17Nov2017-v1/*/*/*.root",
+        "plot_group" : "data-2017"
+    },
+    "data_DoubleEG_Run2017C-17Nov2017-v1" : {
+        "file_path" : "/store/user/uhussain/UWVVNtuples_16Aug2018/DoubleEG/Run2017C-17Nov2017-v1/*/*/*.root",
+        "plot_group" : "data-2017"
+    },
+    "data_DoubleEG_Run2017D-17Nov2017-v1" : {
+        "file_path" : "/store/user/uhussain/UWVVNtuples_16Aug2018/DoubleEG/Run2017D-17Nov2017-v1/*/*/*.root",
+        "plot_group" : "data-2017"
+    },
+    "data_DoubleEG_Run2017E-17Nov2017-v1" : {
+        "file_path" : "/store/user/uhussain/UWVVNtuples_16Aug2018/DoubleEG/Run2017E-17Nov2017-v1/*/*/*.root",
+        "plot_group" : "data-2017"
+    },
+    "data_DoubleEG_Run2017F-17Nov2017-v1" : {
+        "file_path" : "/store/user/uhussain/UWVVNtuples_16Aug2018/DoubleEG/Run2017F-17Nov2017-v1/*/*/*.root",
+        "plot_group" : "data-2017"
+    },
+    "data_DoubleMuon_Run2017B-17Nov2017-v1" : {
+            "file_path" : "/store/user/uhussain/UWVVNtuples_16Aug2018/DoubleMuon/Run2017B-17Nov2017-v1/*/*/*.root",
+            "plot_group" : "data-2017"
+    },
+    "data_DoubleMuon_Run2017C-17Nov2017-v1" : {
+        "file_path" : "/store/user/uhussain/UWVVNtuples_16Aug2018/DoubleMuon/Run2017C-17Nov2017-v1/*/*/*.root",
+        "plot_group" : "data-2017"
+    },
+    "data_DoubleMuon_Run2017D-17Nov2017-v1" : {
+        "file_path" : "/store/user/uhussain/UWVVNtuples_16Aug2018/DoubleMuon/Run2017D-17Nov2017-v1/*/*/*.root",
+        "plot_group" : "data-2017"
+    },
+    "data_DoubleMuon_Run2017E-17Nov2017-v1" : {
+        "file_path" : "/store/user/uhussain/UWVVNtuples_16Aug2018/DoubleMuon/Run2017E-17Nov2017-v1/*/*/*.root",
+        "plot_group" : "data-2017"
+    },
+    "data_DoubleMuon_Run2017F-17Nov2017-v1" : {
+        "file_path" : "/store/user/uhussain/UWVVNtuples_16Aug2018/DoubleMuon/Run2017F-17Nov2017-v1/*/*/*.root",
+        "plot_group" : "data-2017"
+    },
+    "data_MuonEG_Run2017B-17Nov2017-v1" : {
+        "file_path" : "/store/user/uhussain/UWVVNtuples_16Aug2018/MuonEG/Run2017B-17Nov2017-v1/*/*/*.root",
+        "plot_group" : "data-2017"
+    },
+    "data_MuonEG_Run2017C-17Nov2017-v1" : {
+        "file_path" : "/store/user/uhussain/UWVVNtuples_16Aug2018/MuonEG/Run2017C-17Nov2017-v1/*/*/*.root",
+        "plot_group" : "data-2017"
+    },
+    "data_MuonEG_Run2017D-17Nov2017-v1" : {
+        "file_path" : "/store/user/uhussain/UWVVNtuples_16Aug2018/MuonEG/Run2017D-17Nov2017-v1/*/*/*.root",
+        "plot_group" : "data-2017"
+    },
+    "data_MuonEG_Run2017E-17Nov2017-v1" : {
+        "file_path" : "/store/user/uhussain/UWVVNtuples_16Aug2018/MuonEG/Run2017E-17Nov2017-v1/*/*/*.root",
+        "plot_group" : "data-2017"
+    },
+    "data_MuonEG_Run2017F-17Nov2017-v1" : {
+        "file_path" : "/store/user/uhussain/UWVVNtuples_16Aug2018/MuonEG/Run2017F-17Nov2017-v1/*/*/*.root",
+        "plot_group" : "data-2017"
+    },
+    "data_SingleMuon_Run2017B-17Nov2017-v1" : {
+        "file_path" : "/store/user/uhussain/UWVVNtuples_16Aug2018/SingleMuon/Run2017B-17Nov2017-v1/*/*/*.root",
+        "plot_group" : "data-2017"
+    },
+    "data_SingleMuon_Run2017C-17Nov2017-v1" : {
+        "file_path" : "/store/user/uhussain/UWVVNtuples_16Aug2018/SingleMuon/Run2017C-17Nov2017-v1/*/*/*.root",
+        "plot_group" : "data-2017"
+    },
+    "data_SingleMuon_Run2017D-17Nov2017-v1" : {
+        "file_path" : "/store/user/uhussain/UWVVNtuples_16Aug2018/SingleMuon/Run2017D-17Nov2017-v1/*/*/*.root",
+        "plot_group" : "data-2017"
+    },
+    "data_SingleMuon_Run2017E-17Nov2017-v1" : {
+        "file_path" : "/store/user/uhussain/UWVVNtuples_16Aug2018/SingleMuon/Run2017E-17Nov2017-v1/*/*/*.root",
+        "plot_group" : "data-2017"
+    },
+    "data_SingleMuon_Run2017F-17Nov2017-v1" : {
+        "file_path" : "/store/user/uhussain/UWVVNtuples_16Aug2018/SingleMuon/Run2017F-17Nov2017-v1/*/*/*.root",
+        "plot_group" : "data-2017"
+    },
+    "data_SingleElectron_Run2017B-17Nov2017-v1" : {
+        "file_path" : "/store/user/uhussain//UWVVNtuples_16Aug2018/SingleElectron/Run2017B-17Nov2017-v1/*/*/*.root",
+        "plot_group" : "data-2017"
+    },
+    "data_SingleElectron_Run2017C-17Nov2017-v1" : {
+        "file_path" : "/store/user/uhussain/UWVVNtuples_16Aug2018/SingleElectron/Run2017C-17Nov2017-v1/*/*/*.root",
+        "plot_group" : "data-2017"
+    },
+    "data_SingleElectron_Run2017D-17Nov2017-v1" : {
+        "file_path" : "/store/user/uhussain/UWVVNtuples_16Aug2018/SingleElectron/Run2017D-17Nov2017-v1/*/*/*.root",
+        "plot_group" : "data-2017"
+    },
+    "data_SingleElectron_Run2017E-17Nov2017-v1" : {
+        "file_path" : "/store/user/uhussain/UWVVNtuples_16Aug2018/SingleElectron/Run2017E-17Nov2017-v1/*/*/*.root",
+        "plot_group" : "data-2017"
+    },
+    "data_SingleElectron_Run2017F-17Nov2017-v1" : {
+        "file_path" : "/store/user/uhussain/UWVVNtuples_16Aug2018/SingleElectron/Run2017F-17Nov2017-v1/*/*/*.root",
+        "plot_group" : "data-2017"
+    }
+}

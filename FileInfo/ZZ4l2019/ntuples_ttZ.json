@@ -1,0 +1,6 @@
+{
+    "ttZJets" : {
+        "file_path" : "/store/user/uhussain/UWVVNtuples_09Mar2019/ttZJets_TuneCP5_13TeV_madgraphMLM_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15_ext1-v2/*/*/*.root",
+        "plot_group" : "VVV"
+    }
+}
