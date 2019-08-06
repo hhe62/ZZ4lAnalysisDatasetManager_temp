@@ -131,6 +131,18 @@
         "file_path" : "/data/uhussain/ZZSkimmedFiles/ZZ2018Analysis_2019-02-25/LooseLeptons/2019-02-22-wz3lnu-mg5amcnlo-ZZ4l2018-loosePreselectionTo4lmass-v1/*",
         "plot_group" : "wz3lnu-amcnlo"
     },
+    "tt-jets" : {
+        "file_path" : "/data/uhussain/ZZSkimmedFiles/ZZ2018Analysis_2019-02-25/LooseLeptons/2019-02-22-tt-jets-ZZ4l2018-loosePreselectionTo4lmass-v1/*",
+        "plot_group" : "top"
+    },
+    "DYJetsToLL_M10to50" : {
+        "file_path" : "/data/uhussain/ZZSkimmedFiles/ZZ2018Analysis_2019-02-25/LooseLeptons/2019-02-22-DYJetsToLL_M10to50-ZZ4l2018-loosePreselectionTo4lmass-v1/*",
+        "plot_group" : "dy-jets" 
+    },
+    "DYJetsToLLM-50" : {
+        "file_path" : "/data/uhussain/ZZSkimmedFiles/ZZ2018Analysis_2019-02-25/LooseLeptons/2019-02-22-DYJetsToLLM-50-ZZ4l2018-loosePreselectionTo4lmass-v1/*",
+        "plot_group" : "dy-jets" 
+    },
     "ZZGJetsTo4L2Nu" : {
         "file_path" : "/data/uhussain/ZZSkimmedFiles/ZZ2018Analysis_2019-02-25/LooseLeptons/2019-02-24-ZZGJetsTo4L2Nu-ZZ4l2018-loosePreselectionTo4lmass-v1/*",
         "plot_group" : "VVV"
