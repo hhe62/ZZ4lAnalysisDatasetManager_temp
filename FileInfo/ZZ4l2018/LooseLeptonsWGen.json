@@ -127,6 +127,10 @@
         "file_path" : "/data/uhussain/ZZSkimmedFiles/ZZ2018Analysis_2019-02-25/LooseLeptons/2019-02-22-data_SingleElectron_Run2017F-31Mar2018-v1-ZZ4l2018-loosePreselectionTo4lmass-v1/*",
         "plot_group" : "data-2017"
     },
+    "wz3lnu-mg5amcnlo" : {
+        "file_path" : "/data/uhussain/ZZSkimmedFiles/ZZ2018Analysis_2019-02-25/LooseLeptons/2019-02-22-wz3lnu-mg5amcnlo-ZZ4l2018-loosePreselectionTo4lmass-v1/*",
+        "plot_group" : "wz3lnu-amcnlo"
+    },
     "ZZGJetsTo4L2Nu" : {
         "file_path" : "/data/uhussain/ZZSkimmedFiles/ZZ2018Analysis_2019-02-25/LooseLeptons/2019-02-24-ZZGJetsTo4L2Nu-ZZ4l2018-loosePreselectionTo4lmass-v1/*",
         "plot_group" : "VVV"
