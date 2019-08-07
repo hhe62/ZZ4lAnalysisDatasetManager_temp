@@ -614,6 +614,30 @@
             "GetYaxis().SetTitleOffset": 1.2  
         }
     },
+   "CosTheta": {  
+        "Initialize": {  
+            "type": "TH1D",
+            "nbins": 22,
+            "xmin": -1.2,
+            "xmax": 1.2
+        },
+        "Attributes": {  
+            "GetXaxis().SetTitle": "Cos #theta",  
+            "GetYaxis().SetTitleOffset": 1.2  
+        }
+    },
+   "GenCosTheta": {  
+        "Initialize": {  
+            "type": "TH1D",
+            "nbins": 22,
+            "xmin": -1.2,
+            "xmax": 1.2
+        },
+        "Attributes": {  
+            "GetXaxis().SetTitle": "Gen Cos #theta",  
+            "GetYaxis().SetTitleOffset": 1.2  
+        }
+    },
    "GenZPt": {  
         "Initialize": {  
             "type": "TH1D",
