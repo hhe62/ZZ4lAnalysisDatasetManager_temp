@@ -402,6 +402,71 @@
             "GetYaxis().SetTitleOffset": 1.2  
         }
     },
+   "GenjetPt": {  
+        "Initialize": {  
+            "type": "TH1D",
+            "nbins": 20,
+            "xmin": 0,
+            "xmax": 200
+        },
+        "Attributes": {  
+            "GetXaxis().SetTitle": "Gen Jet p_{T} [GeV]",  
+            "GetYaxis().SetTitle": "Events / 10 GeV",
+            "GetYaxis().SetTitleOffset": 1.2  
+        }
+    },
+   "jetPt[0]": {  
+        "Initialize": {  
+            "type": "TH1D",
+            "nbins": 10,
+            "xmin": 30,
+            "xmax": 430
+        },
+        "Attributes": {  
+            "GetXaxis().SetTitle": "Leading Jet p_{T} [GeV]",  
+            "GetYaxis().SetTitle": "Events / 10 GeV",
+            "GetYaxis().SetTitleOffset": 1.2  
+        }
+    },
+    "jetPt[0]50": {  
+        "Initialize": {  
+            "type": "TH1D",
+            "nbins": 10,
+            "xmin": 30,
+            "xmax": 430
+        },
+        "Attributes": {  
+            "GetXaxis().SetTitle": "Leading Jet p_{T} with 50GeV Selection[GeV]",  
+            "GetYaxis().SetTitle": "Events / 10 GeV",
+            "GetYaxis().SetTitleOffset": 1.2  
+        }
+    },
+    "GennJets": {  
+        "Initialize": {  
+            "type": "TH1D",
+            "nbins": 20,
+            "xmin": 0,
+            "xmax": 20
+        },
+        "Attributes": {  
+            "GetXaxis().SetTitle": "Gen nJets",  
+            "GetYaxis().SetTitle": "Events",
+            "GetYaxis().SetTitleOffset": 1.2  
+        }
+    },
+      "nJets": {  
+        "Initialize": {  
+            "type": "TH1D",
+            "nbins":6,
+            "xmin": 0,
+            "xmax": 6
+        },
+        "Attributes": {  
+            "GetXaxis().SetTitle": "Number of Jets with p_{T} > 30GeV",  
+            "GetYaxis().SetTitle": "Events",
+            "GetYaxis().SetTitleOffset": 1.2  
+        }
+    },
    "GenZ1lep2_Eta": {  
         "Initialize": {  
             "type": "TH1D",
@@ -411,6 +476,45 @@
         },
         "Attributes": {  
             "GetXaxis().SetTitle": "Geb Lepton 2 #eta",  
+            "GetYaxis().SetTitle": "Events",
+            "GetYaxis().SetTitleOffset": 1.2
+        }
+    },
+   "GenjetEta": {  
+        "Initialize": {  
+            "type": "TH1D",
+            "nbins": 20,
+            "xmin": -3.5,
+            "xmax": 3.5
+        },
+        "Attributes": {  
+            "GetXaxis().SetTitle": "Gen Jet eta",  
+            "GetYaxis().SetTitle": "Events",
+            "GetYaxis().SetTitleOffset": 1.2
+        }
+    },
+    "jetEta[0]": {  
+        "Initialize": {  
+            "type": "TH1D",
+            "nbins": 15,
+            "xmin": -4.7,
+            "xmax": 4.7
+        },
+        "Attributes": {  
+            "GetXaxis().SetTitle": "Eta of Jet with largest pt",  
+            "GetYaxis().SetTitle": "Events",
+            "GetYaxis().SetTitleOffset": 1.2
+        }
+    },
+    "jetEta[0]50": {  
+        "Initialize": {  
+            "type": "TH1D",
+            "nbins": 15,
+            "xmin": -4.7,
+            "xmax": 4.7
+        },
+        "Attributes": {  
+            "GetXaxis().SetTitle": "Eta of Jet with largest pt(50GeV Selection)",  
             "GetYaxis().SetTitle": "Events",
             "GetYaxis().SetTitleOffset": 1.2
         }
@@ -1046,6 +1150,30 @@
         "Attributes": {  
             "GetXaxis().SetTitle": "Z_{2,l2} PdgID",  
             "GetYaxis().SetTitle": "Events"
+        }
+    },
+    "CosTheta": {  
+        "Initialize": {  
+            "type": "TH1D",
+            "nbins": 22,
+            "xmin": -1.2,
+            "xmax": 1.2
+        },
+        "Attributes": {  
+            "GetXaxis().SetTitle": "Cos #theta",  
+            "GetYaxis().SetTitleOffset": 1.2  
+        }
+    },
+   "GenCosTheta": {  
+        "Initialize": {  
+            "type": "TH1D",
+            "nbins": 22,
+            "xmin": -1.2,
+            "xmax": 1.2
+        },
+        "Attributes": {  
+            "GetXaxis().SetTitle": "Gen Cos #theta",  
+            "GetYaxis().SetTitleOffset": 1.2  
         }
     },
     "YieldByChannel": {
