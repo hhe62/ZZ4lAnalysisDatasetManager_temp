@@ -145,6 +145,19 @@
             "GetYaxis().SetTitleOffset": 1.2  
         }
     },
+    "jetPt[1]": {  
+        "Initialize": {  
+            "type": "TH1D",
+            "nbins": 12,
+            "xmin": 30,
+            "xmax": 210
+        },
+        "Attributes": {  
+            "GetXaxis().SetTitle": "Leading Jet p_{T} [GeV]",  
+            "GetYaxis().SetTitle": "Events / 10 GeV",
+            "GetYaxis().SetTitleOffset": 1.2  
+        }
+    },
     "jetPt[0]50": {  
         "Initialize": {  
             "type": "TH1D",
@@ -184,6 +197,81 @@
             "GetYaxis().SetTitleOffset": 1.2  
         }
     },
+      "mjj": {  
+
+        "Initialize": {  
+
+            "type": "TH1D",
+
+            "nbins": 250,
+
+            "xmin": 0,
+
+            "xmax": 2500
+
+        },
+
+        "Attributes": {  
+
+            "GetXaxis().SetTitle": "Di-jet Mass [GeV]",  
+
+            "GetYaxis().SetTitle": "Events / 100 GeV",
+
+            "GetYaxis().SetTitleOffset": 1.1
+
+        }
+
+    },
+      "deltaEtajjabs": {  
+
+        "Initialize": {  
+
+            "type": "TH1D",
+
+            "nbins": 28,
+
+            "xmin": 0,
+
+            "xmax": 7
+
+        },
+
+        "Attributes": {  
+
+            "GetXaxis().SetTitle": "#Delta#eta(j_{1}, j_{2})",  
+
+            "GetYaxis().SetTitle": "Events",
+
+            "GetYaxis().SetTitleOffset": 1.2
+
+        }
+
+    },
+      "zeppenfeld": {  
+
+        "Initialize": {  
+
+            "type": "TH1D",
+
+            "nbins": 14,
+
+            "xmin": -7,
+
+            "xmax": 7
+
+        },
+
+        "Attributes": {  
+
+            "GetXaxis().SetTitle": "Zeppenfeld",  
+
+            "GetYaxis().SetTitle": "Events",
+
+            "GetYaxis().SetTitleOffset": 1.2
+
+        }
+
+    },
      "GenjetEta": {  
         "Initialize": {  
             "type": "TH1D",
@@ -198,6 +286,19 @@
         }
     },
     "jetEta[0]": {  
+        "Initialize": {  
+            "type": "TH1D",
+            "nbins": 15,
+            "xmin": -4.7,
+            "xmax": 4.7
+        },
+        "Attributes": {  
+            "GetXaxis().SetTitle": "Eta of Jet with largest pt",  
+            "GetYaxis().SetTitle": "Events",
+            "GetYaxis().SetTitleOffset": 1.2
+        }
+    },
+    "jetEta[1]": {  
         "Initialize": {  
             "type": "TH1D",
             "nbins": 15,
